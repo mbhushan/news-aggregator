@@ -1,0 +1,41 @@
+<div class="overlay-bg close-overlay" ng-click="closeOverlay($event)"></div>
+
+<div class="overlay-content close-overlay" ng-click="closeOverlay($event)">
+    <div class="overlay-container login-overlay">
+        <button type="button" class="close close-overlay" ng-click="closeOverlay($event)" aria-hidden="true">×</button>
+        <div class="topic-heading">Login</div>
+        <hr/>
+        <div class="login-help">Choose an option to continue. We never post on your behalf.</div>
+
+        <div class="text-center">
+            <button type="submit" class="btn fb-signin signup-btn" onclick="fbSingin()">
+                <i class="fa fa-facebook"></i> Sign in wih Facebook
+            </button>
+            <br>
+            <button id="googleSigninButton" type="button" onclick="googleSingin()" class="btn google-signin signup-btn">
+                <i class="fa fa-google-plus"></i> Sign in wih Google+
+            </button>
+
+        </div>
+
+
+    </div>
+</div>
+
+<div id="fb-root"></div>
+<div id="login-modal" class="modal fade">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Signup Failed</h4>
+      </div>
+      <div class="modal-body">
+        <p>Something went wrong while trying to connect your account. Please try again.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

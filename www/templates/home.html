@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="nationStory">
+    <head>
+        <title>NationStory | Discover. Read. Discuss.</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="/static/img/favicon.ico">
+        {% include 'include.html' %}
+        <script>
+            if (!window.NationStory) {
+                window.NationStory = {};
+            }
+
+            NationStory.userSettings = {{ userSettings | tojson | safe }};
+            NationStory.appSettings = {{ appSettings | tojson | safe }};
+
+            NationStory.messages = [];
+            {%- with messages = get_flashed_messages(with_categories=true) -%}
+                {% if messages %}
+                    {% for category, message in messages %}
+                        NationStory.messages.push({'message': "{{message | safe}}", 'type' : "{{category}}"});
+
+                    {% endfor %}
+                {% endif %}
+            {%- endwith %}
+
+        </script>
+    </head>
+    <body ng-controller="MainController">
+        <base href="/">
+        <nav class="navbar navbar-ns navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-offset-1 col-md-10">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed visible-xs visible-sm" ng-click="showSmSidebar()" ng-class="{'sidebar-on':smSidebarVisible}">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="/"><img class="ns-logo" src="/static/img/logo.png"/></a>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="home-navbar-collapse-1" aria-expanded="false">
+                            <ul class="nav navbar-nav">
+                                <li ng-class="{active:isRouteActive('home')}"><a href="/"><i class="glyphicon glyphicon-home"></i> Home</a></li>
+                                <li><a class="menu-discover" href="/discover" target="_self"><i class="glyphicon glyphicon-globe animated"></i> Discover</a></li>
+                            </ul>
+                            <form class="navbar-form navbar-left search-bar" role="search">
+                                <div class="form-group">
+                                    <angucomplete id="members"
+                                          placeholder="Search NationStory"
+                                          pause="400"
+                                          selectedobject="searchTag"
+                                          url="/api/tag_search?q="
+                                          datafield="results"
+                                          titlefield="name"
+                                          inputclass="form-control search-bar-input"></angucomplete>
+                                </div>
+                            </form>
+                            <ul class="nav navbar-nav navbar-right">
+                                <li><a ng-click="showWrite()" ng-href="#"><i class="glyphicon glyphicon-edit"></i> Write</a></li>
+                                {% if loggedIn %}
+                                    <li class="btn-group">
+                                        <a class="loggedin dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                        {% if userSettings.username != '' %} {{userSettings.username}} {% else %} Settings {% endif %}<span class="caret"></span>
+                                        </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            {% if userSettings.username != '' %} <li><a class="sidebar-tag" href="/user/{{userSettings.username}}">View profile</a></li> {% endif %}
+                                            <li><a class="sidebar-tag" href="/profile">Edit profile</a></li>
+                                            <li><a href="/logout" target="_self">Logout</a></li>
+                                        </ul>
+                                    </li>
+
+                                {% else %}
+                                    <li><a ng-click="startLogin()" ng-href="#">Login</a></li>
+                                {% endif %}
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container-fluid main-content">
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="col-md-2 hidden-xs hidden-sm" ng-hide="sidebarHidden">
+                    <div class="sidebar-item">
+                        <div class="topic-heading pinned-topics"><i class="glyphicon glyphicon-map-marker"></i> Near You</div>
+                        <div class="state-img-container">
+                            <a target="_self" href="/discover/{{regionCode}}"><img class="state-img" ng-src="/static/img/states/{{regionCode}}.jpg"></a>
+                            <a target="_self" href="/discover/{{regionCode}}" class="btn btn-danger btn-xs btn-state-map"><i class="glyphicon glyphicon-fullscreen"></i></a>
+                        </div>
+                        <hr/>
+                        <ul class="nav nav-pills nav-stacked nav-topics">
+                            <li ng-repeat="locTopic in locationTopics" ng-class="{active:isActive(locTopic.name)}" ng-click="track('pinned', locTopic.name)">
+                                <a class="sidebar-tag" ng-href="/tag/{{ '{{' }}locTopic.name{{ '}}' }}">
+                                    {{ '{{' }}locTopic.name | removehypens {{ '}}' }}
+                                    <span ng-show="locTopic.count > 0" class="badge badge-warning pull-right">{{ '{{' }}locTopic.count{{ '}}' }}</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="sidebar-item">
+                        <div class="topic-heading pinned-topics"><i class="glyphicon glyphicon-ok"></i> Following
+                            <span ng-click="editPins($event)" class="edit-pins">(<a href="#">{{ '{{' }} editPinsText {{ '}}' }}</a>)</span>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="no-pinned-topic" ng-show="pinnedTopics.length==0">No followed tags</div>
+                        <ul class="nav nav-pills nav-stacked nav-topics">
+                            <li ng-repeat="pinnedTopic in pinnedTopics" ng-class="{active:isActive(pinnedTopic.name)}" ng-click="track('pinned', pinnedTopic.name)">
+                                <i ng-show="editMode" ng-click="removePin(pinnedTopic.name)" class="glyphicon glyphicon-remove pull-left unpin-tag"></i>
+                                <a class="sidebar-tag" ng-href="/tag/{{ '{{' }}pinnedTopic.name{{ '}}' }}">
+                                    {{ '{{' }}pinnedTopic.name | removehypens {{ '}}' }}
+                                    <span ng-show="pinnedTopic.count > 0" class="badge badge-warning pull-right">{{ '{{' }}pinnedTopic.count{{ '}}' }}</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="sidebar-item">
+                        <div class="topic-heading"><i class="glyphicon glyphicon-stats"></i> Trending
+                        </div>
+                        <ul class="nav nav-pills nav-stacked nav-topics">
+                          <li ng-repeat="topic in trendingTopics" ng-class="{active:isActive(topic.name)}" ng-click="track('trending', topic.name)">
+                              <a class="sidebar-tag" ng-href="/tag/{{ '{{' }}topic.name{{ '}}' }}">
+                              {{ '{{' }}topic.name | removehypens {{ '}}' }}
+                              <span ng-show="topic.count > 0" class="pull-right trending-count">{{ '{{' }}topic.count{{ '}}' }}</span>
+                            </a>
+                          </li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div ng-view ng-class="sidebarHidden ? 'col-md-10': 'col-md-6'"></div>
+                <div class="col-md-2 hidden-xs hidden-sm" ng-hide="sidebarHidden">
+                    <div class="sidebar-item" ng-show="videoCards.length > 0">
+                        <div class="topic-heading"><i class="glyphicon glyphicon-film"></i> Top Videos</div>
+                        <div id="carousel-trailer" class="carousel slide" data-ride="carousel" data-interval="false">
+                            <div class="carousel-inner" role="listbox">
+                                <div class="item" ng-repeat="videoCard in videoCards" ng-class="{active: $first}">
+                                    <img class="sidebar-trailer-thumbnail" ng-src="{{ '{{' }}videoCard.thumbnail{{ '}}' }}" ng-click="playTrailer(videoCard)">
+                                    <button class="btn btn-danger btn-trailer-play btn-sm" ng-click="playTrailer(videoCard)"><i class="glyphicon glyphicon-play"></i></button>
+                                    <div class="sidebar-trailer-name">{{ '{{' }}videoCard.name{{ '}}' }}</div>
+                                    <ul class="trailer-actions list-inline text-right">
+                                        <li><button class="btn btn-transparent-info btn-sm" data-target="#carousel-trailer" data-slide="next">Next</button></li>
+                                    </ul>
+                              </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="sidebar-item" ng-show="opinions.length > 0">
+                        <div class="topic-heading">Opinions</div>
+                        <div class="sidebar-opinions">
+                            <div class="sidebar-opinion-item" ng-repeat="opinion in opinions">
+                                <div class="sidebar-opinion-title"><a href="/opinion/{{ '{{' }}opinion._id {{ '}}' }}">{{ '{{' }}opinion.title{{ '}}' }}</a></div>
+                                <div class="sidebar-opinion-author"><i class="glyphicon glyphicon-user"></i> <a href="/user/{{ '{{' }}opinion.author_username{{ '}}' }}">{{ '{{' }}opinion.author_name{{ '}}' }}</a></div>
+                            </div>
+                            <a href="/opinions">More</a>
+                        </div>
+                    </div>
+                    <div class="sidebar-item">
+                        <div class="topic-heading">{{appSettings.weather.name}}</div>
+                        <div class="sidebar-weather">
+                            <img class="pull-left" ng-src="{{appSettings.weather.icon}}" />
+                            <div class="pull-left weather-desc">{{appSettings.weather.temperature}}&deg; C <br> {{appSettings.weather.description}}</div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                    <div ng-hide="relatedTopics.length==0" class="sidebar-item">
+                        <div ng-hide="relatedTopics.length==0" class="topic-heading related-topics">
+                            <i class="glyphicon glyphicon-link"></i> Related
+                        </div>
+                        <ul ng-hide="relatedTopics.length==0" class="nav nav-pills nav-stacked nav-topics">
+                            <li ng-repeat="relatedTopic in relatedTopics" ng-click="track('related', relatedTopic)">
+                                <a class="sidebar-tag" ng-href="/tag/{{ '{{' }}relatedTopic{{ '}}' }}">{{ '{{' }}relatedTopic | removehypens {{ '}}' }}</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="sidebar-item">
+                        <ul class="sidebar-misc">
+                            <li>&copy; 2015 NationStory</li>
+                            <li><a class="sidebar-tag" ng-href="/about">About</a></li>
+                            <li><a class="sidebar-tag" ng-href="/contact">Contact</a></li>
+                            <li><a class="sidebar-tag" ng-href="#" ng-click="sendFeedback()">Feedback</a></li>
+                        </ul>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="nav sidebar-nav hidden-md hidden-lg animated-fast" ng-class="smSidebarVisible ? 'slideInLeft': 'slideOutLeft'" id="sm-sidebar" ng-hide="smSidebarVisible === 0">
+                <div class="sidebar-item-sm">
+                    {{userSettings.username}}
+                </div>
+                <div class="sidebar-item-sm">
+                    <ul class="nav nav-pills nav-stacked nav-topics">
+                        <li><a class="menu-discover" href="/discover" target="_self"><i class="glyphicon glyphicon-globe animated"></i> Discover</a></li>
+                    </ul>
+                </div>
+                <div class="sidebar-item-sm">
+                    <div class="topic-heading pinned-topics"><i class="glyphicon glyphicon-pushpin"></i> Following
+                        <span ng-click="editPins($event)" class="edit-pins">(<a href="#">{{ '{{' }} editPinsText {{ '}}' }}</a>)</span>
+                    </div>
+                    <div class="no-pinned-topic" ng-show="pinnedTopics.length==0">No followed tags</div>
+                    <ul class="nav nav-pills nav-stacked nav-topics">
+                        <li ng-repeat="pinnedTopic in pinnedTopics" ng-class="{active:isActive(pinnedTopic.name)}" ng-click="track('pinned', pinnedTopic.name)">
+                            <i ng-show="editMode" ng-click="removePin(pinnedTopic.name)" class="glyphicon glyphicon-remove pull-left unpin-tag"></i>
+                            <a class="sidebar-tag" ng-href="/tag/{{ '{{' }}pinnedTopic.name{{ '}}' }}">
+                                {{ '{{' }}pinnedTopic.name | removehypens {{ '}}' }}
+                                <span ng-show="pinnedTopic.count > 0" class="badge badge-warning pull-right">{{ '{{' }}pinnedTopic.count{{ '}}' }}</span>
+                            </a>
+
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-item-sm">
+                    <div class="topic-heading"><i class="glyphicon glyphicon-stats"></i> Trending</div>
+                    <ul class="nav nav-pills nav-stacked nav-topics">
+                      <li ng-repeat="topic in trendingTopics" ng-class="{active:isActive(topic.name)}" ng-click="track('trending', topic.name)">
+                          <a class="sidebar-tag" ng-href="/tag/{{ '{{' }}topic.name{{ '}}' }}">
+                          {{ '{{' }}topic.name | removehypens {{ '}}' }}
+                          <span ng-show="topic.count > 0" class="pull-right trending-count">{{ '{{' }}topic.count{{ '}}' }}</span>
+                        </a>
+                      </li>
+                    </ul>
+                </div>
+
+                <div ng-hide="relatedTopics.length==0" class="sidebar-item">
+                    <div ng-hide="relatedTopics.length==0" class="topic-heading related-topics">
+                        <i class="glyphicon glyphicon-link"></i> Related
+                    </div>
+                    <ul ng-hide="relatedTopics.length==0" class="nav nav-pills nav-stacked nav-topics">
+                        <li ng-repeat="relatedTopic in relatedTopics" ng-click="track('related', relatedTopic)">
+                            <a class="sidebar-tag" ng-href="/tag/{{ '{{' }}relatedTopic{{ '}}' }}">{{ '{{' }}relatedTopic | removehypens {{ '}}' }}</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-item-sm">
+                    <ul class="nav nav-pills nav-stacked nav-topics">
+                        {% if loggedIn %}
+                            <li><a class="sidebar-tag" href="/logout" target="_self">Logout</a></li>
+                        {% else %}
+                            <li><a class="sidebar-tag" href="/login" target="_self">Login</a></li>
+                        {% endif %}
+                    </ul>
+                </div>
+
+                <div class="sidebar-item-sm">
+                    <ul class="sidebar-misc">
+                        <li>&copy; 2015 NationStory</li>
+                        <li>
+                            <a class="sidebar-tag" ng-href="#" ng-click="sendFeedback()">Feedback</a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+                <br/><br/>
+            </div>
+            <div id="fb-root"></div>
+            <movie-trailer ng-show="showTrailer"></movie-trailer>
+            <login-block ng-show="showLogin"></login-block>
+
+        {% include "analytics.html" %}
+    </body>
+</html>

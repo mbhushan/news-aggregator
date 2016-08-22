@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>NationStory | Discover. Read. Discuss.</title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/static/img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    {% include 'discover-include.html' %}
+
+    <script>
+        if (!window.NationStory) {
+            window.NationStory = {};
+        }
+
+        NationStory.userSettings = {{ userSettings | tojson | safe }};
+        NationStory.appSettings = {{ appSettings | tojson | safe }};
+
+        weatherData = {{ weatherData | tojson | safe }};
+    </script>
+
+</head>
+<body>
+    <nav class="navbar navbar-fixed-top navbar-ns" role="navigation">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#home-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="/"><img class="ns-logo" src="/static/img/logo.png"/></a>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="home-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+                                <li><a href="/"><i class="glyphicon glyphicon-home"></i> Home</a></li>
+                                <li class="active"><a href="/discover" target="_self"><i class="glyphicon glyphicon-globe"></i> Discover</a></li>
+                            </ul>
+                            <form class="navbar-form navbar-left search-bar" role="search">
+                                <div class="form-group form-group-lg">
+                                    <angucomplete id="members"
+                                          placeholder="Search"
+                                          pause="400"
+                                          selectedobject="searchTag"
+                                          url="/api/tag_search?q="
+                                          datafield="results"
+                                          titlefield="name"
+                                          inputclass="form-control search-bar-input"></angucomplete>
+                                </div>
+                            </form>
+                            <ul class="nav navbar-nav navbar-right">
+                                {% if loggedIn %}
+
+                                    <li class="btn-group">
+                                        <a class="loggedin dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                        {% if userSettings.username != '' %} {{userSettings.username}} {% else %} Settings {% endif %}<span class="caret"></span>
+                                        </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a href="/logout" target="_self">Logout</a></li>
+                                        </ul>
+                                    </li>
+
+                                {% else %}
+                                    <li><a href="/login" target="_self">Login</a></li>
+                                {% endif %}
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    <div id="map"></div>
+    <div class="map-story animated-fast slideInRight" style="display:none;">
+        <div class="topic-container">
+            <button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <div class="topic"></div>
+            <div class="sub-topic"></div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="content"></div>
+    </div>
+    <script type="text/template" id="discover-stories">
+        <% _.each(stories, function(story) {  %>
+        <div class="discover-story <%- story.tags.join(' ')%>">
+            <div>
+                <% if (story.photo) { %><div class="story-photo-container"><img class="story-photo" src="<%- story.photo %>"></div> <% } %>
+                <div class="story-content">
+                    <div class="story-title" <% if (!story.photo) { %> style="width:100%;" <% } %>>
+                        <a target="blank" href="<%- story.link %>"> <%- story.title %></a>
+                    </div>
+                    <div class="story-created"><% if (story.source_name) { %><span><%- story.source_name %> -</span> <% } %><%- story.published %> </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+
+            <ul class="story-tags">
+                <% _.each(story.tags, function(tag) {  %>
+                <li class="label label-story-tags">
+                    <a target="blank" data="<%- tag %>" class="story-tag" href="/tag/<%- tag %>"><%- removeHypens(tag) %></a>
+                </li>
+                <% }) %>
+        </ul>
+        </div>
+        <% }) %>
+    </script>
+    <script type="text/template" id="discover-weather">
+        <% _.each(weather.forecast, function(w) {  %>
+        <div class="sidebar-weather">
+            <div class="pull-left weather-date"><%- w.date %></div>
+            <img class="pull-left" src="http://openweathermap.org/img/w/<%- w.icon %>.png" />
+            <div class="pull-left weather-desc"><%- w.min %> - <%- w.max %> &deg;C <br> <%- w.description %></div>
+            <div class="clearfix"></div>
+        </div>
+        <% }) %>
+    </script>
+    {% include "analytics.html" %}
+</body>
+</html>

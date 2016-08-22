@@ -1,0 +1,743 @@
+{"tag": "a k hangal", "name": "a. k. hangal"}
+{"tag": "a k hangal", "name": "a.k. hangal"}
+{"tag": "a k hangal", "name": "a k hangal"}
+{"tag": "a k hangal", "name": "ak hangal"}
+{"tag": "aadhi", "name": "aadhi"}
+{"tag": "aadi pudipeddi", "name": "aadi pudipeddi"}
+{"tag": "aamir khan", "name": "aamir khan"}
+{"tag": "aashish chaudhary", "name": "aashish chaudhary"}
+{"tag": "abbas", "name": "abbas"}
+{"tag": "abhay deol", "name": "abhay deol"}
+{"tag": "abhijeeth", "name": "abhijeeth"}
+{"tag": "abhishek bachchan", "name": "abhishek bachchan"}
+{"tag": "abhimanyu singh", "name": "abhimanyu singh"}
+{"tag": "abijeet duddala", "name": "abijeet duddala"}
+{"tag": "adharvaa", "name": "adharvaa"}
+{"tag": "adhyayan suman", "name": "adhyayan suman"}
+{"tag": "adithya menon", "name": "adithya menon"}
+{"tag": "aditya babu", "name": "aditya babu"}
+{"tag": "aditya pancholi", "name": "aditya pancholi"}
+{"tag": "aditya roy kapur", "name": "aditya roy kapur"}
+{"tag": "adoor bhasi", "name": "adoor bhasi"}
+{"tag": "aftab shivdasani", "name": "aftab shivdasani"}
+{"tag": "ahuti prasad", "name": "ahuti prasad"}
+{"tag": "ajay devgan", "name": "ajay devgan"}
+{"tag": "ajay singh rathod", "name": "ajay singh rathod"}
+{"tag": "ajay rao", "name": "ajay rao"}
+{"tag": "ajaz khan", "name": "ajaz khan"}
+{"tag": "ajinkya dev", "name": "ajinkya dev"}
+{"tag": "ajit khan", "name": "ajit khan"}
+{"tag": "ajith kumar", "name": "ajith kumar"}
+{"tag": "ajmal ameer", "name": "ajmal ameer"}
+{"tag": "aju varghese", "name": "aju varghese"}
+{"tag": "akshay anand", "name": "akshay anand"}
+{"tag": "akshay kumar", "name": "akshay kumar"}
+{"tag": "akshaye khanna", "name": "akshaye khanna"}
+{"tag": "ali basha", "name": "ali basha"}
+{"tag": "allari naresh", "name": "allari naresh"}
+{"tag": "allu arjun", "name": "allu arjun"}
+{"tag": "allu sirish", "name": "allu sirish"}
+{"tag": "alok nath", "name": "alok nath"}
+{"tag": "amar talwar", "name": "amar talwar"}
+{"tag": "ambareesh", "name": "ambareesh"}
+{"tag": "amitabh bachchan", "name": "amitabh bachchan"}
+{"tag": "amjad khan", "name": "amjad khan"}
+{"tag": "amol palekar", "name": "amol palekar"}
+{"tag": "amrish puri", "name": "amrish puri"}
+{"tag": "ananth nag", "name": "ananth nag"}
+{"tag": "anil kapoor", "name": "anil kapoor"}
+{"tag": "anjan srivastav", "name": "anjan srivastav"}
+{"tag": "annu kapoor", "name": "annu kapoor"}
+{"tag": "anoop kumar", "name": "anoop kumar"}
+{"tag": "anoop menon", "name": "anoop menon"}
+{"tag": "anubhav mohanty", "name": "anubhav mohanty"}
+{"tag": "anuj gurwara", "name": "anuj gurwara"}
+{"tag": "anupam kher", "name": "anupam kher"}
+{"tag": "arbaaz khan", "name": "arbaaz khan"}
+{"tag": "arif zakaria", "name": "arif zakaria"}
+{"tag": "arjun kapoor", "name": "arjun kapoor"}
+{"tag": "arjun mathur", "name": "arjun mathur"}
+{"tag": "arjun rampal", "name": "arjun rampal"}
+{"tag": "arjun sarja", "name": "arjun sarja"}
+{"tag": "arshad warsi", "name": "arshad warsi"}
+{"tag": "arun sarnaik", "name": "arun sarnaik"}
+{"tag": "arunoday singh", "name": "arunoday singh"}
+{"tag": "arvind swamy", "name": "arvind swamy"}
+{"tag": "arya babbar", "name": "arya babbar"}
+{"tag": "arya cethirakath", "name": "arya cethirakath"}
+{"tag": "asif ali", "name": "asif ali"}
+{"tag": "ashish vidyarthi", "name": "ashish vidyarthi"}
+{"tag": "ashok", "name": "ashok"}
+{"tag": "ashok kumar", "name": "ashok kumar"}
+{"tag": "ashwath", "name": "ashwath"}
+{"tag": "asrani", "name": "asrani"}
+{"tag": "ashok saraf", "name": "ashok saraf"}
+{"tag": "ashok selvan", "name": "ashok selvan"}
+{"tag": "atul agnihotri", "name": "atul agnihotri"}
+{"tag": "atul kulkarni", "name": "atul kulkarni"}
+{"tag": "auditya", "name": "auditya"}
+{"tag": "avinash", "name": "avinash"}
+{"tag": "b c patil", "name": "b. c. patil"}
+{"tag": "b c patil", "name": "b.c. patil"}
+{"tag": "b c patil", "name": "b c patil"}
+{"tag": "b c patil", "name": "bc patil"}
+{"tag": "baburaj", "name": "baburaj"}
+{"tag": "babu antony", "name": "babu antony"}
+{"tag": "balakrishna", "name": "balakrishna"}
+{"tag": "balakrishna nandamuri", "name": "balakrishna nandamuri"}
+{"tag": "balan k nair", "name": "balan k. nair"}
+{"tag": "balan k nair", "name": "balan k nair"}
+{"tag": "balraj sahni", "name": "balraj sahni"}
+{"tag": "bank janardhan", "name": "bank janardhan"}
+{"tag": "barun sobti", "name": "barun sobti"}
+{"tag": "benjamin gilani", "name": "benjamin gilani"}
+{"tag": "bhagwan dada", "name": "bhagwan dada"}
+{"tag": "bhanu chander", "name": "bhanu chander"}
+{"tag": "bharat bhushan", "name": "bharat bhushan"}
+{"tag": "bharat jadhav", "name": "bharat jadhav"}
+{"tag": "bharath", "name": "bharath"}
+{"tag": "bharath gopi", "name": "bharath gopi"}
+{"tag": "bharath srinivasan", "name": "bharath srinivasan"}
+{"tag": "bharathiraja", "name": "bharathiraja"}
+{"tag": "bank janardhan", "name": "bank janardhan"}
+{"tag": "bijon bhattacharya", "name": "bijon bhattacharya"}
+{"tag": "bijoya ray", "name": "bijoya ray"}
+{"tag": "biju menon", "name": "biju menon"}
+{"tag": "biswajit chatterjee", "name": "biswajit chatterjee"}
+{"tag": "bob christo", "name": "bob christo"}
+{"tag": "bobby darling", "name": "bobby darling"}
+{"tag": "bobby deol", "name": "bobby deol"}
+{"tag": "bobby kottarakkara", "name": "bobby kottarakkara"}
+{"tag": "bobby simha", "name": "bobby simha"}
+{"tag": "boman irani", "name": "boman irani"}
+{"tag": "brahmanandam", "name": "brahmanandam"}
+{"tag": "chandra mohan", "name": "chandra mohan"}
+{"tag": "chandrachur singh", "name": "chandrachur singh"}
+{"tag": "chandrashekhar", "name": "chandrashekhar"}
+{"tag": "charu hassan", "name": "charu hassan"}
+{"tag": "chetan chandra", "name": "chetan chandra"}
+{"tag": "chetan kumar", "name": "chetan kumar"}
+{"tag": "chhabi biswas", "name": "chhabi biswas"}
+{"tag": "chinni jayanth", "name": "chinni jayanth"}
+{"tag": "chiranjeevi konidala", "name": "chiranjeevi konidala"}
+{"tag": "chiranjeevi sarja", "name": "chiranjeevi sarja"}
+{"tag": "chittor v nagaiah", "name": "chittor v. nagaiah"}
+{"tag": "chittor v nagaiah", "name": "chittor v nagaiah"}
+{"tag": "chunky pandey", "name": "chunky pandey"}
+{"tag": "crazy mohan", "name": "crazy mohan"}
+{"tag": "cyrus sahukar", "name": "cyrus sahukar"}
+{"tag": "dada kondke", "name": "dada kondke"}
+{"tag": "dalip tahil", "name": "dalip tahil"}
+{"tag": "danny denzongpa", "name": "danny denzongpa"}
+{"tag": "dara singh", "name": "dara singh"}
+{"tag": "darshan", "name": "darshan"}
+{"tag": "darshan thoogudeep", "name": "darshan thoogudeep"}
+{"tag": "darsheel safary", "name": "darsheel safary"}
+{"tag": "deepak dobriyal", "name": "deepak dobriyal"}
+{"tag": "deepak tijori", "name": "deepak tijori"}
+{"tag": "dev adhikari", "name": "dev adhikari"}
+{"tag": "dev anand", "name": "dev anand"}
+{"tag": "dev gill", "name": "dev gill"}
+{"tag": "devan", "name": "devan"}
+{"tag": "devaraj", "name": "devaraj"}
+{"tag": "deven verma", "name": "deven verma"}
+{"tag": "dharmavarapu subramanyam", "name": "dharmavarapu subramanyam"}
+{"tag": "dharmendra", "name": "dharmendra"}
+{"tag": "dhanush", "name": "dhanush"}
+{"tag": "dheerendra gopal", "name": "dheerendra gopal"}
+{"tag": "dhruv sarja", "name": "dhruv sarja"}
+{"tag": "diganth", "name": "diganth"}
+{"tag": "dinesh", "name": "dinesh"}
+{"tag": "dino morea", "name": "dino morea"}
+{"tag": "dileep", "name": "dileep"}
+{"tag": "dilip kumar", "name": "dilip kumar"}
+{"tag": "dilip prabhavalkar", "name": "dilip prabhavalkar"}
+{"tag": "doddanna", "name": "doddanna"}
+{"tag": "dulquer salmaan", "name": "dulquer salmaan"}
+{"tag": "dwarakish", "name": "dwarakish"}
+{"tag": "emraan hashmi", "name": "emraan hashmi"}
+{"tag": "erick avari", "name": "erick avari"}
+{"tag": "fahadh faasil", "name": "fahadh faasil"}
+{"tag": "faisal khan", "name": "faisal khan"}
+{"tag": "fardeen khan", "name": "fardeen khan"}
+{"tag": "farhan akhtar", "name": "farhan akhtar"}
+{"tag": "farooq sheikh", "name": "farooq sheikh"}
+{"tag": "feroz khan", "name": "feroz khan"}
+{"tag": "fish venkat", "name": "fish venkat"}
+{"tag": "g v iyer", "name": "g. v. iyer"}
+{"tag": "g v iyer", "name": "g.v. iyer"}
+{"tag": "g v iyer", "name": "g v iyer"}
+{"tag": "g v iyer", "name": "gv iyer"}
+{"tag": "ganesh", "name": "ganesh"}
+{"tag": "ganesh venkatraman", "name": "ganesh venkatraman"}
+{"tag": "gangadhar", "name": "gangadhar"}
+{"tag": "gaurav chanana", "name": "gaurav chanana"}
+{"tag": "gautham karthik", "name": "gautham karthik"}
+{"tag": "gautham menon", "name": "gautham menon"}
+{"tag": "gavie chahal", "name": "gavie chahal"}
+{"tag": "gemini ganesan", "name": "gemini ganesan"}
+{"tag": "gireesh sahedev", "name": "gireesh sahedev"}
+{"tag": "giri babu", "name": "giri babu"}
+{"tag": "girish karnad", "name": "girish karnad"}
+{"tag": "girish kumar taurani", "name": "girish kumar taurani"}
+{"tag": "githan ramesh", "name": "githan ramesh"}
+{"tag": "goundamani", "name": "goundamani"}
+{"tag": "govinda", "name": "govinda"}
+{"tag": "gulshan devaiah", "name": "gulshan devaiah"}
+{"tag": "gulshan grover", "name": "gulshan grover"}
+{"tag": "gummadi venkateswara rao", "name": "gummadi venkateswara rao"}
+{"tag": "gurdas maan", "name": "gurdas maan"}
+{"tag": "guru dutt", "name": "guru dutt"}
+{"tag": "gurukiran", "name": "gurukiran"}
+{"tag": "gopichand lagadapati", "name": "gopichand lagadapati"}
+{"tag": "hamsavardhan", "name": "hamsavardhan"}
+{"tag": "harbhajan mann", "name": "harbhajan mann"}
+{"tag": "harikrishna nandamuri", "name": "harikrishna nandamuri"}
+{"tag": "harish kumar", "name": "harish kumar"}
+{"tag": "harish raj", "name": "harish raj"}
+{"tag": "harisree ashokan", "name": "harisree ashokan"}
+{"tag": "harman baweja", "name": "harman baweja"}
+{"tag": "hiten paintal", "name": "hiten paintal"}
+{"tag": "hrithik roshan", "name": "hrithik roshan"}
+{"tag": "himesh reshammiya", "name": "himesh reshammiya"}
+{"tag": "honnappa bhagavathar", "name": "honnappa bhagavathar"}
+{"tag": "i s johar", "name": "i. s. johar"}
+{"tag": "i s johar", "name": "i.s. johar"}
+{"tag": "i s johar", "name": "i s johar"}
+{"tag": "i s johar", "name": "i s johar"}
+{"tag": "iftekar", "name": "iftekar"}
+{"tag": "imran hasnee", "name": "imran hasnee"}
+{"tag": "imran khan", "name": "imran khan"}
+{"tag": "indrajith sukumaran", "name": "indrajith sukumaran"}
+{"tag": "indrans", "name": "indrans"}
+{"tag": "inderpal singh", "name": "inderpal singh"}
+{"tag": "innocent vincent", "name": "innocent vincent"}
+{"tag": "irrfan khan", "name": "irrfan khan"}
+{"tag": "inaamulhaq", "name": "inaamulhaq"}
+{"tag": "j p chandrababu", "name": "j. p. chandrababu"}
+{"tag": "j p chandrababu", "name": "j.p. chandrababu"}
+{"tag": "j p chandrababu", "name": "j p chandrababu"}
+{"tag": "j p chandrababu", "name": "jp chandrababu"}
+{"tag": "j v somayajulu", "name": "j. v. somayajulu"}
+{"tag": "j v somayajulu", "name": "j.v. somayajulu"}
+{"tag": "j v somayajulu", "name": "j v somayajulu"}
+{"tag": "j v somayajulu", "name": "jv somayajulu"}
+{"tag": "jackie shroff", "name": "jackie shroff"}
+{"tag": "jagadish", "name": "jagadish"}
+{"tag": "jagapati babu", "name": "jagapati babu"}
+{"tag": "jagathy sreekumar", "name": "jagathy sreekumar"}
+{"tag": "jagdeep", "name": "jagdeep"}
+{"tag": "jagdish raj", "name": "jagdish raj"}
+{"tag": "jaggesh", "name": "jaggesh"}
+{"tag": "jai", "name": "jai"}
+{"tag": "jaishankar", "name": "jaishankar"}
+{"tag": "jai jagadish", "name": "jai jagadish"}
+{"tag": "jaspal bhatti", "name": "jaspal bhatti"}
+{"tag": "jatin bora", "name": "jatin bora"}
+{"tag": "jaya prakash reddy", "name": "jaya prakash reddy"}
+{"tag": "jayam ravi", "name": "jayam ravi"}
+{"tag": "jayan", "name": "jayan"}
+{"tag": "jayant", "name": "jayant"}
+{"tag": "jayaram", "name": "jayaram"}
+{"tag": "jayasurya", "name": "jayasurya"}
+{"tag": "jeetendra", "name": "jeetendra"}
+{"tag": "jeeva", "name": "jeeva"}
+{"tag": "jeevan", "name": "jeevan"}
+{"tag": "jhanak shukla", "name": "jhanak shukla"}
+{"tag": "jiiva", "name": "jiiva"}
+{"tag": "jimmy shergill", "name": "jimmy shergill"}
+{"tag": "john abraham", "name": "john abraham"}
+{"tag": "johnny lever", "name": "johnny lever"}
+{"tag": "johnny walker", "name": "johnny walker"}
+{"tag": "joseph vijay", "name": "joseph vijay"}
+{"tag": "joy mukherjee", "name": "joy mukherjee"}
+{"tag": "jugal hansraj", "name": "jugal hansraj"}
+{"tag": "k l saigal", "name": "k. l. saigal"}
+{"tag": "k l saigal", "name": "k.l. saigal"}
+{"tag": "k l saigal", "name": "k l saigal"}
+{"tag": "k l saigal", "name": "kl saigal"}
+{"tag": "k n singh", "name": "k. n. singh"}
+{"tag": "k n singh", "name": "k.n. singh"}
+{"tag": "k n singh", "name": "k n singh"}
+{"tag": "k n singh", "name": "kn singh"}
+{"tag": "k s ashwath", "name": "k. s. ashwath"}
+{"tag": "k s ashwath", "name": "k.s. ashwath"}
+{"tag": "k s ashwath", "name": "k s ashwath"}
+{"tag": "k s ashwath", "name": "ks ashwath"}
+{"tag": "kabir bedi", "name": "kabir bedi"}
+{"tag": "kadar khan", "name": "kadar khan"}
+{"tag": "kaikala satyanarayana", "name": "kaikala satyanarayana"}
+{"tag": "kalabhavan mani", "name": "kalabhavan mani"}
+{"tag": "kalyan ram", "name": "kalyan ram"}
+{"tag": "kamaal rashid khan", "name": "kamaal rashid khan"}
+{"tag": "kamal haasan", "name": "kamal haasan"}
+{"tag": "kapil bora", "name": "kapil bora"}
+{"tag": "karan johar", "name": "karan johar"}
+{"tag": "karan singh grover", "name": "karan singh grover"}
+{"tag": "karan kapoor", "name": "karan kapoor"}
+{"tag": "karthik muthuraman", "name": "karthik muthuraman"}
+{"tag": "karthik sivakumar", "name": "karthik sivakumar"}
+{"tag": "karunas", "name": "karunas"}
+{"tag": "kashinath ghanekar", "name": "kashinath ghanekar"}
+{"tag": "kashinath", "name": "kashinath"}
+{"tag": "kay kay menon", "name": "kay kay menon"}
+{"tag": "keshto mukherjee", "name": "keshto mukherjee"}
+{"tag": "khayyum basha", "name": "khayyum basha"}
+{"tag": "kiran kumar", "name": "kiran kumar"}
+{"tag": "kishan shrikanth", "name": "kishan shrikanth"}
+{"tag": "kishore", "name": "kishore"}
+{"tag": "kishore kumar", "name": "kishore kumar"}
+{"tag": "komal kumar", "name": "komal kumar"}
+{"tag": "kona venkat", "name": "kona venkat"}
+{"tag": "kota srinivasa rao", "name": "kota srinivasa rao"}
+{"tag": "krishna", "name": "krishna"}
+{"tag": "krishnam raju", "name": "krishnam raju"}
+{"tag": "krishnudu", "name": "krishnudu"}
+{"tag": "kulbhushan kharbanda", "name": "kulbhushan kharbanda"}
+{"tag": "kumar bangarappa", "name": "kumar bangarappa"}
+{"tag": "kumar gaurav", "name": "kumar gaurav"}
+{"tag": "kumar govind", "name": "kumar govind"}
+{"tag": "kunaal roy kapur", "name": "kunaal roy kapur"}
+{"tag": "kunal kapoor", "name": "kunal kapoor"}
+{"tag": "kunal kapoor", "name": "kunal kapoor"}
+{"tag": "kunal khemu", "name": "kunal khemu"}
+{"tag": "kunal singh", "name": "kunal singh"}
+{"tag": "kunchacko boban", "name": "kunchacko boban"}
+{"tag": "kuthiravattam pappu", "name": "kuthiravattam pappu"}
+{"tag": "lavrenti lopes", "name": "lavrenti lopes"}
+{"tag": "lawrence raghavendra", "name": "lawrence raghavendra"}
+{"tag": "laxmikant berde", "name": "laxmikant berde"}
+{"tag": "lekh tandon", "name": "lekh tandon"}
+{"tag": "lokesh", "name": "lokesh"}
+{"tag": "loknath", "name": "loknath"}
+{"tag": "lucky ali", "name": "lucky ali"}
+{"tag": "luv sinha", "name": "luv sinha"}
+{"tag": "m g ramachandran", "name": "m. g. ramachandran"}
+{"tag": "m g ramachandran", "name": "m.g. ramachandran"}
+{"tag": "m g ramachandran", "name": "m g ramachandran"}
+{"tag": "m g ramachandran", "name": "mg ramachandran"}
+{"tag": "m g soman", "name": "m. g. soman"}
+{"tag": "m g soman", "name": "m.g. soman"}
+{"tag": "m g soman", "name": "m g soman"}
+{"tag": "m g soman", "name": "mg soman"}
+{"tag": "m k raina", "name": "m. k. raina"}
+{"tag": "m k raina", "name": "m.k. raina"}
+{"tag": "m k raina", "name": "m k raina"}
+{"tag": "m k raina", "name": "mk raina"}
+{"tag": "m k thyagaraja bhagavathar", "name": "m. k. thyagaraja bhagavathar"}
+{"tag": "m k thyagaraja bhagavathar", "name": "m.k. thyagaraja bhagavathar"}
+{"tag": "m k thyagaraja bhagavathar", "name": "m k thyagaraja bhagavathar"}
+{"tag": "m k thyagaraja bhagavathar", "name": "mk thyagaraja bhagavathar"}
+{"tag": "m n nambiar", "name": "m. n. nambiar"}
+{"tag": "m n nambiar", "name": "m.n. nambiar"}
+{"tag": "m n nambiar", "name": "m n nambiar"}
+{"tag": "m n nambiar", "name": "mn nambiar"}
+{"tag": "m p shankar", "name": "m. p. shankar"}
+{"tag": "m p shankar", "name": "m.p. shankar"}
+{"tag": "m p shankar", "name": "m p shankar"}
+{"tag": "m p shankar", "name": "mp shankar"}
+{"tag": "m s narayana", "name": "m. s. narayana"}
+{"tag": "m s narayana", "name": "m s narayana"}
+{"tag": "m s narayana", "name": "ms narayana"}
+{"tag": "m v vasudeva rao", "name": "m. v. vasudeva rao"}
+{"tag": "m v vasudeva rao", "name": "m.v. vasudeva rao"}
+{"tag": "m v vasudeva rao", "name": "m v vasudeva rao"}
+{"tag": "m v vasudeva rao", "name": "mv vasudeva rao"}
+{"tag": "mac mohan", "name": "mac mohan"}
+{"tag": "madan puri", "name": "madan puri"}
+{"tag": "madhavan", "name": "madhavan"}
+{"tag": "madhu", "name": "madhu"}
+{"tag": "mahendra sandhu", "name": "mahendra sandhu"}
+{"tag": "mahesh babu", "name": "mahesh babu"}
+{"tag": "makrand deshpande", "name": "makrand deshpande"}
+{"tag": "malaysia vasudevan", "name": "malaysia vasudevan"}
+{"tag": "mammootty", "name": "mammootty"}
+{"tag": "mani damodara chakyar", "name": "mani damodara chakyar"}
+{"tag": "mani madhava chakyar", "name": "mani madhava chakyar"}
+{"tag": "manikuttan", "name": "manikuttan"}
+{"tag": "manish raisinghani", "name": "manish raisinghani"}
+{"tag": "manivannan", "name": "manivannan"}
+{"tag": "manna dey", "name": "manna dey"}
+{"tag": "manish vatsalya", "name": "manish vatsalya"}
+{"tag": "manoj bajpai", "name": "manoj bajpai"}
+{"tag": "manoj joshi", "name": "manoj joshi"}
+{"tag": "manoj k jayan", "name": "manoj k. jayan"}
+{"tag": "manoj k jayan", "name": "manoj k jayan"}
+{"tag": "manoj kumar", "name": "manoj kumar"}
+{"tag": "manoj manchu", "name": "manoj manchu"}
+{"tag": "manoj tiwari", "name": "manoj tiwari"}
+{"tag": "master manjunath", "name": "master manjunath"}
+{"tag": "master vinayak", "name": "master vinayak"}
+{"tag": "md asif", "name": "md asif"}
+{"tag": "mehar mittal", "name": "mehar mittal"}
+{"tag": "mehmood", "name": "mehmood"}
+{"tag": "milind soman", "name": "milind soman"}
+{"tag": "mithun chakraborty", "name": "mithun chakraborty"}
+{"tag": "mithun tejaswi", "name": "mithun tejaswi"}
+{"tag": "mohan agashe", "name": "mohan agashe"}
+{"tag": "mohan babu", "name": "mohan babu"}
+{"tag": "mohan rao", "name": "mohan rao"}
+{"tag": "mohan shankar", "name": "mohan shankar"}
+{"tag": "mohnish behl", "name": "mohnish behl"}
+{"tag": "mohanlal", "name": "mohanlal"}
+{"tag": "motilal", "name": "motilal"}
+{"tag": "mukesh", "name": "mukesh"}
+{"tag": "mukesh khanna", "name": "mukesh khanna"}
+{"tag": "mukkamala", "name": "mukkamala"}
+{"tag": "mukri", "name": "mukri"}
+{"tag": "mukhyamantri chandru", "name": "mukhyamantri chandru"}
+{"tag": "mukul dev", "name": "mukul dev"}
+{"tag": "murali krishna", "name": "murali krishna"}
+{"tag": "murali mohan", "name": "murali mohan"}
+{"tag": "murali siddalingaiah", "name": "murali siddalingaiah"}
+{"tag": "navin prabhakar", "name": "navin prabhakar"}
+{"tag": "n s krishnan", "name": "n. s. krishnan"}
+{"tag": "n s krishnan", "name": "n.s. krishnan"}
+{"tag": "n s krishnan", "name": "n s krishnan"}
+{"tag": "n s krishnan", "name": "ns krishnan"}
+{"tag": "naga chaitanya", "name": "naga chaitanya"}
+{"tag": "naga kiran", "name": "naga kiran"}
+{"tag": "nagarjuna akkineni", "name": "nagarjuna akkineni"}
+{"tag": "nagesh", "name": "nagesh"}
+{"tag": "nagendra babu", "name": "nagendra babu"}
+{"tag": "nagendra prasad", "name": "nagendra prasad"}
+{"tag": "nageswara rao akkineni", "name": "nageswara rao akkineni"}
+{"tag": "nagineedu", "name": "nagineedu"}
+{"tag": "namit shah", "name": "namit shah"}
+{"tag": "nana patekar", "name": "nana patekar"}
+{"tag": "nani", "name": "nani"}
+{"tag": "narain", "name": "narain"}
+{"tag": "narasimharaju", "name": "narasimharaju"}
+{"tag": "narasimharaju", "name": "narasimharaju"}
+{"tag": "narendra prasad", "name": "narendra prasad"}
+{"tag": "naresh", "name": "naresh"}
+{"tag": "naseeruddin shah", "name": "naseeruddin shah"}
+{"tag": "nassar", "name": "nassar"}
+{"tag": "navdeep", "name": "navdeep"}
+{"tag": "nedumudi venu", "name": "nedumudi venu"}
+{"tag": "neil nitin mukesh", "name": "neil nitin mukesh"}
+{"tag": "nikhil siddharth", "name": "nikhil siddharth"}
+{"tag": "nilu phule", "name": "nilu phule"}
+{"tag": "ninad kamat", "name": "ninad kamat"}
+{"tag": "nitin kumar reddy", "name": "nitin kumar reddy"}
+{"tag": "nivin pauly", "name": "nivin pauly"}
+{"tag": "n t rama rao", "name": "n. t. rama rao"}
+{"tag": "n t rama rao", "name": "n.t. rama rao"}
+{"tag": "n t rama rao", "name": "n t rama rao"}
+{"tag": "n t rama rao", "name": "nt rama rao"}
+{"tag": "n t rama rao jr", "name": "n. t. rama rao jr."}
+{"tag": "n t rama rao jr", "name": "n.t. rama rao jr."}
+{"tag": "n t rama rao jr", "name": "n t rama rao jr"}
+{"tag": "n t rama rao jr", "name": "nt rama rao jr"}
+{"tag": "nandish sandhu", "name": "nandish sandhu"}
+{"tag": "nazir hussain", "name": "nazir hussain"}
+{"tag": "oduvil unnikrishnan", "name": "oduvil unnikrishnan"}
+{"tag": "om prakash", "name": "om prakash"}
+{"tag": "om puri", "name": "om puri"}
+{"tag": "om shivpuri", "name": "om shivpuri"}
+{"tag": "omi vaidya", "name": "omi vaidya"}
+{"tag": "pankaj kapoor", "name": "pankaj kapoor"}
+{"tag": "paresh rawal", "name": "paresh rawal"}
+{"tag": "parikshit sahni", "name": "parikshit sahni"}
+{"tag": "parmeet sethi", "name": "parmeet sethi"}
+{"tag": "parvin dabas", "name": "parvin dabas"}
+{"tag": "parzan dastur", "name": "parzan dastur"}
+{"tag": "pasupathy", "name": "pasupathy"}
+{"tag": "pawan kalyan", "name": "pawan kalyan"}
+{"tag": "pinchoo kapoor", "name": "pinchoo kapoor"}
+{"tag": "prabhas raju uppalapati", "name": "prabhas raju uppalapati"}
+{"tag": "prabhu deva", "name": "prabhu deva"}
+{"tag": "prabhu ganesan", "name": "prabhu ganesan"}
+{"tag": "pradeep kumar", "name": "pradeep kumar"}
+{"tag": "pradeep rawat", "name": "pradeep rawat"}
+{"tag": "prajwal devaraj", "name": "prajwal devaraj"}
+{"tag": "prakash raj", "name": "prakash raj"}
+{"tag": "pran", "name": "pran"}
+{"tag": "pranav mohanlal", "name": "pranav mohanlal"}
+{"tag": "prasadbabu", "name": "prasadbabu"}
+{"tag": "prasanna", "name": "prasanna"}
+{"tag": "prasenjit chatterjee", "name": "prasenjit chatterjee"}
+{"tag": "prashant damle", "name": "prashant damle"}
+{"tag": "prashanta nanda", "name": "prashanta nanda"}
+{"tag": "prashanth thyagarajan", "name": "prashanth thyagarajan"}
+{"tag": "prateik babbar", "name": "prateik babbar"}
+{"tag": "prem", "name": "prem"}
+{"tag": "prem chopra", "name": "prem chopra"}
+{"tag": "prem kumar", "name": "prem kumar"}
+{"tag": "prem nath", "name": "prem nath"}
+{"tag": "prem nazir", "name": "prem nazir"}
+{"tag": "prithviraj ballireddy", "name": "prithviraj ballireddy"}
+{"tag": "prithviraj kapoor", "name": "prithviraj kapoor"}
+{"tag": "prithviraj sukumaran", "name": "prithviraj sukumaran"}
+{"tag": "puneet issar", "name": "puneet issar"}
+{"tag": "puneet rajkumar", "name": "puneet rajkumar"}
+{"tag": "puri jagannadh", "name": "puri jagannadh"}
+{"tag": "raaj kumar", "name": "raaj kumar"}
+{"tag": "raghavendra rajkumar", "name": "raghavendra rajkumar"}
+{"tag": "raghu babu", "name": "raghu babu"}
+{"tag": "raghu mukherjee", "name": "raghu mukherjee"}
+{"tag": "raghuvaran", "name": "raghuvaran"}
+{"tag": "rahman", "name": "rahman"}
+{"tag": "rahul bose", "name": "rahul bose"}
+{"tag": "rahul dev", "name": "rahul dev"}
+{"tag": "raj babbar", "name": "raj babbar"}
+{"tag": "raj kapoor", "name": "raj kapoor"}
+{"tag": "rajkummar rao", "name": "rajkummar rao"}
+{"tag": "rajat barmecha", "name": "rajat barmecha"}
+{"tag": "rajendra kumar", "name": "rajendra kumar"}
+{"tag": "rajendra nath", "name": "rajendra nath"}
+{"tag": "rajesh kala thapswi", "name": "rajesh kala thapswi"}
+{"tag": "rajesh khanna", "name": "rajesh khanna"}
+{"tag": "rajesh khattar", "name": "rajesh khattar"}
+{"tag": "rajesh krishnan", "name": "rajesh krishnan"}
+{"tag": "rajit kapoor", "name": "rajit kapoor"}
+{"tag": "rajinikanth", "name": "rajinikanth"}
+{"tag": "rajiv kanakala", "name": "rajiv kanakala"}
+{"tag": "rajiv kapoor", "name": "rajiv kapoor"}
+{"tag": "rajkumar", "name": "rajkumar"}
+{"tag": "rajneesh duggal", "name": "rajneesh duggal"}
+{"tag": "rajpal yadav", "name": "rajpal yadav"}
+{"tag": "raju srivastav", "name": "raju srivastav"}
+{"tag": "rakesh bedi", "name": "rakesh bedi"}
+{"tag": "rakesh roshan", "name": "rakesh roshan"}
+{"tag": "ramki", "name": "ramki"}
+{"tag": "ram charan teja", "name": "ram charan teja"}
+{"tag": "ram pothineni", "name": "ram pothineni"}
+{"tag": "ramakrishna", "name": "ramakrishna"}
+{"tag": "ramesh aravind", "name": "ramesh aravind"}
+{"tag": "ramesh babu", "name": "ramesh babu"}
+{"tag": "ramesh bhat", "name": "ramesh bhat"}
+{"tag": "ramesh deo", "name": "ramesh deo"}
+{"tag": "ranbir kapoor", "name": "ranbir kapoor"}
+{"tag": "randeep hooda", "name": "randeep hooda"}
+{"tag": "randhir kapoor", "name": "randhir kapoor"}
+{"tag": "ranveer singh", "name": "ranveer singh"}
+{"tag": "ranvir shorey", "name": "ranvir shorey"}
+{"tag": "rao ramesh", "name": "rao ramesh"}
+{"tag": "ravi babu", "name": "ravi babu"}
+{"tag": "ravi kishan", "name": "ravi kishan"}
+{"tag": "ravi prakash", "name": "ravi prakash"}
+{"tag": "ravi shankar", "name": "ravi shankar"}
+{"tag": "ravi teja", "name": "ravi teja"}
+{"tag": "ravichandran", "name": "ravichandran"}
+{"tag": "ravichandran veeraswamy", "name": "ravichandran veeraswamy"}
+{"tag": "raza murad", "name": "raza murad"}
+{"tag": "richard rishi", "name": "richard rishi"}
+{"tag": "rishi kapoor", "name": "rishi kapoor"}
+{"tag": "riteish deshmukh", "name": "riteish deshmukh"}
+{"tag": "rockline venkatesh", "name": "rockline venkatesh"}
+{"tag": "rohit roy", "name": "rohit roy"}
+{"tag": "ronit roy", "name": "ronit roy"}
+{"tag": "roshan seth", "name": "roshan seth"}
+{"tag": "s narayan", "name": "s. narayan"}
+{"tag": "s narayan", "name": "s narayan"}
+{"tag": "s j suryaah", "name": "s. j. suryaah"}
+{"tag": "s j suryaah", "name": "s.j. suryaah"}
+{"tag": "s j suryaah", "name": "s j suryaah"}
+{"tag": "s j suryaah", "name": "sj suryaah"}
+{"tag": "s p balasubrahmanyam", "name": "s. p. balasubrahmanyam"}
+{"tag": "s p balasubrahmanyam", "name": "s.p. balasubrahmanyam"}
+{"tag": "s p balasubrahmanyam", "name": "s p balasubrahmanyam"}
+{"tag": "s p balasubrahmanyam", "name": "sp balasubrahmanyam"}
+{"tag": "s shankar", "name": "s. shankar"}
+{"tag": "s shankar", "name": "s shankar"}
+{"tag": "s v ranga rao", "name": "s. v. ranga rao"}
+{"tag": "s v ranga rao", "name": "s.v. ranga rao"}
+{"tag": "s v ranga rao", "name": "s v ranga rao"}
+{"tag": "s v ranga rao", "name": "sv ranga rao"}
+{"tag": "saandip", "name": "saandip"}
+{"tag": "sachet engineer", "name": "sachet engineer"}
+{"tag": "sachin khedekar", "name": "sachin khedekar"}
+{"tag": "sadhu kokila", "name": "sadhu kokila"}
+{"tag": "saeed jaffrey", "name": "saeed jaffrey"}
+{"tag": "sahil khan", "name": "sahil khan"}
+{"tag": "sahil shroff", "name": "sahil shroff"}
+{"tag": "sai kumar", "name": "sai kumar"}
+{"tag": "saikumar", "name": "saikumar"}
+{"tag": "saif ali khan", "name": "saif ali khan"}
+{"tag": "sajid khan", "name": "sajid khan"}
+{"tag": "saleem kumar", "name": "saleem kumar"}
+{"tag": "salim khan", "name": "salim khan"}
+{"tag": "salman khan", "name": "salman khan"}
+{"tag": "sameer dattani", "name": "sameer dattani"}
+{"tag": "samir soni", "name": "samir soni"}
+{"tag": "sampath raj", "name": "sampath raj"}
+{"tag": "sandeep kulkarni", "name": "sandeep kulkarni"}
+{"tag": "sanjay dutt", "name": "sanjay dutt"}
+{"tag": "sanjay kapoor", "name": "sanjay kapoor"}
+{"tag": "sanjay khan", "name": "sanjay khan"}
+{"tag": "sanjay suri", "name": "sanjay suri"}
+{"tag": "sanjeev kumar", "name": "sanjeev kumar"}
+{"tag": "sankaradi", "name": "sankaradi"}
+{"tag": "santhanam", "name": "santhanam"}
+{"tag": "sapru", "name": "sapru"}
+{"tag": "sarath babu", "name": "sarath babu"}
+{"tag": "sarath kumar", "name": "sarath kumar"}
+{"tag": "sarfaraz khan", "name": "sarfaraz khan"}
+{"tag": "sathyaraj", "name": "sathyaraj"}
+{"tag": "sathyan nadar", "name": "sathyan nadar"}
+{"tag": "sathyan sivakumar", "name": "sathyan sivakumar"}
+{"tag": "satish shah", "name": "satish shah"}
+{"tag": "satyajeet puri", "name": "satyajeet puri"}
+{"tag": "sayaji shinde", "name": "sayaji shinde"}
+{"tag": "senthil", "name": "senthil"}
+{"tag": "shaam", "name": "shaam"}
+{"tag": "shadab khan", "name": "shadab khan"}
+{"tag": "shahid kapoor", "name": "shahid kapoor"}
+{"tag": "shah rukh khan", "name": "shah rukh khan"}
+{"tag": "shammi kapoor", "name": "shammi kapoor"}
+{"tag": "shankar", "name": "shankar"}
+{"tag": "shankar nag", "name": "shankar nag"}
+{"tag": "sharad talwalkar", "name": "sharad talwalkar"}
+{"tag": "sharath babu", "name": "sharath babu"}
+{"tag": "sharath kumar", "name": "sharath kumar"}
+{"tag": "sharman joshi", "name": "sharman joshi"}
+{"tag": "shashank shende", "name": "shashank shende"}
+{"tag": "shashi kapoor", "name": "shashi kapoor"}
+{"tag": "shashikumar", "name": "shashikumar"}
+{"tag": "shatrughan sinha", "name": "shatrughan sinha"}
+{"tag": "shehzad khan", "name": "shehzad khan"}
+{"tag": "shekhar suman", "name": "shekhar suman"}
+{"tag": "shiny ahuja", "name": "shiny ahuja"}
+{"tag": "shirish kunder", "name": "shirish kunder"}
+{"tag": "shivarajkumar", "name": "shivarajkumar"}
+{"tag": "shreela ghosh", "name": "shreela ghosh"}
+{"tag": "shreyas talpade", "name": "shreyas talpade"}
+{"tag": "shriram lagoo", "name": "shriram lagoo"}
+{"tag": "sibiraj", "name": "sibiraj"}
+{"tag": "siddhanta mahapatra", "name": "siddhanta mahapatra"}
+{"tag": "siddharth koirala", "name": "siddharth koirala"}
+{"tag": "siddharth narayan", "name": "siddharth narayan"}
+{"tag": "siddharth roy kapur", "name": "siddharth roy kapur"}
+{"tag": "silambarasan rajendar", "name": "silambarasan rajendar"}
+{"tag": "sihi kahi chandru", "name": "sihi kahi chandru"}
+{"tag": "sikandar kher", "name": "sikandar kher"}
+{"tag": "siva reddy", "name": "siva reddy"}
+{"tag": "sivaji ganesan", "name": "sivaji ganesan"}
+{"tag": "sivakarthikeyan", "name": "sivakarthikeyan"}
+{"tag": "sivakumar", "name": "sivakumar"}
+{"tag": "sobhan babu", "name": "sobhan babu"}
+{"tag": "sohail khan", "name": "sohail khan"}
+{"tag": "sohrab modi", "name": "sohrab modi"}
+{"tag": "sonu nigam", "name": "sonu nigam"}
+{"tag": "sonu sood", "name": "sonu sood"}
+{"tag": "sreenivasan", "name": "sreenivasan"}
+{"tag": "sri murali", "name": "sri murali"}
+{"tag": "sridhar", "name": "sridhar"}
+{"tag": "srihari", "name": "srihari"}
+{"tag": "srikanth krishnamachari", "name": "srikanth krishnamachari"}
+{"tag": "srikanth meka", "name": "srikanth meka"}
+{"tag": "srinagar kitty", "name": "srinagar kitty"}
+{"tag": "srinath", "name": "srinath"}
+{"tag": "srinivasa murthy", "name": "srinivasa murthy"}
+{"tag": "srinivasa reddy", "name": "srinivasa reddy"}
+{"tag": "subbaraju", "name": "subbaraju"}
+{"tag": "subbaraya sharma", "name": "subbaraya sharma"}
+{"tag": "suchindra bali", "name": "suchindra bali"}
+{"tag": "sudeep", "name": "sudeep"}
+{"tag": "sudheer babu", "name": "sudheer babu"}
+{"tag": "sudhir dalvi", "name": "sudhir dalvi"}
+{"tag": "sukumaran", "name": "sukumaran"}
+{"tag": "suman setty", "name": "suman setty"}
+{"tag": "suman talwar", "name": "suman talwar"}
+{"tag": "sumanth", "name": "sumanth"}
+{"tag": "sumeet raghavan", "name": "sumeet raghavan"}
+{"tag": "suneil anand", "name": "suneil anand"}
+{"tag": "sunil dutt", "name": "sunil dutt"}
+{"tag": "sunil raoh", "name": "sunil raoh"}
+{"tag": "sunil shetty", "name": "sunil shetty"}
+{"tag": "sunil varma", "name": "sunil varma"}
+{"tag": "sunny deol", "name": "sunny deol"}
+{"tag": "sunny gill", "name": "sunny gill"}
+{"tag": "suresh", "name": "suresh"}
+{"tag": "suresh gopi", "name": "suresh gopi"}
+{"tag": "suresh heblikar", "name": "suresh heblikar"}
+{"tag": "suresh joachim", "name": "suresh joachim"}
+{"tag": "suresh krishna", "name": "suresh krishna"}
+{"tag": "surya sivakumar", "name": "surya sivakumar"}
+{"tag": "surya", "name": "surya"}
+{"tag": "sushant singh rajput", "name": "sushant singh rajput"}
+{"tag": "sushanth", "name": "sushanth"}
+{"tag": "suthivelu", "name": "suthivelu"}
+{"tag": "sutti veerabhadra rao", "name": "sutti veerabhadra rao"}
+{"tag": "tabla nani", "name": "tabla nani"}
+{"tag": "tanay chheda", "name": "tanay chheda"}
+{"tag": "tanikella bharani", "name": "tanikella bharani"}
+{"tag": "tapas paul", "name": "tapas paul"}
+{"tag": "taraka ratna", "name": "taraka ratna"}
+{"tag": "tarun arora", "name": "tarun arora"}
+{"tag": "tarun chandra", "name": "tarun chandra"}
+{"tag": "tarun kumar", "name": "tarun kumar"}
+{"tag": "thagubothu ramesh", "name": "thagubothu ramesh"}
+{"tag": "thikkurissy sukumaran nair", "name": "thikkurissy sukumaran nair"}
+{"tag": "thilakan", "name": "thilakan"}
+{"tag": "tharani", "name": "tharani"}
+{"tag": "thalaivasal vijay", "name": "thalaivasal vijay"}
+{"tag": "tinnu anand", "name": "tinnu anand"}
+{"tag": "tiku talsania", "name": "tiku talsania"}
+{"tag": "tom alter", "name": "tom alter"}
+{"tag": "tottempudi gopichand", "name": "tottempudi gopichand"}
+{"tag": "tusshar kapoor", "name": "tusshar kapoor"}
+{"tag": "uday chopra", "name": "uday chopra"}
+{"tag": "uday kiran", "name": "uday kiran"}
+{"tag": "udaykumar", "name": "udaykumar"}
+{"tag": "unni mukundan", "name": "unni mukundan"}
+{"tag": "upen patel", "name": "upen patel"}
+{"tag": "upendra", "name": "upendra"}
+{"tag": "upendra limaye", "name": "upendra limaye"}
+{"tag": "utpal dutt", "name": "utpal dutt"}
+{"tag": "uttam kumar", "name": "uttam kumar"}
+{"tag": "uttam mohanty", "name": "uttam mohanty"}
+{"tag": "vadivelu", "name": "vadivelu"}
+{"tag": "vajramuni", "name": "vajramuni"}
+{"tag": "varun dhawan", "name": "varun dhawan"}
+{"tag": "varun sandesh", "name": "varun sandesh"}
+{"tag": "veeru devgan", "name": "veeru devgan"}
+{"tag": "venkatesh", "name": "venkatesh"}
+{"tag": "vennela kishore", "name": "vennela kishore"}
+{"tag": "venu madhav", "name": "venu madhav"}
+{"tag": "vidharth", "name": "vidharth"}
+{"tag": "vijay arora", "name": "vijay arora"}
+{"tag": "vijay chandrasekhar", "name": "vijay chandrasekhar"}
+{"tag": "vijay duniya", "name": "vijay duniya"}
+{"tag": "vijay raaz", "name": "vijay raaz"}
+{"tag": "vijay raghavendra", "name": "vijay raghavendra"}
+{"tag": "vijay sethupathi", "name": "vijay sethupathi"}
+{"tag": "vijayakanth", "name": "vijayakanth"}
+{"tag": "vijayakumar", "name": "vijayakumar"}
+{"tag": "vijayaraghavan", "name": "vijayaraghavan"}
+{"tag": "vikas kalantri", "name": "vikas kalantri"}
+{"tag": "vikas sethi", "name": "vikas sethi"}
+{"tag": "vikram gokhale", "name": "vikram gokhale"}
+{"tag": "vikram kennedy", "name": "vikram kennedy"}
+{"tag": "vikram prabhu", "name": "vikram prabhu"}
+{"tag": "vikranth", "name": "vikranth"}
+{"tag": "vimal", "name": "vimal"}
+{"tag": "vinay apte", "name": "vinay apte"}
+{"tag": "vinay pathak", "name": "vinay pathak"}
+{"tag": "vinay virmani", "name": "vinay virmani"}
+{"tag": "vinayak joshi", "name": "vinayak joshi"}
+{"tag": "vineeth", "name": "vineeth"}
+{"tag": "vineeth sreenivasan", "name": "vineeth sreenivasan"}
+{"tag": "vinod khanna", "name": "vinod khanna"}
+{"tag": "vinod mehra", "name": "vinod mehra"}
+{"tag": "vipin sharma", "name": "vipin sharma"}
+{"tag": "vishal krishna", "name": "vishal krishna"}
+{"tag": "vishal karwal", "name": "vishal karwal"}
+{"tag": "vishnu manchu", "name": "vishnu manchu"}
+{"tag": "vishnu vishal", "name": "vishnu vishal"}
+{"tag": "vishnuvardhan", "name": "vishnuvardhan"}
+{"tag": "vivek", "name": "vivek"}
+{"tag": "vivek oberoi", "name": "vivek oberoi"}
+{"tag": "vivek mushran", "name": "vivek mushran"}
+{"tag": "vtv ganesh", "name": "vtv ganesh"}
+{"tag": "yash gowda", "name": "yash gowda"}
+{"tag": "yash pandit", "name": "yash pandit"}
+{"tag": "yash tandon", "name": "yash tandon"}
+{"tag": "yash tonk", "name": "yash tonk"}
+{"tag": "yatin karyekar", "name": "yatin karyekar"}
+{"tag": "yogesh", "name": "yogesh"}
+{"tag": "yugendran", "name": "yugendran"}
+{"tag": "yuhi sethu", "name": "yuhi sethu"}
+{"tag": "zayed khan", "name": "zayed khan"}
+{"tag": "zulfi syed", "name": "zulfi syed"}

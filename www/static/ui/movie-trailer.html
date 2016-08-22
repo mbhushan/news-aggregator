@@ -1,0 +1,32 @@
+<div class="overlay-bg close-overlay" ng-click="closeOverlay($event)"></div>
+
+<div class="overlay-content close-overlay" ng-click="closeOverlay($event)">
+    <div class="overlay-container">
+        <button type="button" class="close close-overlay" ng-click="closeOverlay($event)" aria-hidden="true">×</button>
+        <div class="topic-heading"><i class="glyphicon glyphicon-film"></i> Upcoming Movies</div>
+
+        <hr/>
+
+        <div class="trailer-container">
+            <iframe width="560" height="350" ng-src="{{trailerVideoCard.embed_url}}" frameborder="0" allowfullscreen></iframe>
+            <div class="trailer-title">{{trailerVideoCard.title}}</div>
+            <div class="trailer-description">{{trailerVideoCard.description}}</div>
+        </div>
+        <div class="trailer-comments comments-container">
+            <div class="comment-add">
+                <textarea class="comment-area" ng-model="newTrailerComment"></textarea>
+                <div class="text-right"><button ng-click="submitTrailerComment()" ng-disabled="postBtnText=='Posting'" class="btn btn-sm btn-primary btn-post">{{postBtnText}}</button></div>
+            </div>
+            <div class="comment-items">
+                <div class="text-center" ng-show='trailerComments.busy'><span us-spinner></span></div>
+                <div class="comment-item clearfix" ng-repeat="trailerComment in trailerComments.items">
+                    <div class="comment-pic"><img ng-src="{{trailerComment.profile_pic}}"/></div>
+                    <div class="comment-data">
+                        <div class="comment-commentor">{{trailerComment.name}} <span class="comment-published">{{trailerComment.published}}</span></div>
+                        <div class="comment-text">{{trailerComment.text}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

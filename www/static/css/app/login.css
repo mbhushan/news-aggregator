@@ -1,0 +1,45 @@
+.login-container {
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.login-form {
+    width:300px;
+    margin:auto;
+}
+
+.error-field {
+    padding-left: 2px;
+    padding-top: 3px;
+    margin: 0px;
+}
+
+.error-field li {
+    list-style: none;
+    color: #e12b31;
+}
+
+.signup-btn-container {
+    padding-top: 100px;
+}
+
+.signup-or {
+    padding-top: 150px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.social-btn-group {
+    margin-top: 20px;
+}
+
+.menu-links {
+    margin-top: 15px;
+}
+.forgot-link {
+    margin-right: 15px;
+}
+
+.register-link {
+    margin-left: 15px;
+}

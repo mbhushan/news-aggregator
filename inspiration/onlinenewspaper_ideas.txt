@@ -1,0 +1,42 @@
+I sometimes wonder whether we are held captive by old school thinking. At our newspapers at Mediafin, we are in the process of integrating web operations with the print publication, a move which I fully endorse. There’s one major risk to this: that we might end up seeing the web as just another way to distribute newspaper articles rather than a radically new opportunity.
+
+People who have spent years writing for print newspapers could easily fall victim to the horseless carriage syndrome — the belief that they can continue to apply the same thinking that they applied to an old technology to a new, fundamentally different one. At the turn of the century, many saw the automobile as a new variation on the horse-and-carriage, not realizing that the car was in many ways very different. Just as cars are fundamentally different from horseless carriages, or cinema is fundamentally different from theater, the web is fundamentally different from newspapers.
+
+We have only begun to perceive those fundamental differences, like the streaming and social character of the web. Thus, many newspapers are still looking at the web in old print terms — and not using their websites as anything more than a place to post the exact same material that they put in print. We should at least try to think out of the newspaper box and imagine how our presence on the web could be completely different from what it is today.
+
+FIVE SUGGESTIONS FOR CHANGE
+Let me suggest some possibilities for how a newspaper’s web presence could be radically different from the way it’s been so far:
+
+1. Create micro-sites.
+Instead of having a single website divided in sections which often replicate the sections in the print newspaper, we could have many different sites each focusing on a specific topic of interest to our communities. For example, at Mediafin, we know our community has various interests — financial services, markets, technology for consumers, technology for enterprises, etc. Why not have a separate website for each to better target community members’ interests?
+
+2. Streams of content.
+The news on each of those more specialized sites or networks would be like a stream of blog posts or microblog posts. In other words, it would look more like Twitter, Facebook or FriendFeed rather than a collection of newspaper articles. Of course, posts could be longer than the famous 140 characters of Twitter, but overall the look would be far more stream-like. There could be a special section for link journalism, using a tool such as Publish2.
+
+3. Use wikis for context. 
+Instead of only posting static articles, newspapers could use wikis to help provide background and context. A wiki format would allow both the newsroom and the community to contribute their expertise. Of course, the comments would enable the community members to post links, see members’ profiles, and maybe even rate articles and comments.
+
+4. Boost audience interactions.
+Forums would enhance both synchronous and asynchronous interaction. One could imagine using some embeddable virtual 2.5-D environment such as Metaplace to enhance the interactive experience. Metaplace is a platform that enables you to make your own virtual environment and connect through hyperlinks or simply embed it on your site. A newspaper could easily transform one of Metaplace’s stock “worlds” to match the look and feel of the newspaper and organize chat sessions there.
+
+5. Give participants more control.
+It would pretty much be up to the user how all these components of the newspaper site(s) would be organized. Community members would also have the option to either participate in synchronous discussions using avatars in the 2.5-D space or participate in that same discussion using a text-only environment. The idea is to make the participation experience more user-centric: let the users decide how to experience the information, news and discussion flows.
+
+ADVANTAGES AND DISADVANTAGES
+Implementing any of these out-of-the-newspaper-box ideas would require that both journalists and community members adapt to something rather new. This could be a disadvantage for journalists accustomed to old-school print thinking; it could actually be more problematic for them to adapt than for the community.
+
+Another possible objection might be the reaction of the advertisers. Would they appreciate the possibility offered by some of these ideas — like creating separate websites for each topic — to better target very specific segments of the community? Or would they instead deplore the fact that the community has been split up, making it harder to reach a broad range of readers?
+
+I think the real benefit of separate environments/sites for advertisers is that they can focus on the relevant audience. The audience’s behavior — reading, commenting, participating in chat discussions, etc. — will offer insights that are relevant for advertisers planning their campaigns. The only thing is: advertisers will need to be convinced of these new possibilities. Journalists are not the only ones who tend to be conservative in regards to online innovation.
+
+i-f3fd8555376ff32183171431fd4a3346-metaplace.png
+Metaplace
+A clear advantage would be that such a model makes it possible to react very fast on the news, with Twitter-like speed. Adopting a blog-stream style of posting would allow newspapers to update much more quickly than if they continued to shovel articles online in the old “online print newspaper” style.
+
+At the same time, wikis would provide in-depth analysis and context. The whole operation would be very much community driven, using sophisticated comments, forum and wiki systems. People would have the choice to refer to existing online networks for their profiles, to create a new profile on the site or they could stay anonymous.
+
+Some sites have already adopted some of these ideas. I was inspired to list some of the above elements by the Columbia Tomorrow site. I especially like that site’s combination of a blog-like news stream with in-depth overview pages, and that it offered the possibility for community members to start their own discussions on news posts. The site features a video explaining how this project organizes the interaction and the news.
+
+If you have other such examples or ideas for other components of the news site/network of the future, let us know!
+
+Roland Legrand is in charge of Internet and new media at Mediafin, the publisher of leading Belgian business newspapers De Tijd and L’Echo. He studied applied economics and philosophy. After a brief teaching experience, he became a financial journalist working for the Belgian wire service Belga and subsequently for Mediafin. He works in Brussels, and lives in Antwerp with his wife Liesbeth.

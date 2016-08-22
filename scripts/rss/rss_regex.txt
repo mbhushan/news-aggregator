@@ -1,0 +1,17 @@
+Tier-1
+TOI,http://timesofindia.indiatimes.com/rssfeeds.*
+NDTV,http://feeds.feedburner.com/.*
+Hindustan-Times,http://feeds.hindustantimes.com/.*
+The-Hindu,http://www.thehindu.com/.*service=rss
+India-Today,http://indiatoday.intoday.in/rss/.*
+India-Reuters,http://feeds.reuters.com/.*
+Rediff,http://www.rediff.com/rss/.*
+The-Economic-Times,http://economictimes.indiatimes.com/.*rssfeeds.*cms
+Moneycontrol,http://www.moneycontrol.com/rss/.*xml
+
+Tier-2
+LiveMint,http://www.livemint.com/rss/.*
+IndianExpress,http://indianexpress.com/.*feed
+NewKerala,http://www.newkerala.com/.*xml
+MidDay,http://www.mid-day.com/Resources/midday/rss/.*xml
+Frontline,http://www.frontline.in/.*service=rss

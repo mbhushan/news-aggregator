@@ -1,0 +1,38 @@
+{% assets filters="cssmin", output="gen/css-admin.css",
+"../static/css/vendor/bootstrap.min.css",
+"../static/css/nsadmin/admin.css"
+%}
+
+<link href="{{ ASSET_URL }}" media="screen" rel="stylesheet"
+    type="text/css" />
+{% endassets %}
+
+{% assets filters="rjsmin", output="gen/vendor-admin.js",
+"../static/js/vendor/jquery-1.9.0.min.js",
+"../static/js/vendor/bootstrap.min.js",
+"../static/js/vendor/underscore-min.js",
+"../static/js/vendor/angular.js",
+"../static/js/vendor/angular-route.min.js",
+"../static/js/vendor/angular-modal-service.min.js",
+"../static/js/vendor/ng-infinite-scroll.min.js",
+"../static/js/vendor/angular-file-upload.min.js",
+"../static/js/vendor/restangular.min.js",
+"../static/js/vendor/notify.min.js"
+ %}
+
+<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+{% endassets %}
+
+{% assets filters="rjsmin", output="gen/admin-main.js",
+"../static/js/app/NS.js",
+"../static/js/nsadmin/admin.js",
+"../static/js/nsadmin/NewsSources/NewsSources.js",
+"../static/js/nsadmin/ManageTags/ManageTags.js",
+"../static/js/nsadmin/XMLUpload/XMLUpload.js",
+"../static/js/nsadmin/VideoCards/VideoCards.js",
+"../static/js/nsadmin/UserStories/UserStories.js"
+ %}
+
+<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+{% endassets %}
+

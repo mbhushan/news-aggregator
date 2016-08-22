@@ -1,0 +1,831 @@
+body {
+    margin:0; padding:0;
+    background: #eee;
+}
+
+.main-content {
+    margin-top: 65px;
+    margin-bottom: 20px;
+}
+
+/* util */
+.pull-center {
+    text-align: center;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.alert-error-message {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.social-bar li {
+    vertical-align: top;
+}
+
+.recommended {
+    color: green;
+}
+/* end util */
+
+/* login  */
+.login-overlay {
+    width: 420px !important;
+}
+
+.login-help {
+    margin-bottom: 20px;
+}
+/* end login */
+
+
+/* Nav bar */
+
+.navbar-form.search-bar {
+    top: 6px;
+    position: relative;
+    margin-top: 0px;
+}
+
+.navbar-form .form-control.search-bar-input {
+    width: 400px;
+}
+
+/* end nav bar*/
+
+/* floating sidebar for mobile */
+
+.sidebar-nav {
+    position: fixed;
+    top: 50px;
+    width: 220px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: #fff;
+    padding: 5px;
+    z-index: 1000;
+    border: 1px solid #eee;
+    overflow-y: scroll;
+    height: 100%;
+}
+
+.sidebar-nav li {
+    position: relative;
+    line-height: 20px;
+    display: inline-block;
+    width: 100%;
+}
+
+
+/* end floating sidebar */
+
+/* Sidenav
+-------------------------------------------------- */
+.sidebar-item {
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.sidebar-item hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.sidebar-item-sm {
+    background: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.no-pinned-topic {
+    color: #707070;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.topic-heading {
+    color: #9197a3;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.topic-heading .tooltip {
+    font-size: 12px;
+    text-transform: none;
+    width: 150px;
+}
+
+.topic-info {
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.nav>li>a.sidebar-tag {
+    text-transform: capitalize;
+    padding: 2px 15px;
+}
+
+.unpin-tag {
+    z-index:100;
+    padding-top: 6px;
+    padding-right: 5px;
+    cursor: pointer;
+    color: #C8C8C8;
+    font-size:10px;
+}
+
+.unpin-tag:hover {
+    color: #989898;
+}
+
+.edit-pins {
+    text-transform: lowercase;
+    font-size: 11px;
+    position: relative;
+    bottom: 3px;
+}
+
+.badge-warning {
+    background: #dd5600;
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.sidebar-weather {
+    color: #707070;
+}
+
+.weather-desc {
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.trending-count {
+    color: #929292;
+    font-size: 12px;
+    padding-top: 2px;
+}
+
+.active .trending-count {
+    color: #fff;
+}
+
+.sidebar-misc {
+    margin:0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.sidebar-misc li {
+    float: left;
+    margin-right: 5px;
+    color: #8899a6;
+}
+
+.sidebar-misc li a {
+    color: #8899a6;
+}
+
+.state-img-container {
+    text-align: center;
+    padding: 5px;
+    position: relative;
+}
+
+.btn-state-map {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
+
+/* .state-img-container:hover {
+    background: #f1f1f1;
+    border-radius: 5px;
+} */
+
+.state-img {
+    width: 100%;
+}
+
+.video-card-media {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.trailer-actions {
+    margin-top: 10px;
+}
+
+.btn-trailer-play {
+    position: absolute;
+    left: 40%;
+    top: 25%;
+}
+
+.sidebar-trailer-name {
+    margin-top: 3px;
+}
+
+.sidebar-trailer-thumbnail {
+    cursor: pointer;
+}
+
+.sidebar-opinion-item {
+    margin-bottom: 5px;
+    border-bottom: 1px solid #eee;
+}
+
+.sidebar-opinion-title {
+    font-size: 16px;
+}
+
+.sidebar-opinions {
+    padding: 5px;
+}
+.sidebar-opinion-author a {
+    font-size: 12px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color: #555;
+}
+
+.sidebar-opinion-author .glyphicon {
+    font-size: 9px;
+}
+/* end sidebar */
+
+/* content */
+.content-container {
+    background: #fff;
+    min-height: 400px;
+    margin-bottom: 20px;
+}
+
+.story-container {
+    background: #fff;
+    margin:auto;
+    margin-bottom: 20px;
+}
+
+.story-categories-container .nav > li > a{
+    padding: 5px 15px;
+}
+
+.selected-category {
+    text-transform: capitalize;
+}
+
+.social-icon {
+    height: 18px;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.content-discuss {
+    background: #fff;
+    padding: 10px;
+    min-height: 400px;
+}
+
+.story-photo-container {
+    height: 200px;
+    overflow: hidden;
+    text-align: center;
+    padding-right: 0px;
+}
+
+.img-wrapper {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
+
+.photo-helper {
+    display: inline-block;
+    height: 95%;
+    vertical-align: middle;
+}
+
+.story-photo {
+    max-width: 100%;
+}
+
+.story-detail {
+    padding: 10px;
+    background: #fff;
+}
+
+.source-name {
+    font-size: 17px;
+    color: #929292;
+}
+
+.story:first-child {
+    border-top: 1px solid #eee;
+}
+
+.story {
+    padding: 10px;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.story-thumbnail {
+    max-width: 75px;
+    max-height: 75px;
+    margin-right: 10px;
+}
+
+.story-title {
+    font-size: 18px;
+}
+
+/* .story-title a {
+    color: #333;
+}
+
+.story-title a:hover {
+    color: #000;
+} */
+
+.story-type-active, .story-type-active:hover, .story-type-active:focus {
+    color: #444;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+.story-info, .story-created, .story-actions {
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+
+.pin-btn-tag {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.story-desc {
+    margin-top: 10px;
+}
+
+.story-post .story-tags {
+    text-align: right;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.story-post .story-tags li, .story-detail .story-tags li {
+    margin-left: 4px;
+}
+
+.story-sources {
+    padding: 0px;
+    margin-top: 10px;
+}
+
+.story-sources li {
+    list-style: none;
+}
+
+.label-story-tags {
+    background: #eee;
+    font-size: 12px;
+    display: inline-block !important;
+    margin-bottom: 2px;
+}
+
+.story-tag, .story-tag:hover, .story-tag:visited {
+    color: #424242;
+    text-transform: capitalize;
+}
+
+.story-post-container {
+    min-height:50px;
+}
+
+.vote {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.upvote, .downvote {
+    color: #B0B0B0;
+    font-size: 15px;
+}
+
+.voted {
+    color: #585858;
+}
+
+.upvote:hover, .downvote:hover {
+    color: #585858;
+    cursor: pointer;
+}
+
+.voted:hover {
+    color: #585858;
+    cursor: auto !important;
+}
+
+.vote-count {
+    font-size: 16px;
+}
+
+.story-comments {
+    margin-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.loggedin {
+    color: #fff;
+    cursor: pointer;
+}
+
+.loggedin:hover {
+    color: #fff;
+}
+
+.error-msg {
+    color: #9a161a;
+}
+
+@media (min-width: 992px) {
+    .story-post .col-md-3 {
+        width: 20%;
+    }
+
+    .story-post .col-md-9 {
+        width: 80%;
+    }
+
+    .story-right {
+        position: relative;
+    }
+
+    .story-post .story-tags {
+        position: absolute;
+        bottom: 0px;
+        right: 15px;
+    }
+}
+
+/* override for smaller screen size */
+@media (max-width: 992px) {
+    .story-photo-container {
+        padding-right: 15px;
+    }
+
+
+    .story-photo {
+        width: 100%;
+        height: 100%;
+    }
+
+    .col-xs-12 .story-title {
+        font-size: 16px;
+    }
+
+    .story-post .story-tags {
+        text-align: left;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        padding-left: 0px;
+    }
+
+    .story-post .story-tags li, .story-detail .story-tags li {
+        margin-right: 4px;
+        margin-left: 0px;
+    }
+
+}
+
+/* end content*/
+
+/*tag page*/
+.tag-pin-btn, .story-type {
+    margin-top: 10px;
+    margin-right: 12px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+.btn-categories-container {
+    float: right;
+    padding-left: 5px;
+}
+
+/*end tag page */
+
+/* profile */
+.profile-edit {
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+}
+.profile-edit .form-control {
+    height: 34px;
+}
+
+.profile-help {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.profile-stories-container {
+    border-radius: 5px;
+    padding: 15px;
+    background: #fff;
+    min-height: 200px;
+}
+/* end profile */
+
+
+/* overlay */
+
+.overlay-bg {
+    background: #000;
+    opacity: 0.7;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1030;
+}
+
+.overlay-content {
+    position: fixed;
+    width: 100%;
+    top: 10%;
+    z-index: 1032;
+
+}
+
+.overlay-container {
+    background: #fff;
+    padding: 20px;
+    height: 100%;
+    margin: auto;
+    width: 990px;
+}
+
+.trailer-container {
+    width: 560px;
+    float: left;
+}
+
+.trailer-comments {
+    margin-left: 580px;
+    height: 450px !important;
+}
+
+.trailer-title {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* end overlay */
+
+/* comments */
+.comments-container {
+    position: relative;
+    height: 600px;
+}
+
+.comment-items {
+    overflow-y: auto;
+    position: absolute;
+    top: 100px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.comment-item {
+    margin-bottom: 10px;
+}
+
+.comment-pic {
+    width: 50px;
+    float: left;
+}
+
+.comment-data {
+    padding-left: 60px;
+    padding-right: 10px;
+}
+
+.comment-commentor {
+    color: #157AB5;
+}
+
+.comment-published {
+    color: #767676;
+    padding-left: 10px;
+    font-size: 11px;
+}
+
+.comment-add {
+    width: 95%;
+    margin-bottom: 10px;
+}
+
+.comment-area {
+    width: 100%;
+    resize: none;
+}
+
+.btn-post {
+    margin-top: 4px;
+}
+/* end comments */
+
+
+/* about/contact */
+.about-container {
+    padding: 15px;
+}
+
+.about-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #9197A3;
+}
+
+.contact-form {
+    border-left: 1px solid #eee;
+}
+
+.about-content {
+    color: #444;
+    font-size: 17px;
+}
+.about-1 {
+    font-weight: bold;
+}
+/* end contact */
+
+/* editor */
+.writer-container {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+}
+
+.editor-container {
+    min-height: 600px;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.editor-title {
+    margin-bottom: 10px;
+}
+
+.editor-container .photo-upload {
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    cursor:pointer;
+}
+
+#editor {
+    overflow-y:auto;
+    min-height:400px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+}
+
+.link-input-container {
+    width: 225px;
+    padding: 5px;
+}
+
+.link-input {
+    display: inline-block;
+    width: 160px;
+}
+
+.link-input-btn {
+    display: inline-block;
+}
+
+.editor-actions {
+    margin-top: 20px;
+}
+
+.editor-overlay {
+    position: relative;
+}
+
+.editor-cover-photo-container {
+    height: 400px;
+    position: relative;
+    border: 1px solid #eee;
+    margin-bottom: 10px;
+    background: #fafafa;
+}
+
+.cover-photo-hide {
+    font-size: 25px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.btn-cover-photo-show {
+    margin-bottom: 5px;
+}
+
+.cover-photo-actions {
+    position: absolute;
+    top: 50%;
+    margin-top: -40px;
+    width: 100%;
+}
+
+.cover-photo-help {
+    font-size: 20px;
+}
+
+.cover-photo-help1 {
+    margin-bottom: 10px;
+}
+
+.cover-photo-btn-container {
+    position: relative;
+}
+
+.editor-cover-photo {
+    height: 100%;
+}
+
+.white-bg {
+    background: #000;
+    opacity: 0.4;
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+}
+
+.editor-story {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid #eee;
+}
+
+/* end editor */
+
+/* opinion view */
+.opinion-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.opinion-cover-photo-container  {
+    margin-bottom: 15px;
+}
+.opinion-cover-photo {
+    width: 100%;
+}
+
+.opinion-title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.opinion-body {
+    font-size: 16px;
+}
+
+.opinion-body img {
+    width: 100%;
+}
+
+.no-story {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.social-bar .glyphicon {
+    font-size: 16px;
+}
+/* end opinion view */
+

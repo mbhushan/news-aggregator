@@ -1,0 +1,45 @@
+<div class="content-container" ng-show="errorMsg">
+    <br><div class="alert-error-message"><span class="alert alert-danger">{{errorMsg}}</span></div>
+</div>
+
+<div class="row content-container" ng-hide="errorMsg">
+    <div class="col-md-offset-2 col-md-8 profile-stories-container">
+        <div class="story-container" infinite-scroll="stories.nextPage()" infinite-scroll-disabled="stories.busy" infinite-scroll-distance="1">
+            <div class="story row story-post animated fadeIn"  ng-repeat='item in stories.items'>
+                <div class="text-right" ng-show="isEditable(item)">
+                    <span class="label label-primary">{{item.status}}</span>
+                    <a class="btn btn-default btn-xs" href="/write/{{item._id}}">Edit</a>
+                </div>
+
+                <div ng-show="item.photo" class="col-xs-12 col-md-6 story-photo-container">
+                    <div class="img-wrapper">
+                        <span class="photo-helper"></span><img class="story-photo" ng-show="item.photo" ng-src="{{item.photo}}" />
+                    </div>
+                </div>
+
+                <div ng-class="{false: 'col-xs-12 col-md-6 story-right', true: 'col-xs-12 col-md-12 story-right'}[!item.photo]">
+                    <div>
+                        <div class="story-title"><a ng-href="/opinion/{{item._id}}">{{item.title}}</a></div>
+                        <div class="story-created"><span ng-show="item.source_name">{{item.source_name}} -</span> {{item.published}}</div>
+                        <div class="story-info"></div>
+                        <ul class="list-inline story-actions">
+                            <li><a ng-href="{{stories.getLink(item, 'opinion')}}"><img class="social-icon" src="/static/img/social/comments.png" /></a>
+                                <a target="blank" href="https://www.facebook.com/sharer/sharer.php?u={{stories.getLink(item, 'opinion')}}"><img class="social-icon" src="/static/img/social/facebook.png" /></a>
+                                <a target="blank" href="https://twitter.com/intent/tweet?url={{stories.getLink(item, 'opinion')}}&text={{item.title}}&via=nation_story"><img class="social-icon" src="/static/img/social/twitter.png" /></a>
+                            </li>
+                        </ul>
+                        <div class="clearfix"></div>
+                    </div>
+                    <ul class="story-tags" >
+                        <li class="label label-story-tags" ng-repeat="tag in item.tags">
+                            <a class="story-tag" ng-href="/tag/{{tag}}">{{tag | removehypens}}</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="pull-center" ng-show='stories.busy'><span us-spinner></span></div>
+        <div class="pull-center no-story" ng-show="!stories.busy && stories.items.length == 0">No opinions found</div>
+
+    </div>
+</div>

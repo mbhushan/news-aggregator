@@ -1,0 +1,60 @@
+{% assets filters="cssmin", output="gen/css-vendor.css",
+"../static/css/vendor/bootstrap.min.css",
+"../static/css/vendor/angucomplete.css",
+"../static/css/vendor/animate.css"
+%}
+
+<link href="{{ ASSET_URL }}" media="screen" rel="stylesheet"
+    type="text/css" />
+{% endassets %}
+
+{% assets filters="cssmin", output="gen/css-app.css",
+"../static/css/app/bootstrap-custom.css",
+"../static/css/app/app.css"
+%}
+
+<link href="{{ ASSET_URL }}" media="screen" rel="stylesheet"
+    type="text/css" />
+{% endassets %}
+
+{% assets filters="rjsmin", output="gen/vendor-main.js",
+"../static/js/vendor/jquery-1.9.0.min.js",
+"../static/js/vendor/spin.min.js",
+"../static/js/vendor/bootstrap.min.js",
+"../static/js/vendor/jquery.hotkeys.js",
+"../static/js/vendor/angular.js",
+"../static/js/vendor/angular-route.min.js",
+"../static/js/vendor/angular-animate.min.js",
+"../static/js/vendor/angular-modal-service.min.js",
+"../static/js/vendor/ng-infinite-scroll.min.js",
+"../static/js/vendor/angular-sanitize.min.js",
+"../static/js/vendor/angucomplete.js",
+"../static/js/vendor/notify.min.js",
+"../static/js/vendor/angular-spinner.min.js",
+"../static/js/vendor/bootstrap-wysiwyg.js"
+ %}
+
+<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+{% endassets %}
+
+{% assets filters="rjsmin", output="gen/app-main.js",
+"../static/js/app/NS.js",
+"../static/js/app/app.js",
+"../static/js/app/Stories/Stories.js",
+"../static/js/app/Story/Story.js",
+"../static/js/app/Comments/Comments.js",
+"../static/js/app/Profile/Profile.js",
+"../static/js/app/Contact/Contact.js",
+"../static/js/app/About/About.js",
+"../static/js/app/Write/Write.js",
+"../static/js/app/Opinion/Opinion.js"
+ %}
+
+<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+{% endassets %}
+
+<meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.login email" />
+<meta name="google-signin-cookiepolicy" content="single_host_origin" />
+<script src="https://apis.google.com/js/client:platform.js?onload=render" async defer></script>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+

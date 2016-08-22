@@ -1,0 +1,17 @@
+<div class="comments-container">
+    <div class="comment-add">
+        <textarea class="form-control comment-area" ng-model="commentText" placeholder="Share your thoughts"></textarea>
+        <div class="text-right"><button ng-click="submitComment()" ng-disabled="postBtnText=='Posting'" class="btn btn-sm btn-primary btn-post">{{postBtnText}}</button></div>
+    </div>
+    <div class="comment-items">
+        <div class="text-center" ng-show='comments.busy'><span us-spinner></span></div>
+        <div class="comment-item clearfix" ng-repeat="comment in comments.items">
+            <div class="comment-pic"><img ng-src="{{comment.profile_pic}}"/></div>
+            <div class="comment-data">
+                <div class="comment-commentor">{{comment.name}} <span class="comment-published">{{comment.published}}</span></div>
+                <div class="comment-text">{{comment.text}}</div>
+            </div>
+        </div>
+    </div>
+    <div class="pull-center" ng-show='comments.busy'><span us-spinner></span></div>
+</div>

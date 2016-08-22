@@ -1,0 +1,1663 @@
+{"city": "goo", "state": "assam", "tag": ["goo", "assam"], "name": "goo"}
+{"city": "achabal", "state": "jammu and kashmir", "tag": ["achabal", "jammu and kashmir"], "name": "achabal"}
+{"city": "achalpur", "state": "maharashtra", "tag": ["achalpur", "maharashtra"], "name": "achalpur"}
+{"city": "achhnera", "state": "uttar pradesh", "tag": ["achhnera", "uttar pradesh"], "name": "achhnera"}
+{"city": "adari", "state": "uttar pradesh", "tag": ["adari", "uttar pradesh"], "name": "adari"}
+{"city": "adalaj", "state": "gujarat", "tag": ["adalaj", "gujarat"], "name": "adalaj"}
+{"city": "adilabad", "state": "andhra pradesh", "tag": ["adilabad", "andhra pradesh"], "name": "adilabad"}
+{"city": "adityana", "state": "gujarat", "tag": ["adityana", "gujarat"], "name": "adityana"}
+{"city": "pereyaapatna", "state": "karnataka", "tag": ["pereyaapatna", "karnataka"], "name": "pereyaapatna"}
+{"city": "adoni", "state": "andhra pradesh", "tag": ["adoni", "andhra pradesh"], "name": "adoni"}
+{"city": "adoor", "state": "kerala", "tag": ["adoor", "kerala"], "name": "adoor"}
+{"city": "adiyara", "state": "karnataka", "tag": ["adiyara", "karnataka"], "name": "adiyara"}
+{"city": "adra", "state": "west bengal", "tag": ["adra", "west bengal"], "name": "adra"}
+{"city": "afzalpura", "state": "karnataka", "tag": ["afzalpura", "karnataka"], "name": "afzalpura"}
+{"city": "agartala", "state": "tripura", "tag": ["agartala", "tripura"], "name": "agartala"}
+{"city": "agra", "state": "uttar pradesh", "tag": ["agra", "uttar pradesh"], "name": "agra"}
+{"city": "ahiwara", "state": "chhattisgarh", "tag": ["ahiwara", "chhattisgarh"], "name": "ahiwara"}
+{"city": "ahmedabad", "state": "gujarat", "tag": ["ahmedabad", "gujarat"], "name": "ahmedabad"}
+{"city": "ahmedgarh", "state": "punjab", "tag": ["ahmedgarh", "punjab"], "name": "ahmedgarh"}
+{"city": "ahmednagar", "state": "maharashtra", "tag": ["ahmednagar", "maharashtra"], "name": "ahmednagar"}
+{"city": "ahmedpur", "state": "maharashtra", "tag": ["ahmedpur", "maharashtra"], "name": "ahmedpur"}
+{"city": "aizawl", "state": "mizoram", "tag": ["aizawl", "mizoram"], "name": "aizawl"}
+{"city": "ajmer", "state": "rajasthan", "tag": ["ajmer", "rajasthan"], "name": "ajmer"}
+{"city": "ajra", "state": "maharashtra", "tag": ["ajra", "maharashtra"], "name": "ajra"}
+{"city": "akaltara", "state": "chhattisgarh", "tag": ["akaltara", "chhattisgarh"], "name": "akaltara"}
+{"city": "akbarpur", "state": "uttar pradesh", "tag": ["akbarpur", "uttar pradesh"], "name": "akbarpur"}
+{"city": "akathiyoor", "state": "kerala", "tag": ["akathiyoor", "kerala"], "name": "akathiyoor"}
+{"city": "akhnoor", "state": "jammu and kashmir", "tag": ["akhnoor", "jammu and kashmir"], "name": "akhnoor"}
+{"city": "akkalkot", "state": "maharashtra", "tag": ["akkalkot", "maharashtra"], "name": "akkalkot"}
+{"city": "akola", "state": "maharashtra", "tag": ["akola", "maharashtra"], "name": "akola"}
+{"city": "akot", "state": "maharashtra", "tag": ["akot", "maharashtra"], "name": "akot"}
+{"city": "alandha", "state": "karnataka", "tag": ["alandha", "karnataka"], "name": "alandha"}
+{"city": "alandi", "state": "maharashtra", "tag": ["alandi", "maharashtra"], "name": "alandi"}
+{"city": "alang", "state": "gujarat", "tag": ["alang", "gujarat"], "name": "alang"}
+{"city": "alappuzha", "state": "kerala", "tag": ["alappuzha", "kerala"], "name": "alappuzha"}
+{"city": "aldona", "state": "goa", "tag": ["aldona", "goa"], "name": "aldona"}
+{"city": "alibag", "state": "maharashtra", "tag": ["alibag", "maharashtra"], "name": "alibag"}
+{"city": "aligarh", "state": "uttar pradesh", "tag": ["aligarh", "uttar pradesh"], "name": "aligarh"}
+{"city": "alipurduar", "state": "west bengal", "tag": ["alipurduar", "west bengal"], "name": "alipurduar"}
+{"city": "allahabad", "state": "uttar pradesh", "tag": ["allahabad", "uttar pradesh"], "name": "allahabad"}
+{"city": "almora", "state": "uttarakhand", "tag": ["almora", "uttarakhand"], "name": "almora"}
+{"city": "aalanavara", "state": "karnataka", "tag": ["aalanavara", "karnataka"], "name": "aalanavara"}
+{"city": "along", "state": "arunachal pradesh", "tag": ["along", "arunachal pradesh"], "name": "along"}
+{"city": "alur", "state": "karnataka", "tag": ["alur", "karnataka"], "name": "alur"}
+{"city": "alwar", "state": "rajasthan", "tag": ["alwar", "rajasthan"], "name": "alwar"}
+{"city": "amadalavalasa", "state": "andhra pradesh", "tag": ["amadalavalasa", "andhra pradesh"], "name": "amadalavalasa"}
+{"city": "amalapuram", "state": "andhra pradesh", "tag": ["amalapuram", "andhra pradesh"], "name": "amalapuram"}
+{"city": "amalner", "state": "maharashtra", "tag": ["amalner", "maharashtra"], "name": "amalner"}
+{"city": "amarpur", "state": "bihar", "tag": ["amarpur", "bihar"], "name": "amarpur"}
+{"city": "ambad", "state": "maharashtra", "tag": ["ambad", "maharashtra"], "name": "ambad"}
+{"city": "ambagarh chowki", "state": "chhattisgarh", "tag": ["ambagarh chowki", "chhattisgarh"], "name": "ambagarh chowki"}
+{"city": "ambaji", "state": "gujarat", "tag": ["ambaji", "gujarat"], "name": "ambaji"}
+{"city": "ambaliyasan", "state": "gujarat", "tag": ["ambaliyasan", "gujarat"], "name": "ambaliyasan"}
+{"city": "ambejogai", "state": "maharashtra", "tag": ["ambejogai", "maharashtra"], "name": "ambejogai"}
+{"city": "ambikaanagara", "state": "karnataka", "tag": ["ambikaanagara", "karnataka"], "name": "ambikaanagara"}
+{"city": "ambikapur", "state": "chhattisgarh", "tag": ["ambikapur", "chhattisgarh"], "name": "ambikapur"}
+{"city": "ambivali tarf wankhal", "state": "maharashtra", "tag": ["ambivali tarf wankhal", "maharashtra"], "name": "ambivali tarf wankhal"}
+{"city": "ameenapuram", "state": "andhra pradesh", "tag": ["ameenapuram", "andhra pradesh"], "name": "ameenapuram"}
+{"city": "amguri", "state": "assam", "tag": ["amguri", "assam"], "name": "amguri"}
+{"city": "amini", "state": "lakshadweep", "tag": ["amini", "lakshadweep"], "name": "amini"}
+{"city": "amlabad", "state": "jharkhand", "tag": ["amlabad", "jharkhand"], "name": "amlabad"}
+{"city": "amli", "state": "dadra and nagar haveli", "tag": ["amli", "dadra and nagar haveli"], "name": "amli"}
+{"city": "amravati", "state": "maharashtra", "tag": ["amravati", "maharashtra"], "name": "amravati"}
+{"city": "amreli", "state": "gujarat", "tag": ["amreli", "gujarat"], "name": "amreli"}
+{"city": "amritsar", "state": "punjab", "tag": ["amritsar", "punjab"], "name": "amritsar"}
+{"city": "amroha", "state": "uttar pradesh", "tag": ["amroha", "uttar pradesh"], "name": "amroha"}
+{"city": "anakapalle", "state": "andhra pradesh", "tag": ["anakapalle", "andhra pradesh"], "name": "anakapalle"}
+{"city": "anand", "state": "gujarat", "tag": ["anand", "gujarat"], "name": "anand"}
+{"city": "anandapur", "state": "odisha", "tag": ["anandapur", "odisha"], "name": "anandapur"}
+{"city": "anandnagaar", "state": "assam", "tag": ["anandnagaar", "assam"], "name": "anandnagaar"}
+{"city": "anantapur", "state": "andhra pradesh", "tag": ["anantapur", "andhra pradesh"], "name": "anantapur"}
+{"city": "anantnag", "state": "jammu and kashmir", "tag": ["anantnag", "jammu and kashmir"], "name": "anantnag"}
+{"city": "ancharakandy", "state": "kerala", "tag": ["ancharakandy", "kerala"], "name": "ancharakandy"}
+{"city": "andada", "state": "gujarat", "tag": ["andada", "gujarat"], "name": "andada"}
+{"city": "anekal", "state": "karnataka", "tag": ["anekal", "karnataka"], "name": "anekal"}
+{"city": "ankola", "state": "karnataka", "tag": ["ankola", "karnataka"], "name": "ankola"}
+{"city": "anjar", "state": "gujarat", "tag": ["anjar", "gujarat"], "name": "anjar"}
+{"city": "anjangaon", "state": "maharashtra", "tag": ["anjangaon", "maharashtra"], "name": "anjangaon"}
+{"city": "anklav", "state": "gujarat", "tag": ["anklav", "gujarat"], "name": "anklav"}
+{"city": "ankleshwar", "state": "gujarat", "tag": ["ankleshwar", "gujarat"], "name": "ankleshwar"}
+{"city": "annigeri", "state": "karnataka", "tag": ["annigeri", "karnataka"], "name": "annigeri"}
+{"city": "antaliya", "state": "gujarat", "tag": ["antaliya", "gujarat"], "name": "antaliya"}
+{"city": "anugul", "state": "odisha", "tag": ["anugul", "odisha"], "name": "anugul"}
+{"city": "ara", "state": "jharkhand", "tag": ["ara", "jharkhand"], "name": "ara"}
+{"city": "arambhada", "state": "gujarat", "tag": ["arambhada", "gujarat"], "name": "arambhada"}
+{"city": "arakkonam", "state": "tamil nadu", "tag": ["arakkonam", "tamil nadu"], "name": "arakkonam"}
+{"city": "araria", "state": "bihar", "tag": ["araria", "bihar"], "name": "araria"}
+{"city": "arang", "state": "chhattisgarh", "tag": ["arang", "chhattisgarh"], "name": "arang"}
+{"city": "arambagh", "state": "west bengal", "tag": ["arambagh", "west bengal"], "name": "arambagh"}
+{"city": "arsikere", "state": "karnataka", "tag": ["arsikere", "karnataka"], "name": "arsikere"}
+{"city": "arcot", "state": "tamil nadu", "tag": ["arcot", "tamil nadu"], "name": "arcot"}
+{"city": "areraj", "state": "bihar", "tag": ["areraj", "bihar"], "name": "areraj"}
+{"city": "ariyalur", "state": "tamilnadu", "tag": ["ariyalur", "tamilnadu"], "name": "ariyalur"}
+{"city": "arkalgud", "state": "karnataka", "tag": ["arkalgud", "karnataka"], "name": "arkalgud"}
+{"city": "arki", "state": "himachal pradesh", "tag": ["arki", "himachal pradesh"], "name": "arki"}
+{"city": "arnia", "state": "jammu and kashmir", "tag": ["arnia", "jammu and kashmir"], "name": "arnia"}
+{"city": "aroor", "state": "kerala", "tag": ["aroor", "kerala"], "name": "aroor"}
+{"city": "arrah", "state": "bihar", "tag": ["arrah", "bihar"], "name": "arrah"}
+{"city": "aruppukkottai", "state": "tamil nadu", "tag": ["aruppukkottai", "tamil nadu"], "name": "aruppukkottai"}
+{"city": "arvi", "state": "maharashtra", "tag": ["arvi", "maharashtra"], "name": "arvi"}
+{"city": "arwal", "state": "bihar", "tag": ["arwal", "bihar"], "name": "arwal"}
+{"city": "asankhurd", "state": "haryana", "tag": ["asankhurd", "haryana"], "name": "asankhurd"}
+{"city": "asansol", "state": "west bengal", "tag": ["asansol", "west bengal"], "name": "asansol"}
+{"city": "asarganj", "state": "bihar", "tag": ["asarganj", "bihar"], "name": "asarganj"}
+{"city": "ashok nagar", "state": "madhya pradesh", "tag": ["ashok nagar", "madhya pradesh"], "name": "ashok nagar"}
+{"city": "ashta", "state": "maharashtra", "tag": ["ashta", "maharashtra"], "name": "ashta"}
+{"city": "ashtamichira", "state": "kerala", "tag": ["ashtamichira", "kerala"], "name": "ashtamichira"}
+{"city": "asika", "state": "odisha", "tag": ["asika", "odisha"], "name": "asika"}
+{"city": "asola", "state": "delhi", "tag": ["asola", "delhi"], "name": "asola"}
+{"city": "assandh", "state": "haryana", "tag": ["assandh", "haryana"], "name": "assandh"}
+{"city": "ateli", "state": "haryana", "tag": ["ateli", "haryana"], "name": "ateli"}
+{"city": "athni", "state": "karnataka", "tag": ["athni", "karnataka"], "name": "athni"}
+{"city": "attingal", "state": "kerala", "tag": ["attingal", "kerala"], "name": "attingal"}
+{"city": "atul", "state": "gujarat", "tag": ["atul", "gujarat"], "name": "atul"}
+{"city": "aurad", "state": "karnataka", "tag": ["aurad", "karnataka"], "name": "aurad"}
+{"city": "aurangabad", "state": "bihar", "tag": ["aurangabad", "bihar"], "name": "aurangabad"}
+{"city": "aurangabad", "state": "maharashtra", "tag": ["aurangabad", "maharashtra"], "name": "aurangabad"}
+{"city": "ausa", "state": "maharashtra", "tag": ["ausa", "maharashtra"], "name": "ausa"}
+{"city": "avinissery", "state": "kerala", "tag": ["avinissery", "kerala"], "name": "avinissery"}
+{"city": "awantipora", "state": "jammu and kashmir", "tag": ["awantipora", "jammu and kashmir"], "name": "awantipora"}
+{"city": "azamgarh", "state": "uttar pradesh", "tag": ["azamgarh", "uttar pradesh"], "name": "azamgarh"}
+{"city": "azmatgarh", "state": "uttar pradesh", "tag": ["azmatgarh", "uttar pradesh"], "name": "azmatgarh"}
+{"city": "babaleshwar", "state": "karnataka", "tag": ["babaleshwar", "karnataka"], "name": "babaleshwar"}
+{"city": "babiyal", "state": "haryana", "tag": ["babiyal", "haryana"], "name": "babiyal"}
+{"city": "baddi", "state": "himachal pradesh", "tag": ["baddi", "himachal pradesh"], "name": "baddi"}
+{"city": "bade bacheli", "state": "chhattisgarh", "tag": ["bade bacheli", "chhattisgarh"], "name": "bade bacheli"}
+{"city": "badaun", "state": "uttar pradesh", "tag": ["badaun", "uttar pradesh"], "name": "badaun"}
+{"city": "badagaon", "state": "madhya pradesh", "tag": ["badagaon", "madhya pradesh"], "name": "badagaon"}
+{"city": "badepalle", "state": "andhra pradesh", "tag": ["badepalle", "andhra pradesh"], "name": "badepalle"}
+{"city": "badharghat", "state": "tripura", "tag": ["badharghat", "tripura"], "name": "badharghat"}
+{"city": "bagaha", "state": "bihar", "tag": ["bagaha", "bihar"], "name": "bagaha"}
+{"city": "bageshwar", "state": "uttarakhand", "tag": ["bageshwar", "uttarakhand"], "name": "bageshwar"}
+{"city": "bahadurgarh", "state": "haryana", "tag": ["bahadurgarh", "haryana"], "name": "bahadurgarh"}
+{"city": "bahadurganj", "state": "bihar", "tag": ["bahadurganj", "bihar"], "name": "bahadurganj"}
+{"city": "baharampur", "state": "west bengal", "tag": ["baharampur", "west bengal"], "name": "baharampur"}
+{"city": "bahraich", "state": "uttar pradesh", "tag": ["bahraich", "uttar pradesh"], "name": "bahraich"}
+{"city": "bairgania", "state": "bihar", "tag": ["bairgania", "bihar"], "name": "bairgania"}
+{"city": "bakhtiarpur", "state": "bihar", "tag": ["bakhtiarpur", "bihar"], "name": "bakhtiarpur"}
+{"city": "balaghat", "state": "madhya pradesh", "tag": ["balaghat", "madhya pradesh"], "name": "balaghat"}
+{"city": "balangir", "state": "odisha", "tag": ["balangir", "odisha"], "name": "balangir"}
+{"city": "balasore", "state": "odisha", "tag": ["balasore", "odisha"], "name": "balasore"}
+{"city": "baleshwar", "state": "odisha", "tag": ["baleshwar", "odisha"], "name": "baleshwar"}
+{"city": "bawana", "state": "delhi", "tag": ["bawana", "delhi"], "name": "bawana"}
+{"city": "bhiwadi", "state": "rajasthan", "tag": ["bhiwadi", "rajasthan"], "name": "bhiwadi"}
+{"city": "bali", "state": "rajasthan", "tag": ["bali", "rajasthan"], "name": "bali"}
+{"city": "bally", "state": "west bengal", "tag": ["bally", "west bengal"], "name": "bally"}
+{"city": "ballabhgarh", "state": "haryana", "tag": ["ballabhgarh", "haryana"], "name": "ballabhgarh"}
+{"city": "ballia", "state": "uttar pradesh", "tag": ["ballia", "uttar pradesh"], "name": "ballia"}
+{"city": "balod", "state": "chhattisgarh", "tag": ["balod", "chhattisgarh"], "name": "balod"}
+{"city": "baloda bazar", "state": "chhattisgarh", "tag": ["baloda bazar", "chhattisgarh"], "name": "baloda bazar"}
+{"city": "balrampur", "state": "uttar pradesh", "tag": ["balrampur", "uttar pradesh"], "name": "balrampur"}
+{"city": "balurghat", "state": "west bengal", "tag": ["balurghat", "west bengal"], "name": "balurghat"}
+{"city": "bamra", "state": "odisha", "tag": ["bamra", "odisha"], "name": "bamra"}
+{"city": "bandar", "state": "uttar pradesh", "tag": ["bandar", "uttar pradesh"], "name": "bandar"}
+{"city": "bandikui", "state": "rajasthan", "tag": ["bandikui", "rajasthan"], "name": "bandikui"}
+{"city": "bandipore", "state": "jammu and kashmir", "tag": ["bandipore", "jammu and kashmir"], "name": "bandipore"}
+{"city": "bangalore", "state": "karnataka", "tag": ["bangalore", "karnataka"], "name": "bangalore"}
+{"city": "banganapalle", "state": "andhra pradesh", "tag": ["banganapalle", "andhra pradesh"], "name": "banganapalle"}
+{"city": "banka", "state": "bihar", "tag": ["banka", "bihar"], "name": "banka"}
+{"city": "banmankhi bazar", "state": "bihar", "tag": ["banmankhi bazar", "bihar"], "name": "banmankhi bazar"}
+{"city": "banswara", "state": "rajasthan", "tag": ["banswara", "rajasthan"], "name": "banswara"}
+{"city": "bankura", "state": "west bengal", "tag": ["bankura", "west bengal"], "name": "bankura"}
+{"city": "bapatla", "state": "andhra pradesh", "tag": ["bapatla", "andhra pradesh"], "name": "bapatla"}
+{"city": "barakar", "state": "west bengal", "tag": ["barakar", "west bengal"], "name": "barakar"}
+{"city": "barahiya", "state": "bihar", "tag": ["barahiya", "bihar"], "name": "barahiya"}
+{"city": "baramati", "state": "maharashtra", "tag": ["baramati", "maharashtra"], "name": "baramati"}
+{"city": "baramula", "state": "jammu and kashmir", "tag": ["baramula", "jammu and kashmir"], "name": "baramula"}
+{"city": "baran", "state": "rajasthan", "tag": ["baran", "rajasthan"], "name": "baran"}
+{"city": "barasat", "state": "west bengal", "tag": ["barasat", "west bengal"], "name": "barasat"}
+{"city": "bardhaman", "state": "west bengal", "tag": ["bardhaman", "west bengal"], "name": "bardhaman"}
+{"city": "barauli", "state": "bihar", "tag": ["barauli", "bihar"], "name": "barauli"}
+{"city": "barbigha", "state": "bihar", "tag": ["barbigha", "bihar"], "name": "barbigha"}
+{"city": "bareilly", "state": "uttar pradesh", "tag": ["bareilly", "uttar pradesh"], "name": "bareilly"}
+{"city": "barughutu", "state": "jharkhand", "tag": ["barughutu", "jharkhand"], "name": "barughutu"}
+{"city": "basna", "state": "chhattisgarh", "tag": ["basna", "chhattisgarh"], "name": "basna"}
+{"city": "barbil", "state": "odisha", "tag": ["barbil", "odisha"], "name": "barbil"}
+{"city": "bargarh", "state": "odisha", "tag": ["bargarh", "odisha"], "name": "bargarh"}
+{"city": "barh", "state": "bihar", "tag": ["barh", "bihar"], "name": "barh"}
+{"city": "baripada", "state": "odisha", "tag": ["baripada", "odisha"], "name": "baripada"}
+{"city": "barmer", "state": "rajasthan", "tag": ["barmer", "rajasthan"], "name": "barmer"}
+{"city": "barnala", "state": "punjab", "tag": ["barnala", "punjab"], "name": "barnala"}
+{"city": "barpeta", "state": "assam", "tag": ["barpeta", "assam"], "name": "barpeta"}
+{"city": "barpeta road", "state": "assam", "tag": ["barpeta road", "assam"], "name": "barpeta road"}
+{"city": "barrackpur", "state": "west bengal", "tag": ["barrackpur", "west bengal"], "name": "barrackpur"}
+{"city": "barwani", "state": "madhya pradesh", "tag": ["barwani", "madhya pradesh"], "name": "barwani"}
+{"city": "barwala", "state": "haryana", "tag": ["barwala", "haryana"], "name": "barwala"}
+{"city": "basavan bagevadi", "state": "karnataka", "tag": ["basavan bagevadi", "karnataka"], "name": "basavan bagevadi"}
+{"city": "basudebpur", "state": "odisha", "tag": ["basudebpur", "odisha"], "name": "basudebpur"}
+{"city": "batala", "state": "punjab", "tag": ["batala", "punjab"], "name": "batala"}
+{"city": "bathinda", "state": "punjab", "tag": ["bathinda", "punjab"], "name": "bathinda"}
+{"city": "bawal", "state": "haryana", "tag": ["bawal", "haryana"], "name": "bawal"}
+{"city": "bazpur", "state": "uttarakhand", "tag": ["bazpur", "uttarakhand"], "name": "bazpur"}
+{"city": "beawar", "state": "rajasthan", "tag": ["beawar", "rajasthan"], "name": "beawar"}
+{"city": "begusarai", "state": "bihar", "tag": ["begusarai", "bihar"], "name": "begusarai"}
+{"city": "behea", "state": "bihar", "tag": ["behea", "bihar"], "name": "behea"}
+{"city": "belgaum", "state": "karnataka", "tag": ["belgaum", "karnataka"], "name": "belgaum"}
+{"city": "bellampalle", "state": "andhra pradesh", "tag": ["bellampalle", "andhra pradesh"], "name": "bellampalle"}
+{"city": "ballary", "state": "karnataka", "tag": ["ballary", "karnataka"], "name": "ballary"}
+{"city": "belpahar", "state": "odisha", "tag": ["belpahar", "odisha"], "name": "belpahar"}
+{"city": "bemetra", "state": "chhattisgarh", "tag": ["bemetra", "chhattisgarh"], "name": "bemetra"}
+{"city": "berinag", "state": "uttarakhand", "tag": ["berinag", "uttarakhand"], "name": "berinag"}
+{"city": "bethamcherla", "state": "andhra pradesh", "tag": ["bethamcherla", "andhra pradesh"], "name": "bethamcherla"}
+{"city": "bettiah", "state": "bihar", "tag": ["bettiah", "bihar"], "name": "bettiah"}
+{"city": "betul", "state": "madhya pradesh", "tag": ["betul", "madhya pradesh"], "name": "betul"}
+{"city": "bhabua", "state": "bihar", "tag": ["bhabua", "bihar"], "name": "bhabua"}
+{"city": "bhadrachalam", "state": "andhra pradesh", "tag": ["bhadrachalam", "andhra pradesh"], "name": "bhadrachalam"}
+{"city": "bhadrak", "state": "odisha", "tag": ["bhadrak", "odisha"], "name": "bhadrak"}
+{"city": "bhagalpur", "state": "bihar", "tag": ["bhagalpur", "bihar"], "name": "bhagalpur"}
+{"city": "bhagha purana", "state": "punjab", "tag": ["bhagha purana", "punjab"], "name": "bhagha purana"}
+{"city": "bhainsa", "state": "andhra pradesh", "tag": ["bhainsa", "andhra pradesh"], "name": "bhainsa"}
+{"city": "bhajanpura", "state": "delhi", "tag": ["bhajanpura", "delhi"], "name": "bhajanpura"}
+{"city": "bhandara", "state": "maharashtra", "tag": ["bhandara", "maharashtra"], "name": "bhandara"}
+{"city": "bharatpur", "state": "rajasthan", "tag": ["bharatpur", "rajasthan"], "name": "bharatpur"}
+{"city": "bharthana", "state": "uttar pradesh", "tag": ["bharthana", "uttar pradesh"], "name": "bharthana"}
+{"city": "bharuch", "state": "gujarat", "tag": ["bharuch", "gujarat"], "name": "bharuch"}
+{"city": "bhatapara", "state": "chhattisgarh", "tag": ["bhatapara", "chhattisgarh"], "name": "bhatapara"}
+{"city": "bhavani", "state": "tamil nadu", "tag": ["bhavani", "tamil nadu"], "name": "bhavani"}
+{"city": "bhavnagar", "state": "gujarat", "tag": ["bhavnagar", "gujarat"], "name": "bhavnagar"}
+{"city": "bhawanipatna", "state": "odisha", "tag": ["bhawanipatna", "odisha"], "name": "bhawanipatna"}
+{"city": "bheemunipatnam", "state": "andhra pradesh", "tag": ["bheemunipatnam", "andhra pradesh"], "name": "bheemunipatnam"}
+{"city": "bhilai", "state": "chhattisgarh", "tag": ["bhilai", "chhattisgarh"], "name": "bhilai"}
+{"city": "bhilwara", "state": "rajasthan", "tag": ["bhilwara", "rajasthan"], "name": "bhilwara"}
+{"city": "bhimavaram", "state": "andhra pradesh", "tag": ["bhimavaram", "andhra pradesh"], "name": "bhimavaram"}
+{"city": "bhinmal", "state": "rajasthan", "tag": ["bhinmal", "rajasthan"], "name": "bhinmal"}
+{"city": "bhiwandi", "state": "maharashtra", "tag": ["bhiwandi", "maharashtra"], "name": "bhiwandi"}
+{"city": "bhiwani", "state": "haryana", "tag": ["bhiwani", "haryana"], "name": "bhiwani"}
+{"city": "bhongir", "state": "andhra pradesh", "tag": ["bhongir", "andhra pradesh"], "name": "bhongir"}
+{"city": "bhopal", "state": "madhya pradesh", "tag": ["bhopal", "madhya pradesh"], "name": "bhopal"}
+{"city": "bhuban", "state": "odisha", "tag": ["bhuban", "odisha"], "name": "bhuban"}
+{"city": "bhubaneswar", "state": "odisha", "tag": ["bhubaneswar", "odisha"], "name": "bhubaneswar"}
+{"city": "bhuj", "state": "gujarat", "tag": ["bhuj", "gujarat"], "name": "bhuj"}
+{"city": "bhusawal", "state": "maharashtra", "tag": ["bhusawal", "maharashtra"], "name": "bhusawal"}
+{"city": "bidar", "state": "karnataka", "tag": ["bidar", "karnataka"], "name": "bidar"}
+{"city": "bidhan nagar", "state": "west bengal", "tag": ["bidhan nagar", "west bengal"], "name": "bidhan nagar"}
+{"city": "bihar sharif", "state": "bihar", "tag": ["bihar sharif", "bihar"], "name": "bihar sharif"}
+{"city": "bijapur", "state": "karnataka", "tag": ["bijapur", "karnataka"], "name": "bijapur"}
+{"city": "bijbehara", "state": "jammu and kashmir", "tag": ["bijbehara", "jammu and kashmir"], "name": "bijbehara"}
+{"city": "bijnor", "state": "uttar pradesh", "tag": ["bijnor", "uttar pradesh"], "name": "bijnor"}
+{"city": "bikaner", "state": "rajasthan", "tag": ["bikaner", "rajasthan"], "name": "bikaner"}
+{"city": "bikramganj", "state": "bihar", "tag": ["bikramganj", "bihar"], "name": "bikramganj"}
+{"city": "bilara", "state": "rajasthan", "tag": ["bilara", "rajasthan"], "name": "bilara"}
+{"city": "bilasipara", "state": "assam", "tag": ["bilasipara", "assam"], "name": "bilasipara"}
+{"city": "bilaspur", "state": "chhattisgarh", "tag": ["bilaspur", "chhattisgarh"], "name": "bilaspur"}
+{"city": "bilaspur", "state": "himachal pradesh", "tag": ["bilaspur", "himachal pradesh"], "name": "bilaspur"}
+{"city": "biramitrapur", "state": "odisha", "tag": ["biramitrapur", "odisha"], "name": "biramitrapur"}
+{"city": "birgaon", "state": "chhattisgarh", "tag": ["birgaon", "chhattisgarh"], "name": "birgaon"}
+{"city": "bobbili", "state": "andhra pradesh", "tag": ["bobbili", "andhra pradesh"], "name": "bobbili"}
+{"city": "bodhan", "state": "andhra pradesh", "tag": ["bodhan", "andhra pradesh"], "name": "bodhan"}
+{"city": "bodh gaya", "state": "bihar", "tag": ["bodh gaya", "bihar"], "name": "bodh gaya"}
+{"city": "bokaro steel city", "state": "jharkhand", "tag": ["bokaro steel city", "jharkhand"], "name": "bokaro steel city"}
+{"city": "bongaigaon city", "state": "assam", "tag": ["bongaigaon city", "assam"], "name": "bongaigaon city"}
+{"city": "bomdila", "state": "arunachal pradesh", "tag": ["bomdila", "arunachal pradesh"], "name": "bomdila"}
+{"city": "brahmapur", "state": "odisha", "tag": ["brahmapur", "odisha"], "name": "brahmapur"}
+{"city": "brajrajnagar", "state": "odisha", "tag": ["brajrajnagar", "odisha"], "name": "brajrajnagar"}
+{"city": "budaun", "state": "uttar pradesh", "tag": ["budaun", "uttar pradesh"], "name": "budaun"}
+{"city": "budhlada", "state": "punjab", "tag": ["budhlada", "punjab"], "name": "budhlada"}
+{"city": "bulandshahr", "state": "uttar pradesh", "tag": ["bulandshahr", "uttar pradesh"], "name": "bulandshahr"}
+{"city": "burhanpur", "state": "madhya pradesh", "tag": ["burhanpur", "madhya pradesh"], "name": "burhanpur"}
+{"city": "burla", "state": "odisha", "tag": ["burla", "odisha"], "name": "burla"}
+{"city": "buxar", "state": "bihar", "tag": ["buxar", "bihar"], "name": "buxar"}
+{"city": "byasanagar", "state": "odisha", "tag": ["byasanagar", "odisha"], "name": "byasanagar"}
+{"city": "chadchan", "state": "karnataka", "tag": ["chadchan", "karnataka"], "name": "chadchan"}
+{"city": "chaibasa", "state": "jharkhand", "tag": ["chaibasa", "jharkhand"], "name": "chaibasa"}
+{"city": "chakeri", "state": "uttar pradesh", "tag": ["chakeri", "uttar pradesh"], "name": "chakeri"}
+{"city": "chakradharpur", "state": "jharkhand", "tag": ["chakradharpur", "jharkhand"], "name": "chakradharpur"}
+{"city": "chalisgaon", "state": "maharashtra", "tag": ["chalisgaon", "maharashtra"], "name": "chalisgaon"}
+{"city": "chamba", "state": "himachal pradesh", "tag": ["chamba", "himachal pradesh"], "name": "chamba"}
+{"city": "chamba", "state": "uttarakhand", "tag": ["chamba", "uttarakhand"], "name": "chamba"}
+{"city": "champa", "state": "chhattisgarh", "tag": ["champa", "chhattisgarh"], "name": "champa"}
+{"city": "champawat", "state": "uttarakhand", "tag": ["champawat", "uttarakhand"], "name": "champawat"}
+{"city": "champhai", "state": "mizoram", "tag": ["champhai", "mizoram"], "name": "champhai"}
+{"city": "chamarajanagara", "state": "karnataka", "tag": ["chamarajanagara", "karnataka"], "name": "chamarajanagara"}
+{"city": "chandigarh", "state": "chandigarh", "tag": ["chandigarh", "chandigarh"], "name": "chandigarh"}
+{"city": "chandil", "state": "jharkhand", "tag": ["chandil", "jharkhand"], "name": "chandil"}
+{"city": "chandausi", "state": "uttar pradesh", "tag": ["chandausi", "uttar pradesh"], "name": "chandausi"}
+{"city": "chandrapura", "state": "jharkhand", "tag": ["chandrapura", "jharkhand"], "name": "chandrapura"}
+{"city": "chanpatia", "state": "bihar", "tag": ["chanpatia", "bihar"], "name": "chanpatia"}
+{"city": "charkhi dadri", "state": "haryana", "tag": ["charkhi dadri", "haryana"], "name": "charkhi dadri"}
+{"city": "chapirevula", "state": "andhra pradesh", "tag": ["chapirevula", "andhra pradesh"], "name": "chapirevula"}
+{"city": "chatra", "state": "jharkhand", "tag": ["chatra", "jharkhand"], "name": "chatra"}
+{"city": "charkhari", "state": "uttar pradesh", "tag": ["charkhari", "uttar pradesh"], "name": "charkhari"}
+{"city": "chalakudy", "state": "kerala", "tag": ["chalakudy", "kerala"], "name": "chalakudy"}
+{"city": "chandrapur", "state": "maharashtra", "tag": ["chandrapur", "maharashtra"], "name": "chandrapur"}
+{"city": "changanassery", "state": "kerala", "tag": ["changanassery", "kerala"], "name": "changanassery"}
+{"city": "cheeka", "state": "haryana", "tag": ["cheeka", "haryana"], "name": "cheeka"}
+{"city": "chendamangalam", "state": "kerala", "tag": ["chendamangalam", "kerala"], "name": "chendamangalam"}
+{"city": "chengalpattu", "state": "tamil nadu", "tag": ["chengalpattu", "tamil nadu"], "name": "chengalpattu"}
+{"city": "chengannur", "state": "kerala", "tag": ["chengannur", "kerala"], "name": "chengannur"}
+{"city": "chennai", "state": "tamil nadu", "tag": ["chennai", "tamil nadu"], "name": "chennai"}
+{"city": "cherthala", "state": "kerala", "tag": ["cherthala", "kerala"], "name": "cherthala"}
+{"city": "cheruthazham", "state": "kerala", "tag": ["cheruthazham", "kerala"], "name": "cheruthazham"}
+{"city": "chhapra", "state": "bihar", "tag": ["chhapra", "bihar"], "name": "chhapra"}
+{"city": "chhatarpur", "state": "madhya pradesh", "tag": ["chhatarpur", "madhya pradesh"], "name": "chhatarpur"}
+{"city": "chhindwara", "state": "madhya pradesh", "tag": ["chhindwara", "madhya pradesh"], "name": "chhindwara"}
+{"city": "chikkodi", "state": "karnataka", "tag": ["chikkodi", "karnataka"], "name": "chikkodi"}
+{"city": "chikkamagalur", "state": "karnataka", "tag": ["chikkamagalur", "karnataka"], "name": "chikkamagalur"}
+{"city": "chilakaluripet", "state": "andhra pradesh", "tag": ["chilakaluripet", "andhra pradesh"], "name": "chilakaluripet"}
+{"city": "chinchani", "state": "maharashtra", "tag": ["chinchani", "maharashtra"], "name": "chinchani"}
+{"city": "chinna salem", "state": "tamil nadu", "tag": ["chinna salem", "tamil nadu"], "name": "chinna salem"}
+{"city": "chinthaamani", "state": "karnataka", "tag": ["chinthaamani", "karnataka"], "name": "chinthaamani"}
+{"city": "chiplun", "state": "maharashtra", "tag": ["chiplun", "maharashtra"], "name": "chiplun"}
+{"city": "chirala", "state": "andhra pradesh", "tag": ["chirala", "andhra pradesh"], "name": "chirala"}
+{"city": "chirkunda", "state": "jharkhand", "tag": ["chirkunda", "jharkhand"], "name": "chirkunda"}
+{"city": "chirmiri", "state": "chhattisgarh", "tag": ["chirmiri", "chhattisgarh"], "name": "chirmiri"}
+{"city": "chinsura", "state": "west bengal", "tag": ["chinsura", "west bengal"], "name": "chinsura"}
+{"city": "chitradurga", "state": "karnataka", "tag": ["chitradurga", "karnataka"], "name": "chitradurga"}
+{"city": "chittur-thathamangalam", "state": "kerala", "tag": ["chittur-thathamangalam", "kerala"], "name": "chittur-thathamangalam"}
+{"city": "chitrakoot", "state": "madhya pradesh", "tag": ["chitrakoot", "madhya pradesh"], "name": "chitrakoot"}
+{"city": "chittoor", "state": "andhra pradesh", "tag": ["chittoor", "andhra pradesh"], "name": "chittoor"}
+{"city": "chockli", "state": "kerala", "tag": ["chockli", "kerala"], "name": "chockli"}
+{"city": "churi", "state": "jharkhand", "tag": ["churi", "jharkhand"], "name": "churi"}
+{"city": "churu", "state": "rajasthan", "tag": ["churu", "rajasthan"], "name": "churu"}
+{"city": "coimbatore", "state": "tamil nadu", "tag": ["coimbatore", "tamil nadu"], "name": "coimbatore"}
+{"city": "colgong", "state": "bihar", "tag": ["colgong", "bihar"], "name": "colgong"}
+{"city": "contai", "state": "west bengal", "tag": ["contai", "west bengal"], "name": "contai"}
+{"city": "cooch behar", "state": "west bengal", "tag": ["cooch behar", "west bengal"], "name": "cooch behar"}
+{"city": "coonoor", "state": "tamil nadu", "tag": ["coonoor", "tamil nadu"], "name": "coonoor"}
+{"city": "cuddalore", "state": "tamil nadu", "tag": ["cuddalore", "tamil nadu"], "name": "cuddalore"}
+{"city": "cuddapah", "state": "andhra pradesh", "tag": ["cuddapah", "andhra pradesh"], "name": "cuddapah"}
+{"city": "curchorem cacora", "state": "goa", "tag": ["curchorem cacora", "goa"], "name": "curchorem cacora"}
+{"city": "cuttack", "state": "odisha", "tag": ["cuttack", "odisha"], "name": "cuttack"}
+{"city": "chikkaballapura", "state": "karnataka", "tag": ["chikkaballapura", "karnataka"], "name": "chikkaballapura"}
+{"city": "chandan bara", "state": "bihar", "tag": ["chandan bara", "bihar"], "name": "chandan bara"}
+{"city": "chaukori", "state": "uttarakhand", "tag": ["chaukori", "uttarakhand"], "name": "chaukori"}
+{"city": "dabra", "state": "madhya pradesh", "tag": ["dabra", "madhya pradesh"], "name": "dabra"}
+{"city": "dadri", "state": "uttar pradesh", "tag": ["dadri", "uttar pradesh"], "name": "dadri"}
+{"city": "dahod", "state": "gujarat", "tag": ["dahod", "gujarat"], "name": "dahod"}
+{"city": "dalhousie", "state": "himachal pradesh", "tag": ["dalhousie", "himachal pradesh"], "name": "dalhousie"}
+{"city": "dalkhola", "state": "west bengal", "tag": ["dalkhola", "west bengal"], "name": "dalkhola"}
+{"city": "dalli-rajhara", "state": "chhattisgarh", "tag": ["dalli-rajhara", "chhattisgarh"], "name": "dalli-rajhara"}
+{"city": "dalsinghsarai", "state": "bihar", "tag": ["dalsinghsarai", "bihar"], "name": "dalsinghsarai"}
+{"city": "daltonganj", "state": "jharkhand", "tag": ["daltonganj", "jharkhand"], "name": "daltonganj"}
+{"city": "daman and diu", "state": "daman and diu", "tag": ["daman and diu", "daman and diu"], "name": "daman and diu"}
+{"city": "damoh", "state": "madhya pradesh", "tag": ["damoh", "madhya pradesh"], "name": "damoh"}
+{"city": "darbhanga", "state": "bihar", "tag": ["darbhanga", "bihar"], "name": "darbhanga"}
+{"city": "darjeeling", "state": "west bengal", "tag": ["darjeeling", "west bengal"], "name": "darjeeling"}
+{"city": "dasua", "state": "punjab", "tag": ["dasua", "punjab"], "name": "dasua"}
+{"city": "datia", "state": "madhya pradesh", "tag": ["datia", "madhya pradesh"], "name": "datia"}
+{"city": "daudnagar", "state": "bihar", "tag": ["daudnagar", "bihar"], "name": "daudnagar"}
+{"city": "daund", "state": "maharashtra", "tag": ["daund", "maharashtra"], "name": "daund"}
+{"city": "davanagere", "state": "karnataka", "tag": ["davanagere", "karnataka"], "name": "davanagere"}
+{"city": "debagarh", "state": "orissa", "tag": ["debagarh", "orissa"], "name": "debagarh"}
+{"city": "deesa", "state": "gujarat", "tag": ["deesa", "gujarat"], "name": "deesa"}
+{"city": "dehegam", "state": "gujarat", "tag": ["dehegam", "gujarat"], "name": "dehegam"}
+{"city": "dehradun", "state": "uttarakhand", "tag": ["dehradun", "uttarakhand"], "name": "dehradun"}
+{"city": "dehri-on-sone", "state": "bihar", "tag": ["dehri-on-sone", "bihar"], "name": "dehri-on-sone"}
+{"city": "delhi", "state": "delhi", "tag": ["delhi", "delhi"], "name": "delhi"}
+{"city": "deoghar", "state": "jharkhand", "tag": ["deoghar", "jharkhand"], "name": "deoghar"}
+{"city": "deoria", "state": "uttar pradesh", "tag": ["deoria", "uttar pradesh"], "name": "deoria"}
+{"city": "devarakonda", "state": "andhra pradesh", "tag": ["devarakonda", "andhra pradesh"], "name": "devarakonda"}
+{"city": "devar hipparagi", "state": "karnataka", "tag": ["devar hipparagi", "karnataka"], "name": "devar hipparagi"}
+{"city": "devgarh", "state": "maharashtra", "tag": ["devgarh", "maharashtra"], "name": "devgarh"}
+{"city": "devgarh", "state": "rajasthan", "tag": ["devgarh", "rajasthan"], "name": "devgarh"}
+{"city": "dewas", "state": "madhya pradesh", "tag": ["dewas", "madhya pradesh"], "name": "dewas"}
+{"city": "dhampur", "state": "uttar pradesh", "tag": ["dhampur", "uttar pradesh"], "name": "dhampur"}
+{"city": "dhamtari", "state": "chhattisgarh", "tag": ["dhamtari", "chhattisgarh"], "name": "dhamtari"}
+{"city": "dhanbad", "state": "jharkhand", "tag": ["dhanbad", "jharkhand"], "name": "dhanbad"}
+{"city": "dhar", "state": "madhya pradesh", "tag": ["dhar", "madhya pradesh"], "name": "dhar"}
+{"city": "dharampur", "state": "gujarat", "tag": ["dharampur", "gujarat"], "name": "dharampur"}
+{"city": "dharamsala", "state": "himachal pradesh", "tag": ["dharamsala", "himachal pradesh"], "name": "dharamsala"}
+{"city": "dharmanagar", "state": "tripura", "tag": ["dharmanagar", "tripura"], "name": "dharmanagar"}
+{"city": "dharmapuri", "state": "tamil nadu", "tag": ["dharmapuri", "tamil nadu"], "name": "dharmapuri"}
+{"city": "dharmavaram", "state": "andhra pradesh", "tag": ["dharmavaram", "andhra pradesh"], "name": "dharmavaram"}
+{"city": "dharwad", "state": "karnataka", "tag": ["dharwad", "karnataka"], "name": "dharwad"}
+{"city": "dhekiajuli", "state": "assam", "tag": ["dhekiajuli", "assam"], "name": "dhekiajuli"}
+{"city": "dhenkanal", "state": "orissa", "tag": ["dhenkanal", "orissa"], "name": "dhenkanal"}
+{"city": "dholka", "state": "gujarat", "tag": ["dholka", "gujarat"], "name": "dholka"}
+{"city": "dhubri", "state": "assam", "tag": ["dhubri", "assam"], "name": "dhubri"}
+{"city": "dhule", "state": "maharashtra", "tag": ["dhule", "maharashtra"], "name": "dhule"}
+{"city": "dhulian", "state": "west bengal", "tag": ["dhulian", "west bengal"], "name": "dhulian"}
+{"city": "dhuri", "state": "punjab", "tag": ["dhuri", "punjab"], "name": "dhuri"}
+{"city": "dibrugarh", "state": "assam", "tag": ["dibrugarh", "assam"], "name": "dibrugarh"}
+{"city": "digboi", "state": "assam", "tag": ["digboi", "assam"], "name": "digboi"}
+{"city": "dighwara", "state": "bihar", "tag": ["dighwara", "bihar"], "name": "dighwara"}
+{"city": "dimapur", "state": "nagaland", "tag": ["dimapur", "nagaland"], "name": "dimapur"}
+{"city": "dinanagar", "state": "punjab", "tag": ["dinanagar", "punjab"], "name": "dinanagar"}
+{"city": "dindigul", "state": "tamil nadu", "tag": ["dindigul", "tamil nadu"], "name": "dindigul"}
+{"city": "diphu", "state": "assam", "tag": ["diphu", "assam"], "name": "diphu"}
+{"city": "dipka", "state": "chhattisgarh", "tag": ["dipka", "chhattisgarh"], "name": "dipka"}
+{"city": "dispur", "state": "assam", "tag": ["dispur", "assam"], "name": "dispur"}
+{"city": "dombivli", "state": "maharashtra", "tag": ["dombivli", "maharashtra"], "name": "dombivli"}
+{"city": "dongargarh", "state": "chhattisgarh", "tag": ["dongargarh", "chhattisgarh"], "name": "dongargarh"}
+{"city": "duliajan oil town", "state": "assam", "tag": ["duliajan oil town", "assam"], "name": "duliajan oil town"}
+{"city": "dumdum", "state": "west bengal", "tag": ["dumdum", "west bengal"], "name": "dumdum"}
+{"city": "dumka", "state": "jharkhand", "tag": ["dumka", "jharkhand"], "name": "dumka"}
+{"city": "dumraon", "state": "bihar", "tag": ["dumraon", "bihar"], "name": "dumraon"}
+{"city": "durg", "state": "chhattisgarh", "tag": ["durg", "chhattisgarh"], "name": "durg"}
+{"city": "bhilai", "state": "chhattisgarh", "tag": ["bhilai", "chhattisgarh"], "name": "bhilai"}
+{"city": "durgapur", "state": "west bengal", "tag": ["durgapur", "west bengal"], "name": "durgapur"}
+{"city": "dwarka", "state": "gujarat", "tag": ["dwarka", "gujarat"], "name": "dwarka"}
+{"city": "ellenabad", "state": "haryana", "tag": ["ellenabad", "haryana"], "name": "ellenabad"}
+{"city": "eluru", "state": "andhra pradesh", "tag": ["eluru", "andhra pradesh"], "name": "eluru"}
+{"city": "erattupetta", "state": "kerala", "tag": ["erattupetta", "kerala"], "name": "erattupetta"}
+{"city": "erode", "state": "tamil nadu", "tag": ["erode", "tamil nadu"], "name": "erode"}
+{"city": "etah", "state": "uttar pradesh", "tag": ["etah", "uttar pradesh"], "name": "etah"}
+{"city": "etawah", "state": "uttar pradesh", "tag": ["etawah", "uttar pradesh"], "name": "etawah"}
+{"city": "malda", "state": "west bengal", "tag": ["malda", "west bengal"], "name": "malda"}
+{"city": "faizabad", "state": "uttar pradesh", "tag": ["faizabad", "uttar pradesh"], "name": "faizabad"}
+{"city": "falna", "state": "rajasthan", "tag": ["falna", "rajasthan"], "name": "falna"}
+{"city": "faridabad", "state": "haryana", "tag": ["faridabad", "haryana"], "name": "faridabad"}
+{"city": "faridkot", "state": "punjab", "tag": ["faridkot", "punjab"], "name": "faridkot"}
+{"city": "farooqnagar", "state": "andhra pradesh", "tag": ["farooqnagar", "andhra pradesh"], "name": "farooqnagar"}
+{"city": "farrukhabad", "state": "uttar pradesh", "tag": ["farrukhabad", "uttar pradesh"], "name": "farrukhabad"}
+{"city": "fatehabad", "state": "haryana", "tag": ["fatehabad", "haryana"], "name": "fatehabad"}
+{"city": "fatehabad", "state": "madhya pradesh", "tag": ["fatehabad", "madhya pradesh"], "name": "fatehabad"}
+{"city": "fatehabad", "state": "uttar pradesh", "tag": ["fatehabad", "uttar pradesh"], "name": "fatehabad"}
+{"city": "fatehgarh", "state": "uttar pradesh", "tag": ["fatehgarh", "uttar pradesh"], "name": "fatehgarh"}
+{"city": "fatehpur chaurasi", "state": "uttar pradesh", "tag": ["fatehpur chaurasi", "uttar pradesh"], "name": "fatehpur chaurasi"}
+{"city": "fatehpur sikri", "state": "uttar pradesh", "tag": ["fatehpur sikri", "uttar pradesh"], "name": "fatehpur sikri"}
+{"city": "fatehpur", "state": "rajasthan", "tag": ["fatehpur", "rajasthan"], "name": "fatehpur"}
+{"city": "fatehpur", "state": "uttar pradesh", "tag": ["fatehpur", "uttar pradesh"], "name": "fatehpur"}
+{"city": "fatehpur", "state": "uttar pradesh", "tag": ["fatehpur", "uttar pradesh"], "name": "fatehpur"}
+{"city": "fatwah", "state": "bihar", "tag": ["fatwah", "bihar"], "name": "fatwah"}
+{"city": "fazilka", "state": "punjab", "tag": ["fazilka", "punjab"], "name": "fazilka"}
+{"city": "forbesganj", "state": "bihar", "tag": ["forbesganj", "bihar"], "name": "forbesganj"}
+{"city": "firozabad", "state": "uttar pradesh", "tag": ["firozabad", "uttar pradesh"], "name": "firozabad"}
+{"city": "firozpur", "state": "punjab", "tag": ["firozpur", "punjab"], "name": "firozpur"}
+{"city": "firozpur cantt.", "state": "punjab", "tag": ["firozpur cantt.", "punjab"], "name": "firozpur cantt."}
+{"city": "gadarwara", "state": "madhya pradesh", "tag": ["gadarwara", "madhya pradesh"], "name": "gadarwara"}
+{"city": "gadhaga", "state": "karnataka", "tag": ["gadhaga", "karnataka"], "name": "gadhaga"}
+{"city": "gadag", "state": "karnataka", "tag": ["gadag", "karnataka"], "name": "gadag"}
+{"city": "gadchiroli", "state": "maharashtra", "tag": ["gadchiroli", "maharashtra"], "name": "gadchiroli"}
+{"city": "gadwal", "state": "andhra pradesh", "tag": ["gadwal", "andhra pradesh"], "name": "gadwal"}
+{"city": "ganaur", "state": "haryana", "tag": ["ganaur", "haryana"], "name": "ganaur"}
+{"city": "gandhidham", "state": "gujarat", "tag": ["gandhidham", "gujarat"], "name": "gandhidham"}
+{"city": "gandhinagar", "state": "gujarat", "tag": ["gandhinagar", "gujarat"], "name": "gandhinagar"}
+{"city": "gangtok", "state": "sikkim", "tag": ["gangtok", "sikkim"], "name": "gangtok"}
+{"city": "ganjam", "state": "odisha", "tag": ["ganjam", "odisha"], "name": "ganjam"}
+{"city": "garhwa", "state": "jharkhand", "tag": ["garhwa", "jharkhand"], "name": "garhwa"}
+{"city": "gauripur", "state": "assam", "tag": ["gauripur", "assam"], "name": "gauripur"}
+{"city": "gauribidanur", "state": "karnataka", "tag": ["gauribidanur", "karnataka"], "name": "gauribidanur"}
+{"city": "gaya", "state": "bihar", "tag": ["gaya", "bihar"], "name": "gaya"}
+{"city": "gharaunda", "state": "haryana", "tag": ["gharaunda", "haryana"], "name": "gharaunda"}
+{"city": "ghatampur", "state": "uttar pradesh", "tag": ["ghatampur", "uttar pradesh"], "name": "ghatampur"}
+{"city": "ghatanji", "state": "maharashtra", "tag": ["ghatanji", "maharashtra"], "name": "ghatanji"}
+{"city": "ghatshila", "state": "jharkhand", "tag": ["ghatshila", "jharkhand"], "name": "ghatshila"}
+{"city": "ghaziabad", "state": "uttar pradesh", "tag": ["ghaziabad", "uttar pradesh"], "name": "ghaziabad"}
+{"city": "ghazipur", "state": "uttar pradesh", "tag": ["ghazipur", "uttar pradesh"], "name": "ghazipur"}
+{"city": "giddarbaha", "state": "punjab", "tag": ["giddarbaha", "punjab"], "name": "giddarbaha"}
+{"city": "gingee", "state": "tamil nadu", "tag": ["gingee", "tamil nadu"], "name": "gingee"}
+{"city": "giridih", "state": "jharkhand", "tag": ["giridih", "jharkhand"], "name": "giridih"}
+{"city": "goa velha", "state": "goa", "tag": ["goa velha", "goa"], "name": "goa velha"}
+{"city": "goalpara", "state": "assam", "tag": ["goalpara", "assam"], "name": "goalpara"}
+{"city": "gobichettipalayam", "state": "tamil nadu", "tag": ["gobichettipalayam", "tamil nadu"], "name": "gobichettipalayam"}
+{"city": "gobindgarh", "state": "punjab", "tag": ["gobindgarh", "punjab"], "name": "gobindgarh"}
+{"city": "gobranawapara", "state": "chhattisgarh", "tag": ["gobranawapara", "chhattisgarh"], "name": "gobranawapara"}
+{"city": "godda", "state": "jharkhand", "tag": ["godda", "jharkhand"], "name": "godda"}
+{"city": "godhra", "state": "gujarat", "tag": ["godhra", "gujarat"], "name": "godhra"}
+{"city": "gogri jamalpur", "state": "bihar", "tag": ["gogri jamalpur", "bihar"], "name": "gogri jamalpur"}
+{"city": "gohana", "state": "haryana", "tag": ["gohana", "haryana"], "name": "gohana"}
+{"city": "gokak", "state": "karnataka", "tag": ["gokak", "karnataka"], "name": "gokak"}
+{"city": "golaghat", "state": "assam", "tag": ["golaghat", "assam"], "name": "golaghat"}
+{"city": "gomoh", "state": "jharkhand", "tag": ["gomoh", "jharkhand"], "name": "gomoh"}
+{"city": "gondiya", "state": "maharashtra", "tag": ["gondiya", "maharashtra"], "name": "gondiya"}
+{"city": "gooty", "state": "andhra pradesh", "tag": ["gooty", "andhra pradesh"], "name": "gooty"}
+{"city": "gopalganj", "state": "bihar", "tag": ["gopalganj", "bihar"], "name": "gopalganj"}
+{"city": "gorakhpur", "state": "uttar pradesh", "tag": ["gorakhpur", "uttar pradesh"], "name": "gorakhpur"}
+{"city": "greater noida", "state": "uttar pradesh", "tag": ["greater noida", "uttar pradesh"], "name": "greater noida"}
+{"city": "gudalur", "state": "tamil nadu", "tag": ["gudalur", "tamil nadu"], "name": "gudalur"}
+{"city": "gudivada", "state": "andhra pradesh", "tag": ["gudivada", "andhra pradesh"], "name": "gudivada"}
+{"city": "gudur", "state": "andhra pradesh", "tag": ["gudur", "andhra pradesh"], "name": "gudur"}
+{"city": "gulbarga", "state": "karnataka", "tag": ["gulbarga", "karnataka"], "name": "gulbarga"}
+{"city": "gumia", "state": "jharkhand", "tag": ["gumia", "jharkhand"], "name": "gumia"}
+{"city": "guna", "state": "madhya pradesh", "tag": ["guna", "madhya pradesh"], "name": "guna"}
+{"city": "gundlupet", "state": "karnataka", "tag": ["gundlupet", "karnataka"], "name": "gundlupet"}
+{"city": "guntakal", "state": "andhra pradesh", "tag": ["guntakal", "andhra pradesh"], "name": "guntakal"}
+{"city": "guntur", "state": "andhra pradesh", "tag": ["guntur", "andhra pradesh"], "name": "guntur"}
+{"city": "gunupur", "state": "odisha", "tag": ["gunupur", "odisha"], "name": "gunupur"}
+{"city": "gurdaspur", "state": "punjab", "tag": ["gurdaspur", "punjab"], "name": "gurdaspur"}
+{"city": "gurgaon", "state": "haryana", "tag": ["gurgaon", "haryana"], "name": "gurgaon"}
+{"city": "guruvayoor", "state": "kerala", "tag": ["guruvayoor", "kerala"], "name": "guruvayoor"}
+{"city": "guwahati", "state": "assam", "tag": ["guwahati", "assam"], "name": "guwahati"}
+{"city": "gwalior", "state": "madhya pradesh", "tag": ["gwalior", "madhya pradesh"], "name": "gwalior"}
+{"city": "haflong", "state": "assam", "tag": ["haflong", "assam"], "name": "haflong"}
+{"city": "hailakandi", "state": "assam", "tag": ["hailakandi", "assam"], "name": "hailakandi"}
+{"city": "hajipur", "state": "bihar", "tag": ["hajipur", "bihar"], "name": "hajipur"}
+{"city": "haldia", "state": "west bengal", "tag": ["haldia", "west bengal"], "name": "haldia"}
+{"city": "haldwani", "state": "uttarakhand", "tag": ["haldwani", "uttarakhand"], "name": "haldwani"}
+{"city": "hamirpur", "state": "himachal pradesh", "tag": ["hamirpur", "himachal pradesh"], "name": "hamirpur"}
+{"city": "hamirpur", "state": "uttar pradesh", "tag": ["hamirpur", "uttar pradesh"], "name": "hamirpur"}
+{"city": "hansi", "state": "haryana", "tag": ["hansi", "haryana"], "name": "hansi"}
+{"city": "hanuman junction", "state": "andhra pradesh", "tag": ["hanuman junction", "andhra pradesh"], "name": "hanuman junction"}
+{"city": "hanumangarh", "state": "rajasthan", "tag": ["hanumangarh", "rajasthan"], "name": "hanumangarh"}
+{"city": "hapur", "state": "uttar pradesh", "tag": ["hapur", "uttar pradesh"], "name": "hapur"}
+{"city": "harda", "state": "madhya pradesh", "tag": ["harda", "madhya pradesh"], "name": "harda"}
+{"city": "hardoi", "state": "uttar pradesh", "tag": ["hardoi", "uttar pradesh"], "name": "hardoi"}
+{"city": "haridwar", "state": "uttarakhand", "tag": ["haridwar", "uttarakhand"], "name": "haridwar"}
+{"city": "haripad", "state": "kerala", "tag": ["haripad", "kerala"], "name": "haripad"}
+{"city": "harsawa", "state": "rajasthan", "tag": ["harsawa", "rajasthan"], "name": "harsawa"}
+{"city": "harur", "state": "tamil nadu", "tag": ["harur", "tamil nadu"], "name": "harur"}
+{"city": "haasana", "state": "karnataka", "tag": ["haasana", "karnataka"], "name": "haasana"}
+{"city": "hastinapur", "state": "uttar pradesh", "tag": ["hastinapur", "uttar pradesh"], "name": "hastinapur"}
+{"city": "hathras", "state": "uttar pradesh", "tag": ["hathras", "uttar pradesh"], "name": "hathras"}
+{"city": "hazaribag", "state": "jharkhand", "tag": ["hazaribag", "jharkhand"], "name": "hazaribag"}
+{"city": "hilsa", "state": "bihar", "tag": ["hilsa", "bihar"], "name": "hilsa"}
+{"city": "himatnagar", "state": "gujarat", "tag": ["himatnagar", "gujarat"], "name": "himatnagar"}
+{"city": "hindupur", "state": "andhra pradesh", "tag": ["hindupur", "andhra pradesh"], "name": "hindupur"}
+{"city": "hinjilicut", "state": "odisha", "tag": ["hinjilicut", "odisha"], "name": "hinjilicut"}
+{"city": "hisar", "state": "haryana", "tag": ["hisar", "haryana"], "name": "hisar"}
+{"city": "hisua", "state": "bihar", "tag": ["hisua", "bihar"], "name": "hisua"}
+{"city": "hodal", "state": "haryana", "tag": ["hodal", "haryana"], "name": "hodal"}
+{"city": "hojai", "state": "assam", "tag": ["hojai", "assam"], "name": "hojai"}
+{"city": "hoshiarpur", "state": "punjab", "tag": ["hoshiarpur", "punjab"], "name": "hoshiarpur"}
+{"city": "hosapet", "state": "karnataka", "tag": ["hosapet", "karnataka"], "name": "hosapet"}
+{"city": "howrah", "state": "west bengal", "tag": ["howrah", "west bengal"], "name": "howrah"}
+{"city": "hubbali", "state": "karnataka", "tag": ["hubbali", "karnataka"], "name": "hubbali"}
+{"city": "hukkeri", "state": "karnataka", "tag": ["hukkeri", "karnataka"], "name": "hukkeri"}
+{"city": "hugli-chuchura", "state": "west bengal", "tag": ["hugli-chuchura", "west bengal"], "name": "hugli-chuchura"}
+{"city": "hussainabad", "state": "jharkhand", "tag": ["hussainabad", "jharkhand"], "name": "hussainabad"}
+{"city": "hyderabad", "state": "andhra pradesh", "tag": ["hyderabad", "andhra pradesh"], "name": "hyderabad"}
+{"city": "ichalkaranji", "state": "maharashtra", "tag": ["ichalkaranji", "maharashtra"], "name": "ichalkaranji"}
+{"city": "ichchapuram", "state": "andhra pradesh", "tag": ["ichchapuram", "andhra pradesh"], "name": "ichchapuram"}
+{"city": "idar", "state": "gujarat", "tag": ["idar", "gujarat"], "name": "idar"}
+{"city": "imphal", "state": "manipur", "tag": ["imphal", "manipur"], "name": "imphal"}
+{"city": "indi", "state": "karnataka", "tag": ["indi", "karnataka"], "name": "indi"}
+{"city": "indore", "state": "madhya pradesh", "tag": ["indore", "madhya pradesh"], "name": "indore"}
+{"city": "indranagar", "state": "tripura", "tag": ["indranagar", "tripura"], "name": "indranagar"}
+{"city": "irinjalakuda", "state": "kerala", "tag": ["irinjalakuda", "kerala"], "name": "irinjalakuda"}
+{"city": "islampur", "state": "bihar", "tag": ["islampur", "bihar"], "name": "islampur"}
+{"city": "islampur", "state": "west bengal", "tag": ["islampur", "west bengal"], "name": "islampur"}
+{"city": "itanagar", "state": "arunachal pradesh", "tag": ["itanagar", "arunachal pradesh"], "name": "itanagar"}
+{"city": "itarsi", "state": "madhya pradesh", "tag": ["itarsi", "madhya pradesh"], "name": "itarsi"}
+{"city": "idukki", "state": "kerala", "tag": ["idukki", "kerala"], "name": "idukki"}
+{"city": "jabalpur", "state": "madhya pradesh", "tag": ["jabalpur", "madhya pradesh"], "name": "jabalpur"}
+{"city": "jagadhri", "state": "haryana", "tag": ["jagadhri", "haryana"], "name": "jagadhri"}
+{"city": "jagatsinghapur", "state": "odisha", "tag": ["jagatsinghapur", "odisha"], "name": "jagatsinghapur"}
+{"city": "jagdalpur", "state": "chhattisgarh", "tag": ["jagdalpur", "chhattisgarh"], "name": "jagdalpur"}
+{"city": "jagdispur", "state": "bihar", "tag": ["jagdispur", "bihar"], "name": "jagdispur"}
+{"city": "jaggaiahpet", "state": "andhra pradesh", "tag": ["jaggaiahpet", "andhra pradesh"], "name": "jaggaiahpet"}
+{"city": "jagraon", "state": "punjab", "tag": ["jagraon", "punjab"], "name": "jagraon"}
+{"city": "jagtial", "state": "andhra pradesh", "tag": ["jagtial", "andhra pradesh"], "name": "jagtial"}
+{"city": "jaipur", "state": "rajasthan", "tag": ["jaipur", "rajasthan"], "name": "jaipur"}
+{"city": "jais", "state": "uttar pradesh", "tag": ["jais", "uttar pradesh"], "name": "jais"}
+{"city": "jaisalmer", "state": "rajasthan", "tag": ["jaisalmer", "rajasthan"], "name": "jaisalmer"}
+{"city": "jaitaran", "state": "rajasthan", "tag": ["jaitaran", "rajasthan"], "name": "jaitaran"}
+{"city": "jaitu", "state": "punjab", "tag": ["jaitu", "punjab"], "name": "jaitu"}
+{"city": "jajapur", "state": "odisha", "tag": ["jajapur", "odisha"], "name": "jajapur"}
+{"city": "jajmau", "state": "uttar pradesh", "tag": ["jajmau", "uttar pradesh"], "name": "jajmau"}
+{"city": "jalalabad", "state": "punjab", "tag": ["jalalabad", "punjab"], "name": "jalalabad"}
+{"city": "jalna", "state": "maharashtra", "tag": ["jalna", "maharashtra"], "name": "jalna"}
+{"city": "jalandhar cantt.", "state": "punjab", "tag": ["jalandhar cantt.", "punjab"], "name": "jalandhar cantt."}
+{"city": "jalandhar", "state": "punjab", "tag": ["jalandhar", "punjab"], "name": "jalandhar"}
+{"city": "jaleswar", "state": "odisha", "tag": ["jaleswar", "odisha"], "name": "jaleswar"}
+{"city": "jalgaon", "state": "maharashtra", "tag": ["jalgaon", "maharashtra"], "name": "jalgaon"}
+{"city": "jalpaiguri", "state": "west bengal", "tag": ["jalpaiguri", "west bengal"], "name": "jalpaiguri"}
+{"city": "jalore", "state": "rajasthan", "tag": ["jalore", "rajasthan"], "name": "jalore"}
+{"city": "jamalpur", "state": "bihar", "tag": ["jamalpur", "bihar"], "name": "jamalpur"}
+{"city": "jammalamadugu", "state": "andhra pradesh", "tag": ["jammalamadugu", "andhra pradesh"], "name": "jammalamadugu"}
+{"city": "jammu", "state": "jammu and kashmir", "tag": ["jammu", "jammu and kashmir"], "name": "jammu"}
+{"city": "jamnagar", "state": "gujarat", "tag": ["jamnagar", "gujarat"], "name": "jamnagar"}
+{"city": "jamshedpur", "state": "jharkhand", "tag": ["jamshedpur", "jharkhand"], "name": "jamshedpur"}
+{"city": "jamtara", "state": "jharkhand", "tag": ["jamtara", "jharkhand"], "name": "jamtara"}
+{"city": "jamui", "state": "bihar", "tag": ["jamui", "bihar"], "name": "jamui"}
+{"city": "jandiala", "state": "punjab", "tag": ["jandiala", "punjab"], "name": "jandiala"}
+{"city": "jangaon", "state": "andhra pradesh", "tag": ["jangaon", "andhra pradesh"], "name": "jangaon"}
+{"city": "janjgir", "state": "chhattisgarh", "tag": ["janjgir", "chhattisgarh"], "name": "janjgir"}
+{"city": "jashpurnagar", "state": "chhattisgarh", "tag": ["jashpurnagar", "chhattisgarh"], "name": "jashpurnagar"}
+{"city": "jaspur", "state": "uttarakhand", "tag": ["jaspur", "uttarakhand"], "name": "jaspur"}
+{"city": "jatani", "state": "odisha", "tag": ["jatani", "odisha"], "name": "jatani"}
+{"city": "jaunpur", "state": "uttar pradesh", "tag": ["jaunpur", "uttar pradesh"], "name": "jaunpur"}
+{"city": "jayankondam", "state": "tamil nadu", "tag": ["jayankondam", "tamil nadu"], "name": "jayankondam"}
+{"city": "jehanabad", "state": "bihar", "tag": ["jehanabad", "bihar"], "name": "jehanabad"}
+{"city": "jeypur", "state": "odisha", "tag": ["jeypur", "odisha"], "name": "jeypur"}
+{"city": "jhabua", "state": "madhya pradesh", "tag": ["jhabua", "madhya pradesh"], "name": "jhabua"}
+{"city": "jhajha", "state": "bihar", "tag": ["jhajha", "bihar"], "name": "jhajha"}
+{"city": "jhajjar", "state": "haryana", "tag": ["jhajjar", "haryana"], "name": "jhajjar"}
+{"city": "jhalawar", "state": "rajasthan", "tag": ["jhalawar", "rajasthan"], "name": "jhalawar"}
+{"city": "jhanjharpur", "state": "bihar", "tag": ["jhanjharpur", "bihar"], "name": "jhanjharpur"}
+{"city": "jhansi", "state": "uttar pradesh", "tag": ["jhansi", "uttar pradesh"], "name": "jhansi"}
+{"city": "jhargram", "state": "west bengal", "tag": ["jhargram", "west bengal"], "name": "jhargram"}
+{"city": "jharsuguda", "state": "odisha", "tag": ["jharsuguda", "odisha"], "name": "jharsuguda"}
+{"city": "jhumri tilaiya", "state": "jharkhand", "tag": ["jhumri tilaiya", "jharkhand"], "name": "jhumri tilaiya"}
+{"city": "jhunjhunu", "state": "rajasthan", "tag": ["jhunjhunu", "rajasthan"], "name": "jhunjhunu"}
+{"city": "jind", "state": "haryana", "tag": ["jind", "haryana"], "name": "jind"}
+{"city": "joda", "state": "odisha", "tag": ["joda", "odisha"], "name": "joda"}
+{"city": "jodhpur", "state": "rajasthan", "tag": ["jodhpur", "rajasthan"], "name": "jodhpur"}
+{"city": "jogabani", "state": "bihar", "tag": ["jogabani", "bihar"], "name": "jogabani"}
+{"city": "jogendranagar", "state": "tripura", "tag": ["jogendranagar", "tripura"], "name": "jogendranagar"}
+{"city": "jorhat", "state": "assam", "tag": ["jorhat", "assam"], "name": "jorhat"}
+{"city": "jowai", "state": "meghalaya", "tag": ["jowai", "meghalaya"], "name": "jowai"}
+{"city": "junagadh", "state": "gujarat", "tag": ["junagadh", "gujarat"], "name": "junagadh"}
+{"city": "junnar", "state": "maharashtra", "tag": ["junnar", "maharashtra"], "name": "junnar"}
+{"city": "jhalda", "state": "west bengal", "tag": ["jhalda", "west bengal"], "name": "jhalda"}
+{"city": "kadapa", "state": "andhra pradesh", "tag": ["kadapa", "andhra pradesh"], "name": "kadapa"}
+{"city": "kadi", "state": "gujarat", "tag": ["kadi", "gujarat"], "name": "kadi"}
+{"city": "kadiri", "state": "andhra pradesh", "tag": ["kadiri", "andhra pradesh"], "name": "kadiri"}
+{"city": "kadirur", "state": "kerala", "tag": ["kadirur", "kerala"], "name": "kadirur"}
+{"city": "kagaznagar", "state": "andhra pradesh", "tag": ["kagaznagar", "andhra pradesh"], "name": "kagaznagar"}
+{"city": "kailaras", "state": "madhya pradesh", "tag": ["kailaras", "madhya pradesh"], "name": "kailaras"}
+{"city": "kailasahar", "state": "tripura", "tag": ["kailasahar", "tripura"], "name": "kailasahar"}
+{"city": "kaithal", "state": "haryana", "tag": ["kaithal", "haryana"], "name": "kaithal"}
+{"city": "kakching", "state": "manipur", "tag": ["kakching", "manipur"], "name": "kakching"}
+{"city": "kakinada", "state": "andhra pradesh", "tag": ["kakinada", "andhra pradesh"], "name": "kakinada"}
+{"city": "kalan wali", "state": "haryana", "tag": ["kalan wali", "haryana"], "name": "kalan wali"}
+{"city": "kalavad", "state": "gujarat", "tag": ["kalavad", "gujarat"], "name": "kalavad"}
+{"city": "kalburgi", "state": "karnataka", "tag": ["kalburgi", "karnataka"], "name": "kalburgi"}
+{"city": "kalimpong", "state": "west bengal", "tag": ["kalimpong", "west bengal"], "name": "kalimpong"}
+{"city": "kalka", "state": "haryana", "tag": ["kalka", "haryana"], "name": "kalka"}
+{"city": "kalliasseri", "state": "kerala", "tag": ["kalliasseri", "kerala"], "name": "kalliasseri"}
+{"city": "kalpi", "state": "uttar pradesh", "tag": ["kalpi", "uttar pradesh"], "name": "kalpi"}
+{"city": "kalol", "state": "gujarat", "tag": ["kalol", "gujarat"], "name": "kalol"}
+{"city": "kalpetta", "state": "kerala", "tag": ["kalpetta", "kerala"], "name": "kalpetta"}
+{"city": "kalyan", "state": "maharashtra", "tag": ["kalyan", "maharashtra"], "name": "kalyan"}
+{"city": "kalyandurg", "state": "andhra pradesh", "tag": ["kalyandurg", "andhra pradesh"], "name": "kalyandurg"}
+{"city": "kamareddy", "state": "andhra pradesh", "tag": ["kamareddy", "andhra pradesh"], "name": "kamareddy"}
+{"city": "kamthi", "state": "maharashtra", "tag": ["kamthi", "maharashtra"], "name": "kamthi"}
+{"city": "kanchipuram", "state": "tamil nadu", "tag": ["kanchipuram", "tamil nadu"], "name": "kanchipuram"}
+{"city": "kanda", "state": "uttarakhand", "tag": ["kanda", "uttarakhand"], "name": "kanda"}
+{"city": "kandukur", "state": "andhra pradesh", "tag": ["kandukur", "andhra pradesh"], "name": "kandukur"}
+{"city": "kanhangad", "state": "kerala", "tag": ["kanhangad", "kerala"], "name": "kanhangad"}
+{"city": "kanjikkuzhi", "state": "kerala", "tag": ["kanjikkuzhi", "kerala"], "name": "kanjikkuzhi"}
+{"city": "kanker", "state": "chhattisgarh", "tag": ["kanker", "chhattisgarh"], "name": "kanker"}
+{"city": "kannur", "state": "kerala", "tag": ["kannur", "kerala"], "name": "kannur"}
+{"city": "kanpur", "state": "uttar pradesh", "tag": ["kanpur", "uttar pradesh"], "name": "kanpur"}
+{"city": "kantabanji", "state": "odisha", "tag": ["kantabanji", "odisha"], "name": "kantabanji"}
+{"city": "kanti", "state": "bihar", "tag": ["kanti", "bihar"], "name": "kanti"}
+{"city": "kapadvanj", "state": "gujarat", "tag": ["kapadvanj", "gujarat"], "name": "kapadvanj"}
+{"city": "kapurthala", "state": "punjab", "tag": ["kapurthala", "punjab"], "name": "kapurthala"}
+{"city": "karad", "state": "maharashtra", "tag": ["karad", "maharashtra"], "name": "karad"}
+{"city": "karaikal", "state": "puducherry", "tag": ["karaikal", "puducherry"], "name": "karaikal"}
+{"city": "karaikudi", "state": "tamil nadu", "tag": ["karaikudi", "tamil nadu"], "name": "karaikudi"}
+{"city": "karanjia", "state": "odisha", "tag": ["karanjia", "odisha"], "name": "karanjia"}
+{"city": "karimganj", "state": "assam", "tag": ["karimganj", "assam"], "name": "karimganj"}
+{"city": "karimnagar", "state": "andhra pradesh", "tag": ["karimnagar", "andhra pradesh"], "name": "karimnagar"}
+{"city": "karjan", "state": "gujarat", "tag": ["karjan", "gujarat"], "name": "karjan"}
+{"city": "karjat", "state": "maharashtra", "tag": ["karjat", "maharashtra"], "name": "karjat"}
+{"city": "kaarkala", "state": "karnataka", "tag": ["kaarkala", "karnataka"], "name": "kaarkala"}
+{"city": "karnal", "state": "haryana", "tag": ["karnal", "haryana"], "name": "karnal"}
+{"city": "karoran", "state": "punjab", "tag": ["karoran", "punjab"], "name": "karoran"}
+{"city": "kartarpur", "state": "punjab", "tag": ["kartarpur", "punjab"], "name": "kartarpur"}
+{"city": "karur", "state": "tamil nadu", "tag": ["karur", "tamil nadu"], "name": "karur"}
+{"city": "karungal", "state": "tamil nadu", "tag": ["karungal", "tamil nadu"], "name": "karungal"}
+{"city": "karwar", "state": "karnataka", "tag": ["karwar", "karnataka"], "name": "karwar"}
+{"city": "kasaragod", "state": "kerala", "tag": ["kasaragod", "kerala"], "name": "kasaragod"}
+{"city": "kashipur", "state": "uttarakhand", "tag": ["kashipur", "uttarakhand"], "name": "kashipur"}
+{"city": "kathua", "state": "jammu and kashmir", "tag": ["kathua", "jammu and kashmir"], "name": "kathua"}
+{"city": "katihar", "state": "bihar", "tag": ["katihar", "bihar"], "name": "katihar"}
+{"city": "katni", "state": "madhya pradesh", "tag": ["katni", "madhya pradesh"], "name": "katni"}
+{"city": "katra", "state": "jammu & kashmir", "tag": ["katra", "jammu & kashmir"], "name": "katra"}
+{"city": "kavali", "state": "andhra pradesh", "tag": ["kavali", "andhra pradesh"], "name": "kavali"}
+{"city": "kavaratti", "state": "lakshadweep", "tag": ["kavaratti", "lakshadweep"], "name": "kavaratti"}
+{"city": "kawardha", "state": "chhattisgarh", "tag": ["kawardha", "chhattisgarh"], "name": "kawardha"}
+{"city": "kayamkulam", "state": "kerala", "tag": ["kayamkulam", "kerala"], "name": "kayamkulam"}
+{"city": "kendrapara", "state": "odisha", "tag": ["kendrapara", "odisha"], "name": "kendrapara"}
+{"city": "kendujhar", "state": "odisha", "tag": ["kendujhar", "odisha"], "name": "kendujhar"}
+{"city": "keshod", "state": "gujarat", "tag": ["keshod", "gujarat"], "name": "keshod"}
+{"city": "keylong", "state": "himachal pradesh", "tag": ["keylong", "himachal pradesh"], "name": "keylong"}
+{"city": "khagaria", "state": "bihar", "tag": ["khagaria", "bihar"], "name": "khagaria"}
+{"city": "khalilabad", "state": "uttar pradesh", "tag": ["khalilabad", "uttar pradesh"], "name": "khalilabad"}
+{"city": "khambhalia", "state": "gujarat", "tag": ["khambhalia", "gujarat"], "name": "khambhalia"}
+{"city": "khambhat", "state": "gujarat", "tag": ["khambhat", "gujarat"], "name": "khambhat"}
+{"city": "khammam", "state": "andhra pradesh", "tag": ["khammam", "andhra pradesh"], "name": "khammam"}
+{"city": "khanna", "state": "punjab", "tag": ["khanna", "punjab"], "name": "khanna"}
+{"city": "kharagpur", "state": "west bengal", "tag": ["kharagpur", "west bengal"], "name": "kharagpur"}
+{"city": "kharar", "state": "punjab", "tag": ["kharar", "punjab"], "name": "kharar"}
+{"city": "kheda", "state": "gujarat", "tag": ["kheda", "gujarat"], "name": "kheda"}
+{"city": "khedbrahma", "state": "gujarat", "tag": ["khedbrahma", "gujarat"], "name": "khedbrahma"}
+{"city": "kheralu", "state": "gujarat", "tag": ["kheralu", "gujarat"], "name": "kheralu"}
+{"city": "kheri", "state": "uttar pradesh", "tag": ["kheri", "uttar pradesh"], "name": "kheri"}
+{"city": "khordha", "state": "odisha", "tag": ["khordha", "odisha"], "name": "khordha"}
+{"city": "khowai", "state": "tripura", "tag": ["khowai", "tripura"], "name": "khowai"}
+{"city": "khunti", "state": "jharkhand", "tag": ["khunti", "jharkhand"], "name": "khunti"}
+{"city": "khurai", "state": "madhya pradesh", "tag": ["khurai", "madhya pradesh"], "name": "khurai"}
+{"city": "kichha", "state": "uttarakhand", "tag": ["kichha", "uttarakhand"], "name": "kichha"}
+{"city": "kishanganj", "state": "bihar", "tag": ["kishanganj", "bihar"], "name": "kishanganj"}
+{"city": "kochi", "state": "kerala", "tag": ["kochi", "kerala"], "name": "kochi"}
+{"city": "kodad", "state": "andhra pradesh", "tag": ["kodad", "andhra pradesh"], "name": "kodad"}
+{"city": "kodinar", "state": "gujarat", "tag": ["kodinar", "gujarat"], "name": "kodinar"}
+{"city": "kodungallur", "state": "kerala", "tag": ["kodungallur", "kerala"], "name": "kodungallur"}
+{"city": "kohima", "state": "nagaland", "tag": ["kohima", "nagaland"], "name": "kohima"}
+{"city": "kokrajhar", "state": "assam", "tag": ["kokrajhar", "assam"], "name": "kokrajhar"}
+{"city": "kolar", "state": "karnataka", "tag": ["kolar", "karnataka"], "name": "kolar"}
+{"city": "kolhar", "state": "karnataka", "tag": ["kolhar", "karnataka"], "name": "kolhar"}
+{"city": "kolhapur", "state": "maharashtra", "tag": ["kolhapur", "maharashtra"], "name": "kolhapur"}
+{"city": "kolkata", "state": "west bengal", "tag": ["kolkata", "west bengal"], "name": "kolkata"}
+{"city": "kollam", "state": "kerala", "tag": ["kollam", "kerala"], "name": "kollam"}
+{"city": "kollankodu", "state": "tamil nadu", "tag": ["kollankodu", "tamil nadu"], "name": "kollankodu"}
+{"city": "kondagaon", "state": "chhattisgarh", "tag": ["kondagaon", "chhattisgarh"], "name": "kondagaon"}
+{"city": "konnagar", "state": "west bengal", "tag": ["konnagar", "west bengal"], "name": "konnagar"}
+{"city": "koothuparamba", "state": "kerala", "tag": ["koothuparamba", "kerala"], "name": "koothuparamba"}
+{"city": "koraput", "state": "odisha", "tag": ["koraput", "odisha"], "name": "koraput"}
+{"city": "korba", "state": "chhattisgarh", "tag": ["korba", "chhattisgarh"], "name": "korba"}
+{"city": "koratla", "state": "andhra pradesh", "tag": ["koratla", "andhra pradesh"], "name": "koratla"}
+{"city": "kot kapura", "state": "punjab", "tag": ["kot kapura", "punjab"], "name": "kot kapura"}
+{"city": "kota", "state": "karnataka", "tag": ["kota", "karnataka"], "name": "kota"}
+{"city": "kota", "state": "rajasthan", "tag": ["kota", "rajasthan"], "name": "kota"}
+{"city": "kota", "state": "uttar pradesh", "tag": ["kota", "uttar pradesh"], "name": "kota"}
+{"city": "kotdwara", "state": "uttarakhand", "tag": ["kotdwara", "uttarakhand"], "name": "kotdwara"}
+{"city": "kothagudem", "state": "andhra pradesh", "tag": ["kothagudem", "andhra pradesh"], "name": "kothagudem"}
+{"city": "kothamangalam", "state": "kerala", "tag": ["kothamangalam", "kerala"], "name": "kothamangalam"}
+{"city": "kothapeta", "state": "andhra pradesh", "tag": ["kothapeta", "andhra pradesh"], "name": "kothapeta"}
+{"city": "kotma", "state": "madhya pradesh", "tag": ["kotma", "madhya pradesh"], "name": "kotma"}
+{"city": "kottayam", "state": "kerala", "tag": ["kottayam", "kerala"], "name": "kottayam"}
+{"city": "kovvur", "state": "andhra pradesh", "tag": ["kovvur", "andhra pradesh"], "name": "kovvur"}
+{"city": "kozhikode", "state": "kerala", "tag": ["kozhikode", "kerala"], "name": "kozhikode"}
+{"city": "kozhencherry", "state": "kerala", "tag": ["kozhencherry", "kerala"], "name": "kozhencherry"}
+{"city": "krishnanagar", "state": "west bengal", "tag": ["krishnanagar", "west bengal"], "name": "krishnanagar"}
+{"city": "kuchinda", "state": "odisha", "tag": ["kuchinda", "odisha"], "name": "kuchinda"}
+{"city": "kulpahar", "state": "uttar pradesh", "tag": ["kulpahar", "uttar pradesh"], "name": "kulpahar"}
+{"city": "kunnamkulam", "state": "kerala", "tag": ["kunnamkulam", "kerala"], "name": "kunnamkulam"}
+{"city": "kurali", "state": "punjab", "tag": ["kurali", "punjab"], "name": "kurali"}
+{"city": "kurnool", "state": "andhra pradesh", "tag": ["kurnool", "andhra pradesh"], "name": "kurnool"}
+{"city": "kurukshetra", "state": "haryana", "tag": ["kurukshetra", "haryana"], "name": "kurukshetra"}
+{"city": "kyathampalle", "state": "andhra pradesh", "tag": ["kyathampalle", "andhra pradesh"], "name": "kyathampalle"}
+{"city": "kamahi devi", "state": "punjab", "tag": ["kamahi devi", "punjab"], "name": "kamahi devi"}
+{"city": "kalyani", "state": "west bengal", "tag": ["kalyani", "west bengal"], "name": "kalyani"}
+{"city": "lachhmangarh", "state": "rajasthan", "tag": ["lachhmangarh", "rajasthan"], "name": "lachhmangarh"}
+{"city": "ladnu", "state": "rajasthan", "tag": ["ladnu", "rajasthan"], "name": "ladnu"}
+{"city": "ladwa", "state": "haryana", "tag": ["ladwa", "haryana"], "name": "ladwa"}
+{"city": "lahar", "state": "madhya pradesh", "tag": ["lahar", "madhya pradesh"], "name": "lahar"}
+{"city": "laharpur", "state": "uttar pradesh", "tag": ["laharpur", "uttar pradesh"], "name": "laharpur"}
+{"city": "lakheri", "state": "rajasthan", "tag": ["lakheri", "rajasthan"], "name": "lakheri"}
+{"city": "lakhimpur", "state": "uttar pradesh", "tag": ["lakhimpur", "uttar pradesh"], "name": "lakhimpur"}
+{"city": "lakhisarai", "state": "bihar", "tag": ["lakhisarai", "bihar"], "name": "lakhisarai"}
+{"city": "lakshmishawara", "state": "karnataka", "tag": ["lakshmishawara", "karnataka"], "name": "lakshmishawara"}
+{"city": "lal gopalganj nindaura", "state": "uttar pradesh", "tag": ["lal gopalganj nindaura", "uttar pradesh"], "name": "lal gopalganj nindaura"}
+{"city": "lalganj", "state": "bihar", "tag": ["lalganj", "bihar"], "name": "lalganj"}
+{"city": "lalgudi", "state": "tamil nadu", "tag": ["lalgudi", "tamil nadu"], "name": "lalgudi"}
+{"city": "lalitpur", "state": "uttar pradesh", "tag": ["lalitpur", "uttar pradesh"], "name": "lalitpur"}
+{"city": "lalganj", "state": "uttar pradesh", "tag": ["lalganj", "uttar pradesh"], "name": "lalganj"}
+{"city": "lalsot", "state": "rajasthan", "tag": ["lalsot", "rajasthan"], "name": "lalsot"}
+{"city": "lanka", "state": "assam", "tag": ["lanka", "assam"], "name": "lanka"}
+{"city": "lar", "state": "uttar pradesh", "tag": ["lar", "uttar pradesh"], "name": "lar"}
+{"city": "lathi", "state": "gujarat", "tag": ["lathi", "gujarat"], "name": "lathi"}
+{"city": "latur", "state": "maharashtra", "tag": ["latur", "maharashtra"], "name": "latur"}
+{"city": "leh", "state": "jammu and kashmir", "tag": ["leh", "jammu and kashmir"], "name": "leh"}
+{"city": "lilong", "state": "manipur", "tag": ["lilong", "manipur"], "name": "lilong"}
+{"city": "limbdi", "state": "gujarat", "tag": ["limbdi", "gujarat"], "name": "limbdi"}
+{"city": "lingsuguru", "state": "karnataka", "tag": ["lingsuguru", "karnataka"], "name": "lingsuguru"}
+{"city": "loha", "state": "maharashtra", "tag": ["loha", "maharashtra"], "name": "loha"}
+{"city": "lohardaga", "state": "jharkhand", "tag": ["lohardaga", "jharkhand"], "name": "lohardaga"}
+{"city": "lonar", "state": "maharashtra", "tag": ["lonar", "maharashtra"], "name": "lonar"}
+{"city": "lonavla", "state": "maharashtra", "tag": ["lonavla", "maharashtra"], "name": "lonavla"}
+{"city": "longowal", "state": "punjab", "tag": ["longowal", "punjab"], "name": "longowal"}
+{"city": "loni", "state": "uttar pradesh", "tag": ["loni", "uttar pradesh"], "name": "loni"}
+{"city": "losal", "state": "rajasthan", "tag": ["losal", "rajasthan"], "name": "losal"}
+{"city": "lucknow", "state": "uttar pradesh", "tag": ["lucknow", "uttar pradesh"], "name": "lucknow"}
+{"city": "ludhiana", "state": "punjab", "tag": ["ludhiana", "punjab"], "name": "ludhiana"}
+{"city": "lumding", "state": "assam", "tag": ["lumding", "assam"], "name": "lumding"}
+{"city": "lunawada", "state": "gujarat", "tag": ["lunawada", "gujarat"], "name": "lunawada"}
+{"city": "lundi", "state": "madhya pradesh", "tag": ["lundi", "madhya pradesh"], "name": "lundi"}
+{"city": "lunglei", "state": "mizoram", "tag": ["lunglei", "mizoram"], "name": "lunglei"}
+{"city": "macherla", "state": "andhra pradesh", "tag": ["macherla", "andhra pradesh"], "name": "macherla"}
+{"city": "machilipatnam", "state": "andhra pradesh", "tag": ["machilipatnam", "andhra pradesh"], "name": "machilipatnam"}
+{"city": "madanapalle", "state": "andhra pradesh", "tag": ["madanapalle", "andhra pradesh"], "name": "madanapalle"}
+{"city": "maddhuru", "state": "karnataka", "tag": ["maddhuru", "karnataka"], "name": "maddhuru"}
+{"city": "margao", "state": "goa", "tag": ["margao", "goa"], "name": "margao"}
+{"city": "madhepura", "state": "bihar", "tag": ["madhepura", "bihar"], "name": "madhepura"}
+{"city": "madhubani", "state": "bihar", "tag": ["madhubani", "bihar"], "name": "madhubani"}
+{"city": "madhugiri", "state": "karnataka", "tag": ["madhugiri", "karnataka"], "name": "madhugiri"}
+{"city": "madhupur", "state": "jharkhand", "tag": ["madhupur", "jharkhand"], "name": "madhupur"}
+{"city": "madhyamgram", "state": "odisha", "tag": ["madhyamgram", "odisha"], "name": "madhyamgram"}
+{"city": "madikeri", "state": "karnataka", "tag": ["madikeri", "karnataka"], "name": "madikeri"}
+{"city": "madurai", "state": "tamil nadu", "tag": ["madurai", "tamil nadu"], "name": "madurai"}
+{"city": "maagadi", "state": "karnataka", "tag": ["maagadi", "karnataka"], "name": "maagadi"}
+{"city": "mahabaleswar", "state": "maharashtra", "tag": ["mahabaleswar", "maharashtra"], "name": "mahabaleswar"}
+{"city": "mahad", "state": "maharashtra", "tag": ["mahad", "maharashtra"], "name": "mahad"}
+{"city": "mahbubnagar", "state": "andhra pradesh", "tag": ["mahbubnagar", "andhra pradesh"], "name": "mahbubnagar"}
+{"city": "mahalingapura", "state": "karnataka", "tag": ["mahalingapura", "karnataka"], "name": "mahalingapura"}
+{"city": "maharajganj", "state": "bihar", "tag": ["maharajganj", "bihar"], "name": "maharajganj"}
+{"city": "maharajpur", "state": "madhya pradesh", "tag": ["maharajpur", "madhya pradesh"], "name": "maharajpur"}
+{"city": "mahasamund", "state": "chhattisgarh", "tag": ["mahasamund", "chhattisgarh"], "name": "mahasamund"}
+{"city": "mahe", "state": "puducherry", "tag": ["mahe", "puducherry"], "name": "mahe"}
+{"city": "mahendragarh", "state": "chhattisgarh", "tag": ["mahendragarh", "chhattisgarh"], "name": "mahendragarh"}
+{"city": "mahendragarh", "state": "haryana", "tag": ["mahendragarh", "haryana"], "name": "mahendragarh"}
+{"city": "mahesana", "state": "gujarat", "tag": ["mahesana", "gujarat"], "name": "mahesana"}
+{"city": "mahidpur", "state": "madhya pradesh", "tag": ["mahidpur", "madhya pradesh"], "name": "mahidpur"}
+{"city": "mahnar bazar", "state": "bihar", "tag": ["mahnar bazar", "bihar"], "name": "mahnar bazar"}
+{"city": "mahoba", "state": "uttar pradesh", "tag": ["mahoba", "uttar pradesh"], "name": "mahoba"}
+{"city": "mahuli", "state": "maharashtra", "tag": ["mahuli", "maharashtra"], "name": "mahuli"}
+{"city": "mahuva", "state": "gujarat", "tag": ["mahuva", "gujarat"], "name": "mahuva"}
+{"city": "mahwa", "state": "rajasthan", "tag": ["mahwa", "rajasthan"], "name": "mahwa"}
+{"city": "maihar", "state": "madhya pradesh", "tag": ["maihar", "madhya pradesh"], "name": "maihar"}
+{"city": "mainaguri", "state": "west bengal", "tag": ["mainaguri", "west bengal"], "name": "mainaguri"}
+{"city": "makhdumpur", "state": "bihar", "tag": ["makhdumpur", "bihar"], "name": "makhdumpur"}
+{"city": "makrana", "state": "rajasthan", "tag": ["makrana", "rajasthan"], "name": "makrana"}
+{"city": "mal", "state": "west bengal", "tag": ["mal", "west bengal"], "name": "mal"}
+{"city": "malajkhand", "state": "madhya pradesh", "tag": ["malajkhand", "madhya pradesh"], "name": "malajkhand"}
+{"city": "malappuram", "state": "kerala", "tag": ["malappuram", "kerala"], "name": "malappuram"}
+{"city": "malavalli", "state": "karnataka", "tag": ["malavalli", "karnataka"], "name": "malavalli"}
+{"city": "malegaon", "state": "maharashtra", "tag": ["malegaon", "maharashtra"], "name": "malegaon"}
+{"city": "malerkotla", "state": "punjab", "tag": ["malerkotla", "punjab"], "name": "malerkotla"}
+{"city": "malkangiri", "state": "odisha", "tag": ["malkangiri", "odisha"], "name": "malkangiri"}
+{"city": "malkapur", "state": "maharashtra", "tag": ["malkapur", "maharashtra"], "name": "malkapur"}
+{"city": "malout", "state": "punjab", "tag": ["malout", "punjab"], "name": "malout"}
+{"city": "malpura", "state": "rajasthan", "tag": ["malpura", "rajasthan"], "name": "malpura"}
+{"city": "maaluru", "state": "karnataka", "tag": ["maaluru", "karnataka"], "name": "maaluru"}
+{"city": "manasa", "state": "madhya pradesh", "tag": ["manasa", "madhya pradesh"], "name": "manasa"}
+{"city": "manavadar", "state": "gujarat", "tag": ["manavadar", "gujarat"], "name": "manavadar"}
+{"city": "manawar", "state": "madhya pradesh", "tag": ["manawar", "madhya pradesh"], "name": "manawar"}
+{"city": "manchar", "state": "maharashtra", "tag": ["manchar", "maharashtra"], "name": "manchar"}
+{"city": "mancherial", "state": "andhra pradesh", "tag": ["mancherial", "andhra pradesh"], "name": "mancherial"}
+{"city": "mandalgarh", "state": "rajasthan", "tag": ["mandalgarh", "rajasthan"], "name": "mandalgarh"}
+{"city": "mandamarri", "state": "andhra pradesh", "tag": ["mandamarri", "andhra pradesh"], "name": "mandamarri"}
+{"city": "mandapeta", "state": "andhra pradesh", "tag": ["mandapeta", "andhra pradesh"], "name": "mandapeta"}
+{"city": "mandawa", "state": "rajasthan", "tag": ["mandawa", "rajasthan"], "name": "mandawa"}
+{"city": "mandi", "state": "himachal pradesh", "tag": ["mandi", "himachal pradesh"], "name": "mandi"}
+{"city": "mandi dabwali", "state": "haryana", "tag": ["mandi dabwali", "haryana"], "name": "mandi dabwali"}
+{"city": "mandideep", "state": "madhya pradesh", "tag": ["mandideep", "madhya pradesh"], "name": "mandideep"}
+{"city": "mandla", "state": "madhya pradesh", "tag": ["mandla", "madhya pradesh"], "name": "mandla"}
+{"city": "mandsaur", "state": "madhya pradesh", "tag": ["mandsaur", "madhya pradesh"], "name": "mandsaur"}
+{"city": "mandvi", "state": "gujarat", "tag": ["mandvi", "gujarat"], "name": "mandvi"}
+{"city": "mandya", "state": "karnataka", "tag": ["mandya", "karnataka"], "name": "mandya"}
+{"city": "maner", "state": "bihar", "tag": ["maner", "bihar"], "name": "maner"}
+{"city": "manesar", "state": "haryana", "tag": ["manesar", "haryana"], "name": "manesar"}
+{"city": "mangalagiri", "state": "andhra pradesh", "tag": ["mangalagiri", "andhra pradesh"], "name": "mangalagiri"}
+{"city": "mangaldoi", "state": "assam", "tag": ["mangaldoi", "assam"], "name": "mangaldoi"}
+{"city": "mangalore", "state": "karnataka", "tag": ["mangalore", "karnataka"], "name": "mangalore"}
+{"city": "mangalvedhe", "state": "maharashtra", "tag": ["mangalvedhe", "maharashtra"], "name": "mangalvedhe"}
+{"city": "manglaur", "state": "uttarakhand", "tag": ["manglaur", "uttarakhand"], "name": "manglaur"}
+{"city": "mangrol", "state": "gujarat", "tag": ["mangrol", "gujarat"], "name": "mangrol"}
+{"city": "mangrol", "state": "rajasthan", "tag": ["mangrol", "rajasthan"], "name": "mangrol"}
+{"city": "mangrulpir", "state": "maharashtra", "tag": ["mangrulpir", "maharashtra"], "name": "mangrulpir"}
+{"city": "manihari", "state": "bihar", "tag": ["manihari", "bihar"], "name": "manihari"}
+{"city": "manjlegaon", "state": "maharashtra", "tag": ["manjlegaon", "maharashtra"], "name": "manjlegaon"}
+{"city": "mankachar", "state": "assam", "tag": ["mankachar", "assam"], "name": "mankachar"}
+{"city": "manmad", "state": "maharashtra", "tag": ["manmad", "maharashtra"], "name": "manmad"}
+{"city": "mansa", "state": "punjab", "tag": ["mansa", "punjab"], "name": "mansa"}
+{"city": "mansa", "state": "gujarat", "tag": ["mansa", "gujarat"], "name": "mansa"}
+{"city": "manuguru", "state": "andhra pradesh", "tag": ["manuguru", "andhra pradesh"], "name": "manuguru"}
+{"city": "maanvi", "state": "karnataka", "tag": ["maanvi", "karnataka"], "name": "maanvi"}
+{"city": "manwath", "state": "maharashtra", "tag": ["manwath", "maharashtra"], "name": "manwath"}
+{"city": "mapusa", "state": "goa", "tag": ["mapusa", "goa"], "name": "mapusa"}
+{"city": "margao", "state": "goa", "tag": ["margao", "goa"], "name": "margao"}
+{"city": "margherita", "state": "assam", "tag": ["margherita", "assam"], "name": "margherita"}
+{"city": "marhaura", "state": "bihar", "tag": ["marhaura", "bihar"], "name": "marhaura"}
+{"city": "mariani", "state": "assam", "tag": ["mariani", "assam"], "name": "mariani"}
+{"city": "marigaon", "state": "assam", "tag": ["marigaon", "assam"], "name": "marigaon"}
+{"city": "markapur", "state": "andhra pradesh", "tag": ["markapur", "andhra pradesh"], "name": "markapur"}
+{"city": "marmagao", "state": "goa", "tag": ["marmagao", "goa"], "name": "marmagao"}
+{"city": "masaurhi", "state": "bihar", "tag": ["masaurhi", "bihar"], "name": "masaurhi"}
+{"city": "mathabhanga", "state": "west bengal", "tag": ["mathabhanga", "west bengal"], "name": "mathabhanga"}
+{"city": "mathura", "state": "uttar pradesh", "tag": ["mathura", "uttar pradesh"], "name": "mathura"}
+{"city": "mattannur", "state": "kerala", "tag": ["mattannur", "kerala"], "name": "mattannur"}
+{"city": "mauganj", "state": "madhya pradesh", "tag": ["mauganj", "madhya pradesh"], "name": "mauganj"}
+{"city": "maur", "state": "punjab", "tag": ["maur", "punjab"], "name": "maur"}
+{"city": "mavelikkara", "state": "kerala", "tag": ["mavelikkara", "kerala"], "name": "mavelikkara"}
+{"city": "mavoor", "state": "kerala", "tag": ["mavoor", "kerala"], "name": "mavoor"}
+{"city": "mayang imphal", "state": "manipur", "tag": ["mayang imphal", "manipur"], "name": "mayang imphal"}
+{"city": "medak", "state": "andhra pradesh", "tag": ["medak", "andhra pradesh"], "name": "medak"}
+{"city": "medinipur", "state": "west bengal", "tag": ["medinipur", "west bengal"], "name": "medinipur"}
+{"city": "meerut", "state": "uttar pradesh", "tag": ["meerut", "uttar pradesh"], "name": "meerut"}
+{"city": "mehkar", "state": "maharashtra", "tag": ["mehkar", "maharashtra"], "name": "mehkar"}
+{"city": "mehmedabad", "state": "gujarat", "tag": ["mehmedabad", "gujarat"], "name": "mehmedabad"}
+{"city": "memari", "state": "west bengal", "tag": ["memari", "west bengal"], "name": "memari"}
+{"city": "merta city", "state": "rajasthan", "tag": ["merta city", "rajasthan"], "name": "merta city"}
+{"city": "mhaswad", "state": "maharashtra", "tag": ["mhaswad", "maharashtra"], "name": "mhaswad"}
+{"city": "mhow cantonment", "state": "madhya pradesh", "tag": ["mhow cantonment", "madhya pradesh"], "name": "mhow cantonment"}
+{"city": "mhowgaon", "state": "madhya pradesh", "tag": ["mhowgaon", "madhya pradesh"], "name": "mhowgaon"}
+{"city": "mihijam", "state": "jharkhand", "tag": ["mihijam", "jharkhand"], "name": "mihijam"}
+{"city": "mira-bhayandar", "state": "maharashtra", "tag": ["mira-bhayandar", "maharashtra"], "name": "mira-bhayandar"}
+{"city": "miraj", "state": "maharashtra", "tag": ["miraj", "maharashtra"], "name": "miraj"}
+{"city": "mirganj", "state": "bihar", "tag": ["mirganj", "bihar"], "name": "mirganj"}
+{"city": "miryalaguda", "state": "andhra pradesh", "tag": ["miryalaguda", "andhra pradesh"], "name": "miryalaguda"}
+{"city": "mirzapur", "state": "uttar pradesh", "tag": ["mirzapur", "uttar pradesh"], "name": "mirzapur"}
+{"city": "mithapur", "state": "gujarat", "tag": ["mithapur", "gujarat"], "name": "mithapur"}
+{"city": "modasa", "state": "gujarat", "tag": ["modasa", "gujarat"], "name": "modasa"}
+{"city": "modinagar", "state": "uttar pradesh", "tag": ["modinagar", "uttar pradesh"], "name": "modinagar"}
+{"city": "moga", "state": "punjab", "tag": ["moga", "punjab"], "name": "moga"}
+{"city": "mogalthur", "state": "andhra pradesh", "tag": ["mogalthur", "andhra pradesh"], "name": "mogalthur"}
+{"city": "mohali", "state": "punjab", "tag": ["mohali", "punjab"], "name": "mohali"}
+{"city": "mohania", "state": "bihar", "tag": ["mohania", "bihar"], "name": "mohania"}
+{"city": "mokama", "state": "bihar", "tag": ["mokama", "bihar"], "name": "mokama"}
+{"city": "mokameh", "state": "bihar", "tag": ["mokameh", "bihar"], "name": "mokameh"}
+{"city": "mokokchung", "state": "nagaland", "tag": ["mokokchung", "nagaland"], "name": "mokokchung"}
+{"city": "monoharpur", "state": "west bengal", "tag": ["monoharpur", "west bengal"], "name": "monoharpur"}
+{"city": "moradabad", "state": "uttar pradesh", "tag": ["moradabad", "uttar pradesh"], "name": "moradabad"}
+{"city": "morena", "state": "madhya pradesh", "tag": ["morena", "madhya pradesh"], "name": "morena"}
+{"city": "morinda", "state": "punjab", "tag": ["morinda", "punjab"], "name": "morinda"}
+{"city": "morshi", "state": "maharashtra", "tag": ["morshi", "maharashtra"], "name": "morshi"}
+{"city": "morvi", "state": "gujarat", "tag": ["morvi", "gujarat"], "name": "morvi"}
+{"city": "motihari", "state": "bihar", "tag": ["motihari", "bihar"], "name": "motihari"}
+{"city": "motipur", "state": "bihar", "tag": ["motipur", "bihar"], "name": "motipur"}
+{"city": "mount abu", "state": "rajasthan", "tag": ["mount abu", "rajasthan"], "name": "mount abu"}
+{"city": "mudalagi", "state": "karnataka", "tag": ["mudalagi", "karnataka"], "name": "mudalagi"}
+{"city": "mudabidri", "state": "karnataka", "tag": ["mudabidri", "karnataka"], "name": "mudabidri"}
+{"city": "muddebihala", "state": "karnataka", "tag": ["muddebihala", "karnataka"], "name": "muddebihala"}
+{"city": "mudhola", "state": "karnataka", "tag": ["mudhola", "karnataka"], "name": "mudhola"}
+{"city": "mukatsar", "state": "punjab", "tag": ["mukatsar", "punjab"], "name": "mukatsar"}
+{"city": "mukerian", "state": "punjab", "tag": ["mukerian", "punjab"], "name": "mukerian"}
+{"city": "mukhed", "state": "maharashtra", "tag": ["mukhed", "maharashtra"], "name": "mukhed"}
+{"city": "muktsar", "state": "punjab", "tag": ["muktsar", "punjab"], "name": "muktsar"}
+{"city": "mul", "state": "maharashtra", "tag": ["mul", "maharashtra"], "name": "mul"}
+{"city": "mulabaagilu", "state": "karnataka", "tag": ["mulabaagilu", "karnataka"], "name": "mulabaagilu"}
+{"city": "multai", "state": "madhya pradesh", "tag": ["multai", "madhya pradesh"], "name": "multai"}
+{"city": "mumbai", "state": "maharashtra", "tag": ["mumbai", "maharashtra"], "name": "mumbai"}
+{"city": "mundi", "state": "madhya pradesh", "tag": ["mundi", "madhya pradesh"], "name": "mundi"}
+{"city": "mundaragi", "state": "karnataka", "tag": ["mundaragi", "karnataka"], "name": "mundaragi"}
+{"city": "mungeli", "state": "chhattisgarh", "tag": ["mungeli", "chhattisgarh"], "name": "mungeli"}
+{"city": "munger", "state": "bihar", "tag": ["munger", "bihar"], "name": "munger"}
+{"city": "muradnagar", "state": "uttar pradesh", "tag": ["muradnagar", "uttar pradesh"], "name": "muradnagar"}
+{"city": "murliganj", "state": "bihar", "tag": ["murliganj", "bihar"], "name": "murliganj"}
+{"city": "murshidabad", "state": "west bengal", "tag": ["murshidabad", "west bengal"], "name": "murshidabad"}
+{"city": "murtijapur", "state": "maharashtra", "tag": ["murtijapur", "maharashtra"], "name": "murtijapur"}
+{"city": "murwara", "state": "madhya pradesh", "tag": ["murwara", "madhya pradesh"], "name": "murwara"}
+{"city": "musabani", "state": "jharkhand", "tag": ["musabani", "jharkhand"], "name": "musabani"}
+{"city": "mussoorie", "state": "uttarakhand", "tag": ["mussoorie", "uttarakhand"], "name": "mussoorie"}
+{"city": "muvattupuzha", "state": "kerala", "tag": ["muvattupuzha", "kerala"], "name": "muvattupuzha"}
+{"city": "muzaffarnagar", "state": "uttar pradesh", "tag": ["muzaffarnagar", "uttar pradesh"], "name": "muzaffarnagar"}
+{"city": "muzaffarpur", "state": "bihar", "tag": ["muzaffarpur", "bihar"], "name": "muzaffarpur"}
+{"city": "mysore", "state": "karnataka", "tag": ["mysore", "karnataka"], "name": "mysore"}
+{"city": "meethari marwar", "state": "rajasthan", "tag": ["meethari marwar", "rajasthan"], "name": "meethari marwar"}
+{"city": "nabadwip", "state": "west bengal", "tag": ["nabadwip", "west bengal"], "name": "nabadwip"}
+{"city": "nabarangapur", "state": "odisha", "tag": ["nabarangapur", "odisha"], "name": "nabarangapur"}
+{"city": "nabha", "state": "punjab", "tag": ["nabha", "punjab"], "name": "nabha"}
+{"city": "nadbai", "state": "rajasthan", "tag": ["nadbai", "rajasthan"], "name": "nadbai"}
+{"city": "nadiad", "state": "gujarat", "tag": ["nadiad", "gujarat"], "name": "nadiad"}
+{"city": "nidagundi", "state": "karnataka", "tag": ["nidagundi", "karnataka"], "name": "nidagundi"}
+{"city": "nagaon", "state": "assam", "tag": ["nagaon", "assam"], "name": "nagaon"}
+{"city": "nagapattinam", "state": "tamil nadu", "tag": ["nagapattinam", "tamil nadu"], "name": "nagapattinam"}
+{"city": "nagar", "state": "rajasthan", "tag": ["nagar", "rajasthan"], "name": "nagar"}
+{"city": "nagari", "state": "andhra pradesh", "tag": ["nagari", "andhra pradesh"], "name": "nagari"}
+{"city": "nagarkurnool", "state": "andhra pradesh", "tag": ["nagarkurnool", "andhra pradesh"], "name": "nagarkurnool"}
+{"city": "nagaur", "state": "rajasthan", "tag": ["nagaur", "rajasthan"], "name": "nagaur"}
+{"city": "nagda", "state": "madhya pradesh", "tag": ["nagda", "madhya pradesh"], "name": "nagda"}
+{"city": "nagercoil", "state": "tamil nadu", "tag": ["nagercoil", "tamil nadu"], "name": "nagercoil"}
+{"city": "nagina", "state": "uttar pradesh", "tag": ["nagina", "uttar pradesh"], "name": "nagina"}
+{"city": "nagla", "state": "uttarakhand", "tag": ["nagla", "uttarakhand"], "name": "nagla"}
+{"city": "nagpur", "state": "maharashtra", "tag": ["nagpur", "maharashtra"], "name": "nagpur"}
+{"city": "nahan", "state": "himachal pradesh", "tag": ["nahan", "himachal pradesh"], "name": "nahan"}
+{"city": "naharlagun", "state": "arunachal pradesh", "tag": ["naharlagun", "arunachal pradesh"], "name": "naharlagun"}
+{"city": "naihati", "state": "west bengal", "tag": ["naihati", "west bengal"], "name": "naihati"}
+{"city": "naila janjgir", "state": "chhattisgarh", "tag": ["naila janjgir", "chhattisgarh"], "name": "naila janjgir"}
+{"city": "nainital", "state": "uttarakhand", "tag": ["nainital", "uttarakhand"], "name": "nainital"}
+{"city": "nainpur", "state": "madhya pradesh", "tag": ["nainpur", "madhya pradesh"], "name": "nainpur"}
+{"city": "najafgarh", "state": "delhi", "tag": ["najafgarh", "delhi"], "name": "najafgarh"}
+{"city": "najibabad", "state": "uttar pradesh", "tag": ["najibabad", "uttar pradesh"], "name": "najibabad"}
+{"city": "nakodar", "state": "punjab", "tag": ["nakodar", "punjab"], "name": "nakodar"}
+{"city": "nakur", "state": "uttar pradesh", "tag": ["nakur", "uttar pradesh"], "name": "nakur"}
+{"city": "nalasopara", "state": "maharashtra", "tag": ["nalasopara", "maharashtra"], "name": "nalasopara"}
+{"city": "nalanda", "state": "bihar", "tag": ["nalanda", "bihar"], "name": "nalanda"}
+{"city": "nalbari", "state": "assam", "tag": ["nalbari", "assam"], "name": "nalbari"}
+{"city": "namagiripettai", "state": "tamil nadu", "tag": ["namagiripettai", "tamil nadu"], "name": "namagiripettai"}
+{"city": "namakkal", "state": "tamil nadu", "tag": ["namakkal", "tamil nadu"], "name": "namakkal"}
+{"city": "nanded-waghala", "state": "maharashtra", "tag": ["nanded-waghala", "maharashtra"], "name": "nanded-waghala"}
+{"city": "nandgaon", "state": "maharashtra", "tag": ["nandgaon", "maharashtra"], "name": "nandgaon"}
+{"city": "nandivaram-guduvancheri", "state": "tamil nadu", "tag": ["nandivaram-guduvancheri", "tamil nadu"], "name": "nandivaram-guduvancheri"}
+{"city": "nandura", "state": "maharashtra", "tag": ["nandura", "maharashtra"], "name": "nandura"}
+{"city": "nandurbar", "state": "maharashtra", "tag": ["nandurbar", "maharashtra"], "name": "nandurbar"}
+{"city": "nandyal", "state": "andhra pradesh", "tag": ["nandyal", "andhra pradesh"], "name": "nandyal"}
+{"city": "nangal", "state": "punjab", "tag": ["nangal", "punjab"], "name": "nangal"}
+{"city": "nanjanagoodu", "state": "karnataka", "tag": ["nanjanagoodu", "karnataka"], "name": "nanjanagoodu"}
+{"city": "nanjikottai", "state": "tamil nadu", "tag": ["nanjikottai", "tamil nadu"], "name": "nanjikottai"}
+{"city": "nanpara", "state": "uttar pradesh", "tag": ["nanpara", "uttar pradesh"], "name": "nanpara"}
+{"city": "narasapur", "state": "andhra pradesh", "tag": ["narasapur", "andhra pradesh"], "name": "narasapur"}
+{"city": "narasaraopet", "state": "andhra pradesh", "tag": ["narasaraopet", "andhra pradesh"], "name": "narasaraopet"}
+{"city": "naraura", "state": "uttar pradesh", "tag": ["naraura", "uttar pradesh"], "name": "naraura"}
+{"city": "narayanpet", "state": "andhra pradesh", "tag": ["narayanpet", "andhra pradesh"], "name": "narayanpet"}
+{"city": "narela", "state": "delhi", "tag": ["narela", "delhi"], "name": "narela"}
+{"city": "nargund", "state": "rajasthan", "tag": ["nargund", "rajasthan"], "name": "nargund"}
+{"city": "narkatiaganj", "state": "bihar", "tag": ["narkatiaganj", "bihar"], "name": "narkatiaganj"}
+{"city": "narkhed", "state": "maharashtra", "tag": ["narkhed", "maharashtra"], "name": "narkhed"}
+{"city": "narnaul", "state": "haryana", "tag": ["narnaul", "haryana"], "name": "narnaul"}
+{"city": "narsinghgarh", "state": "madhya pradesh", "tag": ["narsinghgarh", "madhya pradesh"], "name": "narsinghgarh"}
+{"city": "narsinghgarh", "state": "madhya pradesh", "tag": ["narsinghgarh", "madhya pradesh"], "name": "narsinghgarh"}
+{"city": "narsipatnam", "state": "andhra pradesh", "tag": ["narsipatnam", "andhra pradesh"], "name": "narsipatnam"}
+{"city": "narwana", "state": "haryana", "tag": ["narwana", "haryana"], "name": "narwana"}
+{"city": "nashik", "state": "maharashtra", "tag": ["nashik", "maharashtra"], "name": "nashik"}
+{"city": "nasirabad", "state": "rajasthan", "tag": ["nasirabad", "rajasthan"], "name": "nasirabad"}
+{"city": "natham", "state": "tamil nadu", "tag": ["natham", "tamil nadu"], "name": "natham"}
+{"city": "nathdwara", "state": "rajasthan", "tag": ["nathdwara", "rajasthan"], "name": "nathdwara"}
+{"city": "naugachhia", "state": "bihar", "tag": ["naugachhia", "bihar"], "name": "naugachhia"}
+{"city": "naugawan sadat", "state": "uttar pradesh", "tag": ["naugawan sadat", "uttar pradesh"], "name": "naugawan sadat"}
+{"city": "nautanwa", "state": "uttar pradesh", "tag": ["nautanwa", "uttar pradesh"], "name": "nautanwa"}
+{"city": "navalgund", "state": "rajasthan", "tag": ["navalgund", "rajasthan"], "name": "navalgund"}
+{"city": "navi mumbai", "state": "maharashtra", "tag": ["navi mumbai", "maharashtra"], "name": "navi mumbai"}
+{"city": "navsari", "state": "gujarat", "tag": ["navsari", "gujarat"], "name": "navsari"}
+{"city": "nawabganj", "state": "uttar pradesh", "tag": ["nawabganj", "uttar pradesh"], "name": "nawabganj"}
+{"city": "nawada", "state": "bihar", "tag": ["nawada", "bihar"], "name": "nawada"}
+{"city": "nawagarh", "state": "chhattisgarh", "tag": ["nawagarh", "chhattisgarh"], "name": "nawagarh"}
+{"city": "nawalgarh", "state": "rajasthan", "tag": ["nawalgarh", "rajasthan"], "name": "nawalgarh"}
+{"city": "nawanshahr", "state": "punjab", "tag": ["nawanshahr", "punjab"], "name": "nawanshahr"}
+{"city": "nawapur", "state": "maharashtra", "tag": ["nawapur", "maharashtra"], "name": "nawapur"}
+{"city": "nedumangad", "state": "kerala", "tag": ["nedumangad", "kerala"], "name": "nedumangad"}
+{"city": "neem-ka-thana", "state": "rajasthan", "tag": ["neem-ka-thana", "rajasthan"], "name": "neem-ka-thana"}
+{"city": "neemuch", "state": "madhya pradesh", "tag": ["neemuch", "madhya pradesh"], "name": "neemuch"}
+{"city": "nehtaur", "state": "uttar pradesh", "tag": ["nehtaur", "uttar pradesh"], "name": "nehtaur"}
+{"city": "nelamangala", "state": "rajasthan", "tag": ["nelamangala", "rajasthan"], "name": "nelamangala"}
+{"city": "nellikuppam", "state": "tamil nadu", "tag": ["nellikuppam", "tamil nadu"], "name": "nellikuppam"}
+{"city": "nellore", "state": "andhra pradesh", "tag": ["nellore", "andhra pradesh"], "name": "nellore"}
+{"city": "nepanagar", "state": "madhya pradesh", "tag": ["nepanagar", "madhya pradesh"], "name": "nepanagar"}
+{"city": "neyveli", "state": "tamil nadu", "tag": ["neyveli", "tamil nadu"], "name": "neyveli"}
+{"city": "neyyattinkara", "state": "kerala", "tag": ["neyyattinkara", "kerala"], "name": "neyyattinkara"}
+{"city": "nidadavole", "state": "andhra pradesh", "tag": ["nidadavole", "andhra pradesh"], "name": "nidadavole"}
+{"city": "nilanga", "state": "maharashtra", "tag": ["nilanga", "maharashtra"], "name": "nilanga"}
+{"city": "nilambur", "state": "kerala", "tag": ["nilambur", "kerala"], "name": "nilambur"}
+{"city": "nimbahera", "state": "rajasthan", "tag": ["nimbahera", "rajasthan"], "name": "nimbahera"}
+{"city": "nippani", "state": "karnataka", "tag": ["nippani", "karnataka"], "name": "nippani"}
+{"city": "nirmal", "state": "andhra pradesh", "tag": ["nirmal", "andhra pradesh"], "name": "nirmal"}
+{"city": "niwai", "state": "rajasthan", "tag": ["niwai", "rajasthan"], "name": "niwai"}
+{"city": "niwari", "state": "madhya pradesh", "tag": ["niwari", "madhya pradesh"], "name": "niwari"}
+{"city": "nizamabad", "state": "andhra pradesh", "tag": ["nizamabad", "andhra pradesh"], "name": "nizamabad"}
+{"city": "nohar", "state": "rajasthan", "tag": ["nohar", "rajasthan"], "name": "nohar"}
+{"city": "noida", "state": "uttar pradesh", "tag": ["noida", "uttar pradesh"], "name": "noida"}
+{"city": "nokha", "state": "bihar", "tag": ["nokha", "bihar"], "name": "nokha"}
+{"city": "nokha", "state": "rajasthan", "tag": ["nokha", "rajasthan"], "name": "nokha"}
+{"city": "nongstoin", "state": "meghalaya", "tag": ["nongstoin", "meghalaya"], "name": "nongstoin"}
+{"city": "noorpur", "state": "uttar pradesh", "tag": ["noorpur", "uttar pradesh"], "name": "noorpur"}
+{"city": "north lakhimpur", "state": "assam", "tag": ["north lakhimpur", "assam"], "name": "north lakhimpur"}
+{"city": "nowgong", "state": "madhya pradesh", "tag": ["nowgong", "madhya pradesh"], "name": "nowgong"}
+{"city": "nowrozabad", "state": "madhya pradesh", "tag": ["nowrozabad", "madhya pradesh"], "name": "nowrozabad"}
+{"city": "nuzvid", "state": "andhra pradesh", "tag": ["nuzvid", "andhra pradesh"], "name": "nuzvid"}
+{"city": "o' valley", "state": "tamil nadu", "tag": ["o' valley", "tamil nadu"], "name": "o' valley"}
+{"city": "oddanchatram", "state": "tamil nadu", "tag": ["oddanchatram", "tamil nadu"], "name": "oddanchatram"}
+{"city": "obra", "state": "uttar pradesh", "tag": ["obra", "uttar pradesh"], "name": "obra"}
+{"city": "ongole", "state": "andhra pradesh", "tag": ["ongole", "andhra pradesh"], "name": "ongole"}
+{"city": "orai", "state": "uttar pradesh", "tag": ["orai", "uttar pradesh"], "name": "orai"}
+{"city": "osmanabad", "state": "maharashtra", "tag": ["osmanabad", "maharashtra"], "name": "osmanabad"}
+{"city": "ottappalam", "state": "kerala", "tag": ["ottappalam", "kerala"], "name": "ottappalam"}
+{"city": "ozar", "state": "maharashtra", "tag": ["ozar", "maharashtra"], "name": "ozar"}
+{"city": "p.n.patti", "state": "tamil nadu", "tag": ["p.n.patti", "tamil nadu"], "name": "p.n.patti"}
+{"city": "pachora", "state": "maharashtra", "tag": ["pachora", "maharashtra"], "name": "pachora"}
+{"city": "pachore", "state": "madhya pradesh", "tag": ["pachore", "madhya pradesh"], "name": "pachore"}
+{"city": "pacode", "state": "tamil nadu", "tag": ["pacode", "tamil nadu"], "name": "pacode"}
+{"city": "padmanabhapuram", "state": "tamil nadu", "tag": ["padmanabhapuram", "tamil nadu"], "name": "padmanabhapuram"}
+{"city": "padra", "state": "gujarat", "tag": ["padra", "gujarat"], "name": "padra"}
+{"city": "padrauna", "state": "uttar pradesh", "tag": ["padrauna", "uttar pradesh"], "name": "padrauna"}
+{"city": "paithan", "state": "maharashtra", "tag": ["paithan", "maharashtra"], "name": "paithan"}
+{"city": "pakaur", "state": "jharkhand", "tag": ["pakaur", "jharkhand"], "name": "pakaur"}
+{"city": "palacole", "state": "andhra pradesh", "tag": ["palacole", "andhra pradesh"], "name": "palacole"}
+{"city": "palai", "state": "kerala", "tag": ["palai", "kerala"], "name": "palai"}
+{"city": "palakkad", "state": "kerala", "tag": ["palakkad", "kerala"], "name": "palakkad"}
+{"city": "palani", "state": "tamil nadu", "tag": ["palani", "tamil nadu"], "name": "palani"}
+{"city": "palanpur", "state": "gujarat", "tag": ["palanpur", "gujarat"], "name": "palanpur"}
+{"city": "palasa kasibugga", "state": "andhra pradesh", "tag": ["palasa kasibugga", "andhra pradesh"], "name": "palasa kasibugga"}
+{"city": "palghar", "state": "maharashtra", "tag": ["palghar", "maharashtra"], "name": "palghar"}
+{"city": "pali", "state": "rajasthan", "tag": ["pali", "rajasthan"], "name": "pali"}
+{"city": "pali", "state": "madhya pradesh", "tag": ["pali", "madhya pradesh"], "name": "pali"}
+{"city": "palia kalan", "state": "uttar pradesh", "tag": ["palia kalan", "uttar pradesh"], "name": "palia kalan"}
+{"city": "palitana", "state": "gujarat", "tag": ["palitana", "gujarat"], "name": "palitana"}
+{"city": "pondur", "state": "andhra pradesh", "tag": ["pondur", "andhra pradesh"], "name": "pondur"}
+{"city": "palladam", "state": "tamil nadu", "tag": ["palladam", "tamil nadu"], "name": "palladam"}
+{"city": "pallapatti", "state": "tamil nadu", "tag": ["pallapatti", "tamil nadu"], "name": "pallapatti"}
+{"city": "pallikonda", "state": "tamil nadu", "tag": ["pallikonda", "tamil nadu"], "name": "pallikonda"}
+{"city": "palwal", "state": "haryana", "tag": ["palwal", "haryana"], "name": "palwal"}
+{"city": "palwancha", "state": "andhra pradesh", "tag": ["palwancha", "andhra pradesh"], "name": "palwancha"}
+{"city": "panagar", "state": "madhya pradesh", "tag": ["panagar", "madhya pradesh"], "name": "panagar"}
+{"city": "panagudi", "state": "tamil nadu", "tag": ["panagudi", "tamil nadu"], "name": "panagudi"}
+{"city": "panaji", "state": "goa", "tag": ["panaji", "goa"], "name": "panaji"}
+{"city": "panamattom", "state": "kerala", "tag": ["panamattom", "kerala"], "name": "panamattom"}
+{"city": "panchkula", "state": "haryana", "tag": ["panchkula", "haryana"], "name": "panchkula"}
+{"city": "panchla", "state": "west bengal", "tag": ["panchla", "west bengal"], "name": "panchla"}
+{"city": "pandharkaoda", "state": "maharashtra", "tag": ["pandharkaoda", "maharashtra"], "name": "pandharkaoda"}
+{"city": "pandharpur", "state": "maharashtra", "tag": ["pandharpur", "maharashtra"], "name": "pandharpur"}
+{"city": "pandhurna", "state": "madhya pradesh", "tag": ["pandhurna", "madhya pradesh"], "name": "pandhurna"}
+{"city": "pandua", "state": "west bengal", "tag": ["pandua", "west bengal"], "name": "pandua"}
+{"city": "panipat", "state": "haryana", "tag": ["panipat", "haryana"], "name": "panipat"}
+{"city": "panna", "state": "madhya pradesh", "tag": ["panna", "madhya pradesh"], "name": "panna"}
+{"city": "panniyannur", "state": "kerala", "tag": ["panniyannur", "kerala"], "name": "panniyannur"}
+{"city": "panruti", "state": "tamil nadu", "tag": ["panruti", "tamil nadu"], "name": "panruti"}
+{"city": "panvel", "state": "maharashtra", "tag": ["panvel", "maharashtra"], "name": "panvel"}
+{"city": "pappinisseri", "state": "kerala", "tag": ["pappinisseri", "kerala"], "name": "pappinisseri"}
+{"city": "paradip", "state": "odisha", "tag": ["paradip", "odisha"], "name": "paradip"}
+{"city": "paramakudi", "state": "tamil nadu", "tag": ["paramakudi", "tamil nadu"], "name": "paramakudi"}
+{"city": "parangipettai", "state": "tamil nadu", "tag": ["parangipettai", "tamil nadu"], "name": "parangipettai"}
+{"city": "parasi", "state": "uttar pradesh", "tag": ["parasi", "uttar pradesh"], "name": "parasi"}
+{"city": "paravoor", "state": "kerala", "tag": ["paravoor", "kerala"], "name": "paravoor"}
+{"city": "parbhani", "state": "maharashtra", "tag": ["parbhani", "maharashtra"], "name": "parbhani"}
+{"city": "pardi", "state": "gujarat", "tag": ["pardi", "gujarat"], "name": "pardi"}
+{"city": "parlakhemundi", "state": "odisha", "tag": ["parlakhemundi", "odisha"], "name": "parlakhemundi"}
+{"city": "parli", "state": "maharashtra", "tag": ["parli", "maharashtra"], "name": "parli"}
+{"city": "parola", "state": "maharashtra", "tag": ["parola", "maharashtra"], "name": "parola"}
+{"city": "partur", "state": "maharashtra", "tag": ["partur", "maharashtra"], "name": "partur"}
+{"city": "parvathipuram", "state": "andhra pradesh", "tag": ["parvathipuram", "andhra pradesh"], "name": "parvathipuram"}
+{"city": "pasan", "state": "madhya pradesh", "tag": ["pasan", "madhya pradesh"], "name": "pasan"}
+{"city": "paschim punropara", "state": "west bengal", "tag": ["paschim punropara", "west bengal"], "name": "paschim punropara"}
+{"city": "pasighat", "state": "arunachal pradesh", "tag": ["pasighat", "arunachal pradesh"], "name": "pasighat"}
+{"city": "patan", "state": "gujarat", "tag": ["patan", "gujarat"], "name": "patan"}
+{"city": "pathanamthitta", "state": "kerala", "tag": ["pathanamthitta", "kerala"], "name": "pathanamthitta"}
+{"city": "pathankot", "state": "punjab", "tag": ["pathankot", "punjab"], "name": "pathankot"}
+{"city": "pathardi", "state": "maharashtra", "tag": ["pathardi", "maharashtra"], "name": "pathardi"}
+{"city": "pathri", "state": "maharashtra", "tag": ["pathri", "maharashtra"], "name": "pathri"}
+{"city": "patiala", "state": "punjab", "tag": ["patiala", "punjab"], "name": "patiala"}
+{"city": "patna", "state": "bihar", "tag": ["patna", "bihar"], "name": "patna"}
+{"city": "patran", "state": "punjab", "tag": ["patran", "punjab"], "name": "patran"}
+{"city": "patratu", "state": "jharkhand", "tag": ["patratu", "jharkhand"], "name": "patratu"}
+{"city": "pattamundai", "state": "odisha", "tag": ["pattamundai", "odisha"], "name": "pattamundai"}
+{"city": "patti", "state": "punjab", "tag": ["patti", "punjab"], "name": "patti"}
+{"city": "pattukkottai", "state": "tamil nadu", "tag": ["pattukkottai", "tamil nadu"], "name": "pattukkottai"}
+{"city": "patur", "state": "maharashtra", "tag": ["patur", "maharashtra"], "name": "patur"}
+{"city": "pauni", "state": "maharashtra", "tag": ["pauni", "maharashtra"], "name": "pauni"}
+{"city": "pauri", "state": "uttarakhand", "tag": ["pauri", "uttarakhand"], "name": "pauri"}
+{"city": "paavagada", "state": "karnataka", "tag": ["paavagada", "karnataka"], "name": "paavagada"}
+{"city": "pedana", "state": "andhra pradesh", "tag": ["pedana", "andhra pradesh"], "name": "pedana"}
+{"city": "peddapuram", "state": "andhra pradesh", "tag": ["peddapuram", "andhra pradesh"], "name": "peddapuram"}
+{"city": "pehowa", "state": "haryana", "tag": ["pehowa", "haryana"], "name": "pehowa"}
+{"city": "pen", "state": "maharashtra", "tag": ["pen", "maharashtra"], "name": "pen"}
+{"city": "penuganchiprolu", "state": "andhra pradesh", "tag": ["penuganchiprolu", "andhra pradesh"], "name": "penuganchiprolu"}
+{"city": "perambalur", "state": "tamil nadu", "tag": ["perambalur", "tamil nadu"], "name": "perambalur"}
+{"city": "peravurani", "state": "tamil nadu", "tag": ["peravurani", "tamil nadu"], "name": "peravurani"}
+{"city": "peringathur", "state": "kerala", "tag": ["peringathur", "kerala"], "name": "peringathur"}
+{"city": "perinthalmanna", "state": "kerala", "tag": ["perinthalmanna", "kerala"], "name": "perinthalmanna"}
+{"city": "periyakulam", "state": "tamil nadu", "tag": ["periyakulam", "tamil nadu"], "name": "periyakulam"}
+{"city": "periyasemur", "state": "tamil nadu", "tag": ["periyasemur", "tamil nadu"], "name": "periyasemur"}
+{"city": "pernampattu", "state": "tamil nadu", "tag": ["pernampattu", "tamil nadu"], "name": "pernampattu"}
+{"city": "perumbavoor", "state": "kerala", "tag": ["perumbavoor", "kerala"], "name": "perumbavoor"}
+{"city": "petlad", "state": "gujarat", "tag": ["petlad", "gujarat"], "name": "petlad"}
+{"city": "phagwara", "state": "punjab", "tag": ["phagwara", "punjab"], "name": "phagwara"}
+{"city": "phalodi", "state": "rajasthan", "tag": ["phalodi", "rajasthan"], "name": "phalodi"}
+{"city": "phaltan", "state": "maharashtra", "tag": ["phaltan", "maharashtra"], "name": "phaltan"}
+{"city": "phillaur", "state": "punjab", "tag": ["phillaur", "punjab"], "name": "phillaur"}
+{"city": "phulabani", "state": "odisha", "tag": ["phulabani", "odisha"], "name": "phulabani"}
+{"city": "phulera", "state": "rajasthan", "tag": ["phulera", "rajasthan"], "name": "phulera"}
+{"city": "phulpur", "state": "uttar pradesh", "tag": ["phulpur", "uttar pradesh"], "name": "phulpur"}
+{"city": "phusro", "state": "jharkhand", "tag": ["phusro", "jharkhand"], "name": "phusro"}
+{"city": "pihani", "state": "uttar pradesh", "tag": ["pihani", "uttar pradesh"], "name": "pihani"}
+{"city": "pilani", "state": "rajasthan", "tag": ["pilani", "rajasthan"], "name": "pilani"}
+{"city": "pilibanga", "state": "rajasthan", "tag": ["pilibanga", "rajasthan"], "name": "pilibanga"}
+{"city": "pilibhit", "state": "uttar pradesh", "tag": ["pilibhit", "uttar pradesh"], "name": "pilibhit"}
+{"city": "pilkhuwa", "state": "uttar pradesh", "tag": ["pilkhuwa", "uttar pradesh"], "name": "pilkhuwa"}
+{"city": "pindwara", "state": "rajasthan", "tag": ["pindwara", "rajasthan"], "name": "pindwara"}
+{"city": "pinjore", "state": "haryana", "tag": ["pinjore", "haryana"], "name": "pinjore"}
+{"city": "pipar city", "state": "rajasthan", "tag": ["pipar city", "rajasthan"], "name": "pipar city"}
+{"city": "pipariya", "state": "madhya pradesh", "tag": ["pipariya", "madhya pradesh"], "name": "pipariya"}
+{"city": "piro", "state": "bihar", "tag": ["piro", "bihar"], "name": "piro"}
+{"city": "pithampur", "state": "madhya pradesh", "tag": ["pithampur", "madhya pradesh"], "name": "pithampur"}
+{"city": "pithapuram", "state": "andhra pradesh", "tag": ["pithapuram", "andhra pradesh"], "name": "pithapuram"}
+{"city": "pithoragarh", "state": "uttarakhand", "tag": ["pithoragarh", "uttarakhand"], "name": "pithoragarh"}
+{"city": "pollachi", "state": "tamil nadu", "tag": ["pollachi", "tamil nadu"], "name": "pollachi"}
+{"city": "polur", "state": "tamil nadu", "tag": ["polur", "tamil nadu"], "name": "polur"}
+{"city": "pondicherry", "state": "puducherry", "tag": ["pondicherry", "puducherry"], "name": "pondicherry"}
+{"city": "ponkunnam", "state": "kerala", "tag": ["ponkunnam", "kerala"], "name": "ponkunnam"}
+{"city": "ponnani", "state": "kerala", "tag": ["ponnani", "kerala"], "name": "ponnani"}
+{"city": "ponneri", "state": "tamil nadu", "tag": ["ponneri", "tamil nadu"], "name": "ponneri"}
+{"city": "ponnur", "state": "andhra pradesh", "tag": ["ponnur", "andhra pradesh"], "name": "ponnur"}
+{"city": "porbandar", "state": "gujarat", "tag": ["porbandar", "gujarat"], "name": "porbandar"}
+{"city": "porsa", "state": "madhya pradesh", "tag": ["porsa", "madhya pradesh"], "name": "porsa"}
+{"city": "port blair", "state": "andaman and nicobar", "tag": ["port blair", "andaman and nicobar"], "name": "port blair"}
+{"city": "powayan", "state": "uttar pradesh", "tag": ["powayan", "uttar pradesh"], "name": "powayan"}
+{"city": "prantij", "state": "rajasthan", "tag": ["prantij", "rajasthan"], "name": "prantij"}
+{"city": "pratapgarh", "state": "rajasthan", "tag": ["pratapgarh", "rajasthan"], "name": "pratapgarh"}
+{"city": "pratapgarh", "state": "tripura", "tag": ["pratapgarh", "tripura"], "name": "pratapgarh"}
+{"city": "prithvipur", "state": "madhya pradesh", "tag": ["prithvipur", "madhya pradesh"], "name": "prithvipur"}
+{"city": "proddatur", "state": "andhra pradesh", "tag": ["proddatur", "andhra pradesh"], "name": "proddatur"}
+{"city": "pudukkottai", "state": "tamil nadu", "tag": ["pudukkottai", "tamil nadu"], "name": "pudukkottai"}
+{"city": "pudupattinam", "state": "tamil nadu", "tag": ["pudupattinam", "tamil nadu"], "name": "pudupattinam"}
+{"city": "pukhrayan", "state": "uttar pradesh", "tag": ["pukhrayan", "uttar pradesh"], "name": "pukhrayan"}
+{"city": "pulgaon", "state": "maharashtra", "tag": ["pulgaon", "maharashtra"], "name": "pulgaon"}
+{"city": "puliyankudi", "state": "tamil nadu", "tag": ["puliyankudi", "tamil nadu"], "name": "puliyankudi"}
+{"city": "punalur", "state": "kerala", "tag": ["punalur", "kerala"], "name": "punalur"}
+{"city": "punch", "state": "jammu and kashmir", "tag": ["punch", "jammu and kashmir"], "name": "punch"}
+{"city": "pune", "state": "maharashtra", "tag": ["pune", "maharashtra"], "name": "pune"}
+{"city": "punjaipugalur", "state": "tamil nadu", "tag": ["punjaipugalur", "tamil nadu"], "name": "punjaipugalur"}
+{"city": "punganur", "state": "andhra pradesh", "tag": ["punganur", "andhra pradesh"], "name": "punganur"}
+{"city": "puranpur", "state": "uttar pradesh", "tag": ["puranpur", "uttar pradesh"], "name": "puranpur"}
+{"city": "purna", "state": "maharashtra", "tag": ["purna", "maharashtra"], "name": "purna"}
+{"city": "puri", "state": "odisha", "tag": ["puri", "odisha"], "name": "puri"}
+{"city": "purnia", "state": "bihar", "tag": ["purnia", "bihar"], "name": "purnia"}
+{"city": "purquazi", "state": "uttar pradesh", "tag": ["purquazi", "uttar pradesh"], "name": "purquazi"}
+{"city": "purulia", "state": "west bengal", "tag": ["purulia", "west bengal"], "name": "purulia"}
+{"city": "purwa", "state": "uttar pradesh", "tag": ["purwa", "uttar pradesh"], "name": "purwa"}
+{"city": "pusad", "state": "maharashtra", "tag": ["pusad", "maharashtra"], "name": "pusad"}
+{"city": "puthooru", "state": "karnataka", "tag": ["puthooru", "karnataka"], "name": "puthooru"}
+{"city": "puthuppally", "state": "kerala", "tag": ["puthuppally", "kerala"], "name": "puthuppally"}
+{"city": "puttur", "state": "andhra pradesh", "tag": ["puttur", "andhra pradesh"], "name": "puttur"}
+{"city": "qadian", "state": "punjab", "tag": ["qadian", "punjab"], "name": "qadian"}
+{"city": "quilandy", "state": "kerala", "tag": ["quilandy", "kerala"], "name": "quilandy"}
+{"city": "rabakavi banahatti", "state": "karnataka", "tag": ["rabakavi banahatti", "karnataka"], "name": "rabakavi banahatti"}
+{"city": "radhanpur", "state": "gujarat", "tag": ["radhanpur", "gujarat"], "name": "radhanpur"}
+{"city": "rae bareli", "state": "uttar pradesh", "tag": ["rae bareli", "uttar pradesh"], "name": "rae bareli"}
+{"city": "rafiganj", "state": "bihar", "tag": ["rafiganj", "bihar"], "name": "rafiganj"}
+{"city": "raghogarh-vijaypur", "state": "madhya pradesh", "tag": ["raghogarh-vijaypur", "madhya pradesh"], "name": "raghogarh-vijaypur"}
+{"city": "raghunathpur", "state": "west bengal", "tag": ["raghunathpur", "west bengal"], "name": "raghunathpur"}
+{"city": "raghunathganj", "state": "west bengal", "tag": ["raghunathganj", "west bengal"], "name": "raghunathganj"}
+{"city": "rahatgarh", "state": "madhya pradesh", "tag": ["rahatgarh", "madhya pradesh"], "name": "rahatgarh"}
+{"city": "raichuri", "state": "maharashtra", "tag": ["raichuri", "maharashtra"], "name": "raichuri"}
+{"city": "raayachuru", "state": "karnataka", "tag": ["raayachuru", "karnataka"], "name": "raayachuru"}
+{"city": "raiganj", "state": "west bengal", "tag": ["raiganj", "west bengal"], "name": "raiganj"}
+{"city": "raigarh", "state": "chhattisgarh", "tag": ["raigarh", "chhattisgarh"], "name": "raigarh"}
+{"city": "ranipet", "state": "tamil nadu", "tag": ["ranipet", "tamil nadu"], "name": "ranipet"}
+{"city": "raikot", "state": "punjab", "tag": ["raikot", "punjab"], "name": "raikot"}
+{"city": "raipur", "state": "chhattisgarh", "tag": ["raipur", "chhattisgarh"], "name": "raipur"}
+{"city": "rairangpur", "state": "odisha", "tag": ["rairangpur", "odisha"], "name": "rairangpur"}
+{"city": "raisen", "state": "madhya pradesh", "tag": ["raisen", "madhya pradesh"], "name": "raisen"}
+{"city": "raisinghnagar", "state": "rajasthan", "tag": ["raisinghnagar", "rajasthan"], "name": "raisinghnagar"}
+{"city": "rajagangapur", "state": "odisha", "tag": ["rajagangapur", "odisha"], "name": "rajagangapur"}
+{"city": "rajahmundry", "state": "andhra pradesh", "tag": ["rajahmundry", "andhra pradesh"], "name": "rajahmundry"}
+{"city": "rajakhera", "state": "rajasthan", "tag": ["rajakhera", "rajasthan"], "name": "rajakhera"}
+{"city": "rajaldesar", "state": "rajasthan", "tag": ["rajaldesar", "rajasthan"], "name": "rajaldesar"}
+{"city": "rajam", "state": "andhra pradesh", "tag": ["rajam", "andhra pradesh"], "name": "rajam"}
+{"city": "rajampet", "state": "andhra pradesh", "tag": ["rajampet", "andhra pradesh"], "name": "rajampet"}
+{"city": "rajapalayam", "state": "tamil nadu", "tag": ["rajapalayam", "tamil nadu"], "name": "rajapalayam"}
+{"city": "rajauri", "state": "jammu and kashmir", "tag": ["rajauri", "jammu and kashmir"], "name": "rajauri"}
+{"city": "rajgarh alwar", "state": "rajasthan", "tag": ["rajgarh alwar", "rajasthan"], "name": "rajgarh alwar"}
+{"city": "rajgarh churu", "state": "rajasthan", "tag": ["rajgarh churu", "rajasthan"], "name": "rajgarh churu"}
+{"city": "rajgarh", "state": "madhya pradesh", "tag": ["rajgarh", "madhya pradesh"], "name": "rajgarh"}
+{"city": "rajgir", "state": "bihar", "tag": ["rajgir", "bihar"], "name": "rajgir"}
+{"city": "rajkot", "state": "gujarat", "tag": ["rajkot", "gujarat"], "name": "rajkot"}
+{"city": "rajnandgaon", "state": "chhattisgarh", "tag": ["rajnandgaon", "chhattisgarh"], "name": "rajnandgaon"}
+{"city": "rajpipla", "state": "gujarat", "tag": ["rajpipla", "gujarat"], "name": "rajpipla"}
+{"city": "rajpura", "state": "punjab", "tag": ["rajpura", "punjab"], "name": "rajpura"}
+{"city": "rajsamand", "state": "rajasthan", "tag": ["rajsamand", "rajasthan"], "name": "rajsamand"}
+{"city": "rajula", "state": "gujarat", "tag": ["rajula", "gujarat"], "name": "rajula"}
+{"city": "rajura", "state": "maharashtra", "tag": ["rajura", "maharashtra"], "name": "rajura"}
+{"city": "ramachandrapuram", "state": "andhra pradesh", "tag": ["ramachandrapuram", "andhra pradesh"], "name": "ramachandrapuram"}
+{"city": "ramagundam", "state": "andhra pradesh", "tag": ["ramagundam", "andhra pradesh"], "name": "ramagundam"}
+{"city": "raamanagara", "state": "karnataka", "tag": ["raamanagara", "karnataka"], "name": "raamanagara"}
+{"city": "ramanathapuram", "state": "tamil nadu", "tag": ["ramanathapuram", "tamil nadu"], "name": "ramanathapuram"}
+{"city": "raamadurga", "state": "karnataka", "tag": ["raamadurga", "karnataka"], "name": "raamadurga"}
+{"city": "rameshwaram", "state": "tamil nadu", "tag": ["rameshwaram", "tamil nadu"], "name": "rameshwaram"}
+{"city": "ramganj mandi", "state": "rajasthan", "tag": ["ramganj mandi", "rajasthan"], "name": "ramganj mandi"}
+{"city": "ramngarh", "state": "jharkhand", "tag": ["ramngarh", "jharkhand"], "name": "ramngarh"}
+{"city": "ramngarh", "state": "rajasthan", "tag": ["ramngarh", "rajasthan"], "name": "ramngarh"}
+{"city": "ramnagar", "state": "bihar", "tag": ["ramnagar", "bihar"], "name": "ramnagar"}
+{"city": "ramnagar", "state": "uttarakhand", "tag": ["ramnagar", "uttarakhand"], "name": "ramnagar"}
+{"city": "rampur", "state": "uttar pradesh", "tag": ["rampur", "uttar pradesh"], "name": "rampur"}
+{"city": "rampur maniharan", "state": "uttar pradesh", "tag": ["rampur maniharan", "uttar pradesh"], "name": "rampur maniharan"}
+{"city": "rampur maniharan", "state": "uttar pradesh", "tag": ["rampur maniharan", "uttar pradesh"], "name": "rampur maniharan"}
+{"city": "rampura phul", "state": "punjab", "tag": ["rampura phul", "punjab"], "name": "rampura phul"}
+{"city": "rampurhat", "state": "west bengal", "tag": ["rampurhat", "west bengal"], "name": "rampurhat"}
+{"city": "ramtek", "state": "maharashtra", "tag": ["ramtek", "maharashtra"], "name": "ramtek"}
+{"city": "ranaghat", "state": "west bengal", "tag": ["ranaghat", "west bengal"], "name": "ranaghat"}
+{"city": "ranavav", "state": "gujarat", "tag": ["ranavav", "gujarat"], "name": "ranavav"}
+{"city": "ranchi", "state": "jharkhand", "tag": ["ranchi", "jharkhand"], "name": "ranchi"}
+{"city": "rangia", "state": "assam", "tag": ["rangia", "assam"], "name": "rangia"}
+{"city": "rania", "state": "haryana", "tag": ["rania", "haryana"], "name": "rania"}
+{"city": "ranibennur", "state": "karnataka", "tag": ["ranibennur", "karnataka"], "name": "ranibennur"}
+{"city": "rapar", "state": "gujarat", "tag": ["rapar", "gujarat"], "name": "rapar"}
+{"city": "rasipuram", "state": "tamil nadu", "tag": ["rasipuram", "tamil nadu"], "name": "rasipuram"}
+{"city": "rasra", "state": "uttar pradesh", "tag": ["rasra", "uttar pradesh"], "name": "rasra"}
+{"city": "ratangarh", "state": "rajasthan", "tag": ["ratangarh", "rajasthan"], "name": "ratangarh"}
+{"city": "rath", "state": "uttar pradesh", "tag": ["rath", "uttar pradesh"], "name": "rath"}
+{"city": "ratia", "state": "haryana", "tag": ["ratia", "haryana"], "name": "ratia"}
+{"city": "ratlam", "state": "madhya pradesh", "tag": ["ratlam", "madhya pradesh"], "name": "ratlam"}
+{"city": "ratnagiri", "state": "maharashtra", "tag": ["ratnagiri", "maharashtra"], "name": "ratnagiri"}
+{"city": "rau", "state": "madhya pradesh", "tag": ["rau", "madhya pradesh"], "name": "rau"}
+{"city": "raurkela", "state": "odisha", "tag": ["raurkela", "odisha"], "name": "raurkela"}
+{"city": "raver", "state": "maharashtra", "tag": ["raver", "maharashtra"], "name": "raver"}
+{"city": "rawatbhata", "state": "rajasthan", "tag": ["rawatbhata", "rajasthan"], "name": "rawatbhata"}
+{"city": "rawatsar", "state": "rajasthan", "tag": ["rawatsar", "rajasthan"], "name": "rawatsar"}
+{"city": "raxaul bazar", "state": "bihar", "tag": ["raxaul bazar", "bihar"], "name": "raxaul bazar"}
+{"city": "rayachoti", "state": "andhra pradesh", "tag": ["rayachoti", "andhra pradesh"], "name": "rayachoti"}
+{"city": "rayadurg", "state": "andhra pradesh", "tag": ["rayadurg", "andhra pradesh"], "name": "rayadurg"}
+{"city": "rayagada", "state": "odisha", "tag": ["rayagada", "odisha"], "name": "rayagada"}
+{"city": "reengus", "state": "rajasthan", "tag": ["reengus", "rajasthan"], "name": "reengus"}
+{"city": "rehli", "state": "madhya pradesh", "tag": ["rehli", "madhya pradesh"], "name": "rehli"}
+{"city": "renigunta", "state": "andhra pradesh", "tag": ["renigunta", "andhra pradesh"], "name": "renigunta"}
+{"city": "renukoot", "state": "uttar pradesh", "tag": ["renukoot", "uttar pradesh"], "name": "renukoot"}
+{"city": "reoti", "state": "uttar pradesh", "tag": ["reoti", "uttar pradesh"], "name": "reoti"}
+{"city": "repalle", "state": "andhra pradesh", "tag": ["repalle", "andhra pradesh"], "name": "repalle"}
+{"city": "revelganj", "state": "bihar", "tag": ["revelganj", "bihar"], "name": "revelganj"}
+{"city": "rewa", "state": "madhya pradesh", "tag": ["rewa", "madhya pradesh"], "name": "rewa"}
+{"city": "rewari", "state": "haryana", "tag": ["rewari", "haryana"], "name": "rewari"}
+{"city": "rishikesh", "state": "uttarakhand", "tag": ["rishikesh", "uttarakhand"], "name": "rishikesh"}
+{"city": "risod", "state": "maharashtra", "tag": ["risod", "maharashtra"], "name": "risod"}
+{"city": "robertsganj", "state": "uttar pradesh", "tag": ["robertsganj", "uttar pradesh"], "name": "robertsganj"}
+{"city": "robertson pet", "state": "karnataka", "tag": ["robertson pet", "karnataka"], "name": "robertson pet"}
+{"city": "rohtak", "state": "haryana", "tag": ["rohtak", "haryana"], "name": "rohtak"}
+{"city": "ron", "state": "karnataka", "tag": ["ron", "karnataka"], "name": "ron"}
+{"city": "roorkee", "state": "uttarakhand", "tag": ["roorkee", "uttarakhand"], "name": "roorkee"}
+{"city": "rosera", "state": "bihar", "tag": ["rosera", "bihar"], "name": "rosera"}
+{"city": "rudauli", "state": "uttar pradesh", "tag": ["rudauli", "uttar pradesh"], "name": "rudauli"}
+{"city": "rudrapur", "state": "uttarakhand", "tag": ["rudrapur", "uttarakhand"], "name": "rudrapur"}
+{"city": "rudrapur", "state": "uttar pradesh", "tag": ["rudrapur", "uttar pradesh"], "name": "rudrapur"}
+{"city": "rupnagar", "state": "punjab", "tag": ["rupnagar", "punjab"], "name": "rupnagar"}
+{"city": "sabalgarh", "state": "madhya pradesh", "tag": ["sabalgarh", "madhya pradesh"], "name": "sabalgarh"}
+{"city": "sadabad", "state": "uttar pradesh", "tag": ["sadabad", "uttar pradesh"], "name": "sadabad"}
+{"city": "sadalaga", "state": "karnataka", "tag": ["sadalaga", "karnataka"], "name": "sadalaga"}
+{"city": "sadasivpet", "state": "andhra pradesh", "tag": ["sadasivpet", "andhra pradesh"], "name": "sadasivpet"}
+{"city": "sadri", "state": "rajasthan", "tag": ["sadri", "rajasthan"], "name": "sadri"}
+{"city": "sadulshahar", "state": "rajasthan", "tag": ["sadulshahar", "rajasthan"], "name": "sadulshahar"}
+{"city": "sadulpur", "state": "rajasthan", "tag": ["sadulpur", "rajasthan"], "name": "sadulpur"}
+{"city": "safidon", "state": "haryana", "tag": ["safidon", "haryana"], "name": "safidon"}
+{"city": "safipur", "state": "uttar pradesh", "tag": ["safipur", "uttar pradesh"], "name": "safipur"}
+{"city": "sagar", "state": "madhya pradesh", "tag": ["sagar", "madhya pradesh"], "name": "sagar"}
+{"city": "sagara", "state": "karnataka", "tag": ["sagara", "karnataka"], "name": "sagara"}
+{"city": "sagwara", "state": "rajasthan", "tag": ["sagwara", "rajasthan"], "name": "sagwara"}
+{"city": "saharanpur", "state": "uttar pradesh", "tag": ["saharanpur", "uttar pradesh"], "name": "saharanpur"}
+{"city": "saharsa", "state": "bihar", "tag": ["saharsa", "bihar"], "name": "saharsa"}
+{"city": "sahaspur", "state": "uttar pradesh", "tag": ["sahaspur", "uttar pradesh"], "name": "sahaspur"}
+{"city": "sahaswan", "state": "uttar pradesh", "tag": ["sahaswan", "uttar pradesh"], "name": "sahaswan"}
+{"city": "sahawar", "state": "uttar pradesh", "tag": ["sahawar", "uttar pradesh"], "name": "sahawar"}
+{"city": "sahibganj", "state": "jharkhand", "tag": ["sahibganj", "jharkhand"], "name": "sahibganj"}
+{"city": "sahjanwa", "state": "uttar pradesh", "tag": ["sahjanwa", "uttar pradesh"], "name": "sahjanwa"}
+{"city": "saidpur", "state": "uttar pradesh", "tag": ["saidpur", "uttar pradesh"], "name": "saidpur"}
+{"city": "saiha", "state": "mizoram", "tag": ["saiha", "mizoram"], "name": "saiha"}
+{"city": "sailu", "state": "maharashtra", "tag": ["sailu", "maharashtra"], "name": "sailu"}
+{"city": "sainthia", "state": "west bengal", "tag": ["sainthia", "west bengal"], "name": "sainthia"}
+{"city": "sakaleshapura", "state": "karnataka", "tag": ["sakaleshapura", "karnataka"], "name": "sakaleshapura"}
+{"city": "sakti", "state": "chhattisgarh", "tag": ["sakti", "chhattisgarh"], "name": "sakti"}
+{"city": "salaya", "state": "gujarat", "tag": ["salaya", "gujarat"], "name": "salaya"}
+{"city": "salem", "state": "tamil nadu", "tag": ["salem", "tamil nadu"], "name": "salem"}
+{"city": "salur", "state": "andhra pradesh", "tag": ["salur", "andhra pradesh"], "name": "salur"}
+{"city": "samalkha", "state": "haryana", "tag": ["samalkha", "haryana"], "name": "samalkha"}
+{"city": "samalkot", "state": "andhra pradesh", "tag": ["samalkot", "andhra pradesh"], "name": "samalkot"}
+{"city": "samana", "state": "punjab", "tag": ["samana", "punjab"], "name": "samana"}
+{"city": "samastipur", "state": "bihar", "tag": ["samastipur", "bihar"], "name": "samastipur"}
+{"city": "sambalpur", "state": "odisha", "tag": ["sambalpur", "odisha"], "name": "sambalpur"}
+{"city": "sambhal", "state": "uttar pradesh", "tag": ["sambhal", "uttar pradesh"], "name": "sambhal"}
+{"city": "sambhar", "state": "rajasthan", "tag": ["sambhar", "rajasthan"], "name": "sambhar"}
+{"city": "samdhan", "state": "uttar pradesh", "tag": ["samdhan", "uttar pradesh"], "name": "samdhan"}
+{"city": "samthar", "state": "uttar pradesh", "tag": ["samthar", "uttar pradesh"], "name": "samthar"}
+{"city": "sanand", "state": "gujarat", "tag": ["sanand", "gujarat"], "name": "sanand"}
+{"city": "sanawad", "state": "madhya pradesh", "tag": ["sanawad", "madhya pradesh"], "name": "sanawad"}
+{"city": "sanchore", "state": "rajasthan", "tag": ["sanchore", "rajasthan"], "name": "sanchore"}
+{"city": "sindagi", "state": "karnataka", "tag": ["sindagi", "karnataka"], "name": "sindagi"}
+{"city": "sandi", "state": "uttar pradesh", "tag": ["sandi", "uttar pradesh"], "name": "sandi"}
+{"city": "sandila", "state": "uttar pradesh", "tag": ["sandila", "uttar pradesh"], "name": "sandila"}
+{"city": "sandur", "state": "karnataka", "tag": ["sandur", "karnataka"], "name": "sandur"}
+{"city": "sangamner", "state": "maharashtra", "tag": ["sangamner", "maharashtra"], "name": "sangamner"}
+{"city": "sangareddy", "state": "andhra pradesh", "tag": ["sangareddy", "andhra pradesh"], "name": "sangareddy"}
+{"city": "sangaria", "state": "rajasthan", "tag": ["sangaria", "rajasthan"], "name": "sangaria"}
+{"city": "sangli", "state": "maharashtra", "tag": ["sangli", "maharashtra"], "name": "sangli"}
+{"city": "sangole", "state": "maharashtra", "tag": ["sangole", "maharashtra"], "name": "sangole"}
+{"city": "sangrur", "state": "punjab", "tag": ["sangrur", "punjab"], "name": "sangrur"}
+{"city": "sankarankoil", "state": "tamil nadu", "tag": ["sankarankoil", "tamil nadu"], "name": "sankarankoil"}
+{"city": "sankari", "state": "tamil nadu", "tag": ["sankari", "tamil nadu"], "name": "sankari"}
+{"city": "sankeshwara", "state": "karnataka", "tag": ["sankeshwara", "karnataka"], "name": "sankeshwara"}
+{"city": "santipur", "state": "west bengal", "tag": ["santipur", "west bengal"], "name": "santipur"}
+{"city": "sarangpur", "state": "madhya pradesh", "tag": ["sarangpur", "madhya pradesh"], "name": "sarangpur"}
+{"city": "sardarshahar", "state": "rajasthan", "tag": ["sardarshahar", "rajasthan"], "name": "sardarshahar"}
+{"city": "sardhana", "state": "uttar pradesh", "tag": ["sardhana", "uttar pradesh"], "name": "sardhana"}
+{"city": "sarni", "state": "madhya pradesh", "tag": ["sarni", "madhya pradesh"], "name": "sarni"}
+{"city": "sasaram", "state": "bihar", "tag": ["sasaram", "bihar"], "name": "sasaram"}
+{"city": "sasvad", "state": "maharashtra", "tag": ["sasvad", "maharashtra"], "name": "sasvad"}
+{"city": "satana", "state": "maharashtra", "tag": ["satana", "maharashtra"], "name": "satana"}
+{"city": "satara", "state": "maharashtra", "tag": ["satara", "maharashtra"], "name": "satara"}
+{"city": "satna", "state": "madhya pradesh", "tag": ["satna", "madhya pradesh"], "name": "satna"}
+{"city": "sathyamangalam", "state": "tamil nadu", "tag": ["sathyamangalam", "tamil nadu"], "name": "sathyamangalam"}
+{"city": "sattenapalle", "state": "andhra pradesh", "tag": ["sattenapalle", "andhra pradesh"], "name": "sattenapalle"}
+{"city": "sattur", "state": "tamil nadu", "tag": ["sattur", "tamil nadu"], "name": "sattur"}
+{"city": "saunda", "state": "jharkhand", "tag": ["saunda", "jharkhand"], "name": "saunda"}
+{"city": "soudaththi-yellamma", "state": "karnataka", "tag": ["soudaththi-yellamma", "karnataka"], "name": "soudaththi-yellamma"}
+{"city": "sausar", "state": "madhya pradesh", "tag": ["sausar", "madhya pradesh"], "name": "sausar"}
+{"city": "savarkundla", "state": "gujarat", "tag": ["savarkundla", "gujarat"], "name": "savarkundla"}
+{"city": "savanur", "state": "karnataka", "tag": ["savanur", "karnataka"], "name": "savanur"}
+{"city": "savner", "state": "maharashtra", "tag": ["savner", "maharashtra"], "name": "savner"}
+{"city": "sawai madhopur", "state": "rajasthan", "tag": ["sawai madhopur", "rajasthan"], "name": "sawai madhopur"}
+{"city": "sawantwadi", "state": "maharashtra", "tag": ["sawantwadi", "maharashtra"], "name": "sawantwadi"}
+{"city": "sedam", "state": "karnataka", "tag": ["sedam", "karnataka"], "name": "sedam"}
+{"city": "sehore", "state": "madhya pradesh", "tag": ["sehore", "madhya pradesh"], "name": "sehore"}
+{"city": "sendhwa", "state": "madhya pradesh", "tag": ["sendhwa", "madhya pradesh"], "name": "sendhwa"}
+{"city": "seohara", "state": "uttar pradesh", "tag": ["seohara", "uttar pradesh"], "name": "seohara"}
+{"city": "seoni", "state": "madhya pradesh", "tag": ["seoni", "madhya pradesh"], "name": "seoni"}
+{"city": "seoni-malwa", "state": "madhya pradesh", "tag": ["seoni-malwa", "madhya pradesh"], "name": "seoni-malwa"}
+{"city": "shahabad", "state": "karnataka", "tag": ["shahabad", "karnataka"], "name": "shahabad"}
+{"city": "shahabad hardoi", "state": "uttar pradesh", "tag": ["shahabad hardoi", "uttar pradesh"], "name": "shahabad hardoi"}
+{"city": "shahabad rampur", "state": "uttar pradesh", "tag": ["shahabad rampur", "uttar pradesh"], "name": "shahabad rampur"}
+{"city": "shahade", "state": "maharashtra", "tag": ["shahade", "maharashtra"], "name": "shahade"}
+{"city": "shahbad", "state": "haryana", "tag": ["shahbad", "haryana"], "name": "shahbad"}
+{"city": "shahdol", "state": "madhya pradesh", "tag": ["shahdol", "madhya pradesh"], "name": "shahdol"}
+{"city": "shahganj", "state": "uttar pradesh", "tag": ["shahganj", "uttar pradesh"], "name": "shahganj"}
+{"city": "shahjahanpur", "state": "uttar pradesh", "tag": ["shahjahanpur", "uttar pradesh"], "name": "shahjahanpur"}
+{"city": "shahapura", "state": "karnataka", "tag": ["shahapura", "karnataka"], "name": "shahapura"}
+{"city": "shahpura", "state": "rajasthan", "tag": ["shahpura", "rajasthan"], "name": "shahpura"}
+{"city": "shahpura", "state": "rajasthan", "tag": ["shahpura", "rajasthan"], "name": "shahpura"}
+{"city": "shajapur", "state": "madhya pradesh", "tag": ["shajapur", "madhya pradesh"], "name": "shajapur"}
+{"city": "shamgarh", "state": "madhya pradesh", "tag": ["shamgarh", "madhya pradesh"], "name": "shamgarh"}
+{"city": "shamli", "state": "uttar pradesh", "tag": ["shamli", "uttar pradesh"], "name": "shamli"}
+{"city": "shamsabad agra", "state": "uttar pradesh", "tag": ["shamsabad agra", "uttar pradesh"], "name": "shamsabad agra"}
+{"city": "shamsabad", "state": " farrukhabad", "tag": ["shamsabad", " farrukhabad", "uttar pradesh"], "name": "shamsabad"}
+{"city": "shegaon", "state": "maharashtra", "tag": ["shegaon", "maharashtra"], "name": "shegaon"}
+{"city": "sheikhpura", "state": "bihar", "tag": ["sheikhpura", "bihar"], "name": "sheikhpura"}
+{"city": "shendurjana", "state": "maharashtra", "tag": ["shendurjana", "maharashtra"], "name": "shendurjana"}
+{"city": "shenkottai", "state": "tamil nadu", "tag": ["shenkottai", "tamil nadu"], "name": "shenkottai"}
+{"city": "sheoganj", "state": "rajasthan", "tag": ["sheoganj", "rajasthan"], "name": "sheoganj"}
+{"city": "sheohar", "state": "bihar", "tag": ["sheohar", "bihar"], "name": "sheohar"}
+{"city": "sheopur", "state": "madhya pradesh", "tag": ["sheopur", "madhya pradesh"], "name": "sheopur"}
+{"city": "sherghati", "state": "bihar", "tag": ["sherghati", "bihar"], "name": "sherghati"}
+{"city": "sherkot", "state": "uttar pradesh", "tag": ["sherkot", "uttar pradesh"], "name": "sherkot"}
+{"city": "shiggaavi", "state": "karnataka", "tag": ["shiggaavi", "karnataka"], "name": "shiggaavi"}
+{"city": "shikapur", "state": "karnataka", "tag": ["shikapur", "karnataka"], "name": "shikapur"}
+{"city": "shikarpur", "state": " bulandshahr", "tag": ["shikarpur", " bulandshahr", "uttar pradesh"], "name": "shikarpur"}
+{"city": "shikohabad", "state": "uttar pradesh", "tag": ["shikohabad", "uttar pradesh"], "name": "shikohabad"}
+{"city": "shillong", "state": "meghalaya", "tag": ["shillong", "meghalaya"], "name": "shillong"}
+{"city": "shimla", "state": "himachal pradesh", "tag": ["shimla", "himachal pradesh"], "name": "shimla"}
+{"city": "shivamogga", "state": "karnataka", "tag": ["shivamogga", "karnataka"], "name": "shivamogga"}
+{"city": "shirdi", "state": "maharashtra", "tag": ["shirdi", "maharashtra"], "name": "shirdi"}
+{"city": "shirpur warwade", "state": "maharashtra", "tag": ["shirpur warwade", "maharashtra"], "name": "shirpur warwade"}
+{"city": "shirur", "state": "maharashtra", "tag": ["shirur", "maharashtra"], "name": "shirur"}
+{"city": "shishgarh", "state": "uttar pradesh", "tag": ["shishgarh", "uttar pradesh"], "name": "shishgarh"}
+{"city": "shivpuri", "state": "madhya pradesh", "tag": ["shivpuri", "madhya pradesh"], "name": "shivpuri"}
+{"city": "sholavandan", "state": "tamil nadu", "tag": ["sholavandan", "tamil nadu"], "name": "sholavandan"}
+{"city": "sholingur", "state": "tamil nadu", "tag": ["sholingur", "tamil nadu"], "name": "sholingur"}
+{"city": "shoranur", "state": "kerala", "tag": ["shoranur", "kerala"], "name": "shoranur"}
+{"city": "surapura", "state": "karnataka", "tag": ["surapura", "karnataka"], "name": "surapura"}
+{"city": "shrigonda", "state": "maharashtra", "tag": ["shrigonda", "maharashtra"], "name": "shrigonda"}
+{"city": "shrirampur", "state": "maharashtra", "tag": ["shrirampur", "maharashtra"], "name": "shrirampur"}
+{"city": "shree rangapattana", "state": "karnataka", "tag": ["shree rangapattana", "karnataka"], "name": "shree rangapattana"}
+{"city": "shujalpur", "state": "madhya pradesh", "tag": ["shujalpur", "madhya pradesh"], "name": "shujalpur"}
+{"city": "siana", "state": "uttar pradesh", "tag": ["siana", "uttar pradesh"], "name": "siana"}
+{"city": "sibsagar", "state": "assam", "tag": ["sibsagar", "assam"], "name": "sibsagar"}
+{"city": "siddipet", "state": "andhra pradesh", "tag": ["siddipet", "andhra pradesh"], "name": "siddipet"}
+{"city": "sidhi", "state": "madhya pradesh", "tag": ["sidhi", "madhya pradesh"], "name": "sidhi"}
+{"city": "sidhpur", "state": "gujarat", "tag": ["sidhpur", "gujarat"], "name": "sidhpur"}
+{"city": "sidhalaghatta", "state": "karnataka", "tag": ["sidhalaghatta", "karnataka"], "name": "sidhalaghatta"}
+{"city": "sihor", "state": "gujarat", "tag": ["sihor", "gujarat"], "name": "sihor"}
+{"city": "sihora", "state": "madhya pradesh", "tag": ["sihora", "madhya pradesh"], "name": "sihora"}
+{"city": "sikanderpur", "state": "uttar pradesh", "tag": ["sikanderpur", "uttar pradesh"], "name": "sikanderpur"}
+{"city": "sikandra rao", "state": "uttar pradesh", "tag": ["sikandra rao", "uttar pradesh"], "name": "sikandra rao"}
+{"city": "sikandrabad", "state": "uttar pradesh", "tag": ["sikandrabad", "uttar pradesh"], "name": "sikandrabad"}
+{"city": "sikar", "state": "rajasthan", "tag": ["sikar", "rajasthan"], "name": "sikar"}
+{"city": "silao", "state": "bihar", "tag": ["silao", "bihar"], "name": "silao"}
+{"city": "silapathar", "state": "assam", "tag": ["silapathar", "assam"], "name": "silapathar"}
+{"city": "silchar", "state": "assam", "tag": ["silchar", "assam"], "name": "silchar"}
+{"city": "siliguri", "state": "west bengal", "tag": ["siliguri", "west bengal"], "name": "siliguri"}
+{"city": "sillod", "state": "maharashtra", "tag": ["sillod", "maharashtra"], "name": "sillod"}
+{"city": "silvassa", "state": "dadra and nagar haveli", "tag": ["silvassa", "dadra and nagar haveli"], "name": "silvassa"}
+{"city": "simdega", "state": "jharkhand", "tag": ["simdega", "jharkhand"], "name": "simdega"}
+{"city": "sindhagi", "state": "karnataka", "tag": ["sindhagi", "karnataka"], "name": "sindhagi"}
+{"city": "sindhanooru", "state": "karnataka", "tag": ["sindhanooru", "karnataka"], "name": "sindhanooru"}
+{"city": "singapur", "state": "andhra pradesh", "tag": ["singapur", "andhra pradesh"], "name": "singapur"}
+{"city": "singrauli", "state": "madhya pradesh", "tag": ["singrauli", "madhya pradesh"], "name": "singrauli"}
+{"city": "sinnar", "state": "maharashtra", "tag": ["sinnar", "maharashtra"], "name": "sinnar"}
+{"city": "sira", "state": "karnataka", "tag": ["sira", "karnataka"], "name": "sira"}
+{"city": "sircilla", "state": "andhra pradesh", "tag": ["sircilla", "andhra pradesh"], "name": "sircilla"}
+{"city": "sirhind fatehgarh sahib", "state": "punjab", "tag": ["sirhind fatehgarh sahib", "punjab"], "name": "sirhind fatehgarh sahib"}
+{"city": "sirkali", "state": "tamil nadu", "tag": ["sirkali", "tamil nadu"], "name": "sirkali"}
+{"city": "sirohi", "state": "rajasthan", "tag": ["sirohi", "rajasthan"], "name": "sirohi"}
+{"city": "sironj", "state": "madhya pradesh", "tag": ["sironj", "madhya pradesh"], "name": "sironj"}
+{"city": "sirsa", "state": "haryana", "tag": ["sirsa", "haryana"], "name": "sirsa"}
+{"city": "sirsaganj", "state": "uttar pradesh", "tag": ["sirsaganj", "uttar pradesh"], "name": "sirsaganj"}
+{"city": "sirsi", "state": "karnataka", "tag": ["sirsi", "karnataka"], "name": "sirsi"}
+{"city": "sirsi", "state": "uttar pradesh", "tag": ["sirsi", "uttar pradesh"], "name": "sirsi"}
+{"city": "sheraguppa", "state": "karnataka", "tag": ["sheraguppa", "karnataka"], "name": "sheraguppa"}
+{"city": "sitamarhi", "state": "bihar", "tag": ["sitamarhi", "bihar"], "name": "sitamarhi"}
+{"city": "sitapur", "state": "uttar pradesh", "tag": ["sitapur", "uttar pradesh"], "name": "sitapur"}
+{"city": "sitarganj", "state": "uttarakhand", "tag": ["sitarganj", "uttarakhand"], "name": "sitarganj"}
+{"city": "sivaganga", "state": "tamil nadu", "tag": ["sivaganga", "tamil nadu"], "name": "sivaganga"}
+{"city": "sivagiri", "state": "tamil nadu", "tag": ["sivagiri", "tamil nadu"], "name": "sivagiri"}
+{"city": "sivakasi", "state": "tamil nadu", "tag": ["sivakasi", "tamil nadu"], "name": "sivakasi"}
+{"city": "siwan", "state": "bihar", "tag": ["siwan", "bihar"], "name": "siwan"}
+{"city": "sohagpur", "state": "madhya pradesh", "tag": ["sohagpur", "madhya pradesh"], "name": "sohagpur"}
+{"city": "sohna", "state": "haryana", "tag": ["sohna", "haryana"], "name": "sohna"}
+{"city": "sojat", "state": "rajasthan", "tag": ["sojat", "rajasthan"], "name": "sojat"}
+{"city": "solan", "state": "himachal pradesh", "tag": ["solan", "himachal pradesh"], "name": "solan"}
+{"city": "solapur", "state": "maharashtra", "tag": ["solapur", "maharashtra"], "name": "solapur"}
+{"city": "sonamukhi", "state": "west bengal", "tag": ["sonamukhi", "west bengal"], "name": "sonamukhi"}
+{"city": "sonepur", "state": "bihar", "tag": ["sonepur", "bihar"], "name": "sonepur"}
+{"city": "songadh", "state": "gujarat", "tag": ["songadh", "gujarat"], "name": "songadh"}
+{"city": "sonipat", "state": "haryana", "tag": ["sonipat", "haryana"], "name": "sonipat"}
+{"city": "sopore", "state": "jammu and kashmir", "tag": ["sopore", "jammu and kashmir"], "name": "sopore"}
+{"city": "soro", "state": "odisha", "tag": ["soro", "odisha"], "name": "soro"}
+{"city": "soron", "state": "uttar pradesh", "tag": ["soron", "uttar pradesh"], "name": "soron"}
+{"city": "soyagaon", "state": "maharashtra", "tag": ["soyagaon", "maharashtra"], "name": "soyagaon"}
+{"city": "sri madhopur", "state": "rajasthan", "tag": ["sri madhopur", "rajasthan"], "name": "sri madhopur"}
+{"city": "srikakulam", "state": "andhra pradesh", "tag": ["srikakulam", "andhra pradesh"], "name": "srikakulam"}
+{"city": "srikalahasti", "state": "andhra pradesh", "tag": ["srikalahasti", "andhra pradesh"], "name": "srikalahasti"}
+{"city": "srinagar", "state": "jammu and kashmir", "tag": ["srinagar", "jammu and kashmir"], "name": "srinagar"}
+{"city": "shreenivaasapura", "state": "karnataka", "tag": ["shreenivaasapura", "karnataka"], "name": "shreenivaasapura"}
+{"city": "srisailam project (right flank colony) township", "state": "andhra pradesh", "tag": ["srisailam project (right flank colony) township", "andhra pradesh"], "name": "srisailam project (right flank colony) township"}
+{"city": "srirampore", "state": "west bengal", "tag": ["srirampore", "west bengal"], "name": "srirampore"}
+{"city": "srivilliputhur", "state": "tamil nadu", "tag": ["srivilliputhur", "tamil nadu"], "name": "srivilliputhur"}
+{"city": "suar", "state": "uttar pradesh", "tag": ["suar", "uttar pradesh"], "name": "suar"}
+{"city": "sugauli", "state": "bihar", "tag": ["sugauli", "bihar"], "name": "sugauli"}
+{"city": "sujangarh", "state": "rajasthan", "tag": ["sujangarh", "rajasthan"], "name": "sujangarh"}
+{"city": "sujanpur", "state": "punjab", "tag": ["sujanpur", "punjab"], "name": "sujanpur"}
+{"city": "sultanganj", "state": "bihar", "tag": ["sultanganj", "bihar"], "name": "sultanganj"}
+{"city": "sultanpur", "state": "uttar pradesh", "tag": ["sultanpur", "uttar pradesh"], "name": "sultanpur"}
+{"city": "sumerpur", "state": "rajasthan", "tag": ["sumerpur", "rajasthan"], "name": "sumerpur"}
+{"city": "sumerpur", "state": "uttar pradesh", "tag": ["sumerpur", "uttar pradesh"], "name": "sumerpur"}
+{"city": "sunabeda", "state": "odisha", "tag": ["sunabeda", "odisha"], "name": "sunabeda"}
+{"city": "sunam", "state": "punjab", "tag": ["sunam", "punjab"], "name": "sunam"}
+{"city": "sundargarh", "state": "odisha", "tag": ["sundargarh", "odisha"], "name": "sundargarh"}
+{"city": "sundarnagar", "state": "himachal pradesh", "tag": ["sundarnagar", "himachal pradesh"], "name": "sundarnagar"}
+{"city": "supaul", "state": "bihar", "tag": ["supaul", "bihar"], "name": "supaul"}
+{"city": "surandai", "state": "tamil nadu", "tag": ["surandai", "tamil nadu"], "name": "surandai"}
+{"city": "surat", "state": "gujarat", "tag": ["surat", "gujarat"], "name": "surat"}
+{"city": "suratgarh", "state": "rajasthan", "tag": ["suratgarh", "rajasthan"], "name": "suratgarh"}
+{"city": "suri", "state": "west bengal", "tag": ["suri", "west bengal"], "name": "suri"}
+{"city": "suriyampalayam", "state": "tamil nadu", "tag": ["suriyampalayam", "tamil nadu"], "name": "suriyampalayam"}
+{"city": "suryapet", "state": "andhra pradesh", "tag": ["suryapet", "andhra pradesh"], "name": "suryapet"}
+{"city": "tadepalligudem", "state": "andhra pradesh", "tag": ["tadepalligudem", "andhra pradesh"], "name": "tadepalligudem"}
+{"city": "tadpatri", "state": "andhra pradesh", "tag": ["tadpatri", "andhra pradesh"], "name": "tadpatri"}
+{"city": "taki", "state": "west bengal", "tag": ["taki", "west bengal"], "name": "taki"}
+{"city": "talaja", "state": "gujarat", "tag": ["talaja", "gujarat"], "name": "talaja"}
+{"city": "talcher", "state": "odisha", "tag": ["talcher", "odisha"], "name": "talcher"}
+{"city": "talegaon dabhade", "state": "maharashtra", "tag": ["talegaon dabhade", "maharashtra"], "name": "talegaon dabhade"}
+{"city": "thaalikote", "state": "karnataka", "tag": ["thaalikote", "karnataka"], "name": "thaalikote"}
+{"city": "taliparamba", "state": "kerala", "tag": ["taliparamba", "kerala"], "name": "taliparamba"}
+{"city": "talode", "state": "maharashtra", "tag": ["talode", "maharashtra"], "name": "talode"}
+{"city": "talwara", "state": "punjab", "tag": ["talwara", "punjab"], "name": "talwara"}
+{"city": "tamluk", "state": "west bengal", "tag": ["tamluk", "west bengal"], "name": "tamluk"}
+{"city": "tanda", "state": "uttar pradesh", "tag": ["tanda", "uttar pradesh"], "name": "tanda"}
+{"city": "tanda", "state": "uttar pradesh", "tag": ["tanda", "uttar pradesh"], "name": "tanda"}
+{"city": "tandur", "state": "andhra pradesh", "tag": ["tandur", "andhra pradesh"], "name": "tandur"}
+{"city": "tanuku", "state": "andhra pradesh", "tag": ["tanuku", "andhra pradesh"], "name": "tanuku"}
+{"city": "tarakeswar", "state": "west bengal", "tag": ["tarakeswar", "west bengal"], "name": "tarakeswar"}
+{"city": "tarana", "state": "madhya pradesh", "tag": ["tarana", "madhya pradesh"], "name": "tarana"}
+{"city": "taranagar", "state": "rajasthan", "tag": ["taranagar", "rajasthan"], "name": "taranagar"}
+{"city": "taraori", "state": "haryana", "tag": ["taraori", "haryana"], "name": "taraori"}
+{"city": "tarbha", "state": "odisha", "tag": ["tarbha", "odisha"], "name": "tarbha"}
+{"city": "tarikere", "state": "karnataka", "tag": ["tarikere", "karnataka"], "name": "tarikere"}
+{"city": "tarn taran", "state": "punjab", "tag": ["tarn taran", "punjab"], "name": "tarn taran"}
+{"city": "tasgaon", "state": "maharashtra", "tag": ["tasgaon", "maharashtra"], "name": "tasgaon"}
+{"city": "tehri", "state": "uttarakhand", "tag": ["tehri", "uttarakhand"], "name": "tehri"}
+{"city": "tekkalakote", "state": "karnataka", "tag": ["tekkalakote", "karnataka"], "name": "tekkalakote"}
+{"city": "tenali", "state": "andhra pradesh", "tag": ["tenali", "andhra pradesh"], "name": "tenali"}
+{"city": "tenkasi", "state": "tamil nadu", "tag": ["tenkasi", "tamil nadu"], "name": "tenkasi"}
+{"city": "kathhara", "state": "jharkhand", "tag": ["kathhara", "jharkhand"], "name": "kathhara"}
+{"city": "thergallu", "state": "karnataka", "tag": ["thergallu", "karnataka"], "name": "thergallu"}
+{"city": "tetri bazar", "state": "uttar pradesh", "tag": ["tetri bazar", "uttar pradesh"], "name": "tetri bazar"}
+{"city": "tezpur", "state": "assam", "tag": ["tezpur", "assam"], "name": "tezpur"}
+{"city": "thakurdwara", "state": "uttar pradesh", "tag": ["thakurdwara", "uttar pradesh"], "name": "thakurdwara"}
+{"city": "thammampatti", "state": "tamil nadu", "tag": ["thammampatti", "tamil nadu"], "name": "thammampatti"}
+{"city": "thana bhawan", "state": "uttar pradesh", "tag": ["thana bhawan", "uttar pradesh"], "name": "thana bhawan"}
+{"city": "thane", "state": "maharashtra", "tag": ["thane", "maharashtra"], "name": "thane"}
+{"city": "thanesar", "state": "haryana", "tag": ["thanesar", "haryana"], "name": "thanesar"}
+{"city": "thangadh", "state": "gujarat", "tag": ["thangadh", "gujarat"], "name": "thangadh"}
+{"city": "thanjavur", "state": "tamil nadu", "tag": ["thanjavur", "tamil nadu"], "name": "thanjavur"}
+{"city": "tharad", "state": "gujarat", "tag": ["tharad", "gujarat"], "name": "tharad"}
+{"city": "tharamangalam", "state": "tamil nadu", "tag": ["tharamangalam", "tamil nadu"], "name": "tharamangalam"}
+{"city": "tharangambadi", "state": "tamil nadu", "tag": ["tharangambadi", "tamil nadu"], "name": "tharangambadi"}
+{"city": "theni allinagaram", "state": "tamil nadu", "tag": ["theni allinagaram", "tamil nadu"], "name": "theni allinagaram"}
+{"city": "thirumangalam", "state": "tamil nadu", "tag": ["thirumangalam", "tamil nadu"], "name": "thirumangalam"}
+{"city": "thirunindravur", "state": "tamil nadu", "tag": ["thirunindravur", "tamil nadu"], "name": "thirunindravur"}
+{"city": "thiruparappu", "state": "tamil nadu", "tag": ["thiruparappu", "tamil nadu"], "name": "thiruparappu"}
+{"city": "thirupuvanam", "state": "tamil nadu", "tag": ["thirupuvanam", "tamil nadu"], "name": "thirupuvanam"}
+{"city": "thiruthuraipoondi", "state": "tamil nadu", "tag": ["thiruthuraipoondi", "tamil nadu"], "name": "thiruthuraipoondi"}
+{"city": "thiruvalla", "state": "kerala", "tag": ["thiruvalla", "kerala"], "name": "thiruvalla"}
+{"city": "thiruvallur", "state": "tamil nadu", "tag": ["thiruvallur", "tamil nadu"], "name": "thiruvallur"}
+{"city": "trivandrum", "state": "kerala", "tag": ["trivandrum", "kerala"], "name": "trivandrum"}
+{"city": "thiruvarur", "state": "tamil nadu", "tag": ["thiruvarur", "tamil nadu"], "name": "thiruvarur"}
+{"city": "thodupuzha", "state": "kerala", "tag": ["thodupuzha", "kerala"], "name": "thodupuzha"}
+{"city": "thoothukudi", "state": "tamil nadu", "tag": ["thoothukudi", "tamil nadu"], "name": "thoothukudi"}
+{"city": "thoubal", "state": "manipur", "tag": ["thoubal", "manipur"], "name": "thoubal"}
+{"city": "thrissur", "state": "kerala", "tag": ["thrissur", "kerala"], "name": "thrissur"}
+{"city": "thuraiyur", "state": "tamil nadu", "tag": ["thuraiyur", "tamil nadu"], "name": "thuraiyur"}
+{"city": "tikamgarh", "state": "madhya pradesh", "tag": ["tikamgarh", "madhya pradesh"], "name": "tikamgarh"}
+{"city": "tikota", "state": "karnataka", "tag": ["tikota", "karnataka"], "name": "tikota"}
+{"city": "tilda newra", "state": "chhattisgarh", "tag": ["tilda newra", "chhattisgarh"], "name": "tilda newra"}
+{"city": "tilhar", "state": "uttar pradesh", "tag": ["tilhar", "uttar pradesh"], "name": "tilhar"}
+{"city": "talikota", "state": "karnataka", "tag": ["talikota", "karnataka"], "name": "talikota"}
+{"city": "tindivanam", "state": "tamil nadu", "tag": ["tindivanam", "tamil nadu"], "name": "tindivanam"}
+{"city": "tinsukia", "state": "assam", "tag": ["tinsukia", "assam"], "name": "tinsukia"}
+{"city": "thipatooru", "state": "karnataka", "tag": ["thipatooru", "karnataka"], "name": "thipatooru"}
+{"city": "tirora", "state": "maharashtra", "tag": ["tirora", "maharashtra"], "name": "tirora"}
+{"city": "tiruchendur", "state": "tamil nadu", "tag": ["tiruchendur", "tamil nadu"], "name": "tiruchendur"}
+{"city": "tiruchengode", "state": "tamil nadu", "tag": ["tiruchengode", "tamil nadu"], "name": "tiruchengode"}
+{"city": "tiruchirappalli", "state": "tamil nadu", "tag": ["tiruchirappalli", "tamil nadu"], "name": "tiruchirappalli"}
+{"city": "tirukalukundram", "state": "tamil nadu", "tag": ["tirukalukundram", "tamil nadu"], "name": "tirukalukundram"}
+{"city": "tirukkoyilur", "state": "tamil nadu", "tag": ["tirukkoyilur", "tamil nadu"], "name": "tirukkoyilur"}
+{"city": "tirunelveli", "state": "tamil nadu", "tag": ["tirunelveli", "tamil nadu"], "name": "tirunelveli"}
+{"city": "tirupathur", "state": "tamil nadu", "tag": ["tirupathur", "tamil nadu"], "name": "tirupathur"}
+{"city": "tirupathur", "state": "tamil nadu", "tag": ["tirupathur", "tamil nadu"], "name": "tirupathur"}
+{"city": "tirupati", "state": "andhra pradesh", "tag": ["tirupati", "andhra pradesh"], "name": "tirupati"}
+{"city": "tiruppur", "state": "tamil nadu", "tag": ["tiruppur", "tamil nadu"], "name": "tiruppur"}
+{"city": "tirur", "state": "kerala", "tag": ["tirur", "kerala"], "name": "tirur"}
+{"city": "tiruttani", "state": "tamil nadu", "tag": ["tiruttani", "tamil nadu"], "name": "tiruttani"}
+{"city": "tiruvannamalai", "state": "tamil nadu", "tag": ["tiruvannamalai", "tamil nadu"], "name": "tiruvannamalai"}
+{"city": "tiruvethipuram", "state": "tamil nadu", "tag": ["tiruvethipuram", "tamil nadu"], "name": "tiruvethipuram"}
+{"city": "tiruvuru", "state": "andhra pradesh", "tag": ["tiruvuru", "andhra pradesh"], "name": "tiruvuru"}
+{"city": "tirwaganj", "state": "uttar pradesh", "tag": ["tirwaganj", "uttar pradesh"], "name": "tirwaganj"}
+{"city": "titlagarh", "state": "odisha", "tag": ["titlagarh", "odisha"], "name": "titlagarh"}
+{"city": "tittakudi", "state": "tamil nadu", "tag": ["tittakudi", "tamil nadu"], "name": "tittakudi"}
+{"city": "todabhim", "state": "rajasthan", "tag": ["todabhim", "rajasthan"], "name": "todabhim"}
+{"city": "todaraisingh", "state": "rajasthan", "tag": ["todaraisingh", "rajasthan"], "name": "todaraisingh"}
+{"city": "tohana", "state": "haryana", "tag": ["tohana", "haryana"], "name": "tohana"}
+{"city": "tonk", "state": "rajasthan", "tag": ["tonk", "rajasthan"], "name": "tonk"}
+{"city": "tuensang", "state": "nagaland", "tag": ["tuensang", "nagaland"], "name": "tuensang"}
+{"city": "tuljapur", "state": "maharashtra", "tag": ["tuljapur", "maharashtra"], "name": "tuljapur"}
+{"city": "tulsipur", "state": "uttar pradesh", "tag": ["tulsipur", "uttar pradesh"], "name": "tulsipur"}
+{"city": "thumakooru", "state": "karnataka", "tag": ["thumakooru", "karnataka"], "name": "thumakooru"}
+{"city": "tumsar", "state": "maharashtra", "tag": ["tumsar", "maharashtra"], "name": "tumsar"}
+{"city": "tundla", "state": "uttar pradesh", "tag": ["tundla", "uttar pradesh"], "name": "tundla"}
+{"city": "tuni", "state": "andhra pradesh", "tag": ["tuni", "andhra pradesh"], "name": "tuni"}
+{"city": "tura", "state": "meghalaya", "tag": ["tura", "meghalaya"], "name": "tura"}
+{"city": "uchgaon", "state": "maharashtra", "tag": ["uchgaon", "maharashtra"], "name": "uchgaon"}
+{"city": "udaipur", "state": "rajasthan", "tag": ["udaipur", "rajasthan"], "name": "udaipur"}
+{"city": "udaipur", "state": "tripura", "tag": ["udaipur", "tripura"], "name": "udaipur"}
+{"city": "udaipurwati", "state": "rajasthan", "tag": ["udaipurwati", "rajasthan"], "name": "udaipurwati"}
+{"city": "udgir", "state": "maharashtra", "tag": ["udgir", "maharashtra"], "name": "udgir"}
+{"city": "udhagamandalam", "state": "tamil nadu", "tag": ["udhagamandalam", "tamil nadu"], "name": "udhagamandalam"}
+{"city": "udhampur", "state": "jammu and kashmir", "tag": ["udhampur", "jammu and kashmir"], "name": "udhampur"}
+{"city": "udumalaipettai", "state": "tamil nadu", "tag": ["udumalaipettai", "tamil nadu"], "name": "udumalaipettai"}
+{"city": "udupi", "state": "karnataka", "tag": ["udupi", "karnataka"], "name": "udupi"}
+{"city": "ugar", "state": "karnataka", "tag": ["ugar", "karnataka"], "name": "ugar"}
+{"city": "ujhani", "state": "madhya pradesh", "tag": ["ujhani", "madhya pradesh"], "name": "ujhani"}
+{"city": "ujjain", "state": "madhya pradesh", "tag": ["ujjain", "madhya pradesh"], "name": "ujjain"}
+{"city": "umarga", "state": "maharashtra", "tag": ["umarga", "maharashtra"], "name": "umarga"}
+{"city": "umaria", "state": "madhya pradesh", "tag": ["umaria", "madhya pradesh"], "name": "umaria"}
+{"city": "umarkhed", "state": "maharashtra", "tag": ["umarkhed", "maharashtra"], "name": "umarkhed"}
+{"city": "umarkote", "state": "odisha", "tag": ["umarkote", "odisha"], "name": "umarkote"}
+{"city": "umbergaon", "state": "gujarat", "tag": ["umbergaon", "gujarat"], "name": "umbergaon"}
+{"city": "umred", "state": "maharashtra", "tag": ["umred", "maharashtra"], "name": "umred"}
+{"city": "umreth", "state": "gujarat", "tag": ["umreth", "gujarat"], "name": "umreth"}
+{"city": "una", "state": "gujarat", "tag": ["una", "gujarat"], "name": "una"}
+{"city": "unjha", "state": "gujarat", "tag": ["unjha", "gujarat"], "name": "unjha"}
+{"city": "unnamalaikadai", "state": "tamil nadu", "tag": ["unnamalaikadai", "tamil nadu"], "name": "unnamalaikadai"}
+{"city": "unnao", "state": "uttar pradesh", "tag": ["unnao", "uttar pradesh"], "name": "unnao"}
+{"city": "upleta", "state": "gujarat", "tag": ["upleta", "gujarat"], "name": "upleta"}
+{"city": "uran", "state": "maharashtra", "tag": ["uran", "maharashtra"], "name": "uran"}
+{"city": "uran islampur", "state": "maharashtra", "tag": ["uran islampur", "maharashtra"], "name": "uran islampur"}
+{"city": "uravakonda", "state": "andhra pradesh", "tag": ["uravakonda", "andhra pradesh"], "name": "uravakonda"}
+{"city": "urmar tanda", "state": "punjab", "tag": ["urmar tanda", "punjab"], "name": "urmar tanda"}
+{"city": "usilampatti", "state": "tamil nadu", "tag": ["usilampatti", "tamil nadu"], "name": "usilampatti"}
+{"city": "uthamapalayam", "state": "tamil nadu", "tag": ["uthamapalayam", "tamil nadu"], "name": "uthamapalayam"}
+{"city": "uthiramerur", "state": "tamil nadu", "tag": ["uthiramerur", "tamil nadu"], "name": "uthiramerur"}
+{"city": "utraula", "state": "uttar pradesh", "tag": ["utraula", "uttar pradesh"], "name": "utraula"}
+{"city": "vadakara", "state": "kerala", "tag": ["vadakara", "kerala"], "name": "vadakara"}
+{"city": "vadakkuvalliyur", "state": "tamil nadu", "tag": ["vadakkuvalliyur", "tamil nadu"], "name": "vadakkuvalliyur"}
+{"city": "vadalur", "state": "tamil nadu", "tag": ["vadalur", "tamil nadu"], "name": "vadalur"}
+{"city": "vadgaon kasba", "state": "maharashtra", "tag": ["vadgaon kasba", "maharashtra"], "name": "vadgaon kasba"}
+{"city": "vadipatti", "state": "tamil nadu", "tag": ["vadipatti", "tamil nadu"], "name": "vadipatti"}
+{"city": "vadnagar", "state": "gujarat", "tag": ["vadnagar", "gujarat"], "name": "vadnagar"}
+{"city": "vadodara", "state": "gujarat", "tag": ["vadodara", "gujarat"], "name": "vadodara"}
+{"city": "vaijapur", "state": "maharashtra", "tag": ["vaijapur", "maharashtra"], "name": "vaijapur"}
+{"city": "vaikom", "state": "kerala", "tag": ["vaikom", "kerala"], "name": "vaikom"}
+{"city": "valparai", "state": "tamil nadu", "tag": ["valparai", "tamil nadu"], "name": "valparai"}
+{"city": "valsad", "state": "gujarat", "tag": ["valsad", "gujarat"], "name": "valsad"}
+{"city": "vandavasi", "state": "tamil nadu", "tag": ["vandavasi", "tamil nadu"], "name": "vandavasi"}
+{"city": "vaniyambadi", "state": "tamil nadu", "tag": ["vaniyambadi", "tamil nadu"], "name": "vaniyambadi"}
+{"city": "vapi", "state": "gujarat", "tag": ["vapi", "gujarat"], "name": "vapi"}
+{"city": "vapi", "state": "gujarat", "tag": ["vapi", "gujarat"], "name": "vapi"}
+{"city": "varanasi", "state": "uttar pradesh", "tag": ["varanasi", "uttar pradesh"], "name": "varanasi"}
+{"city": "varkala", "state": "kerala", "tag": ["varkala", "kerala"], "name": "varkala"}
+{"city": "vasai", "state": "maharashtra", "tag": ["vasai", "maharashtra"], "name": "vasai"}
+{"city": "vedaranyam", "state": "tamil nadu", "tag": ["vedaranyam", "tamil nadu"], "name": "vedaranyam"}
+{"city": "vellakoil", "state": "tamil nadu", "tag": ["vellakoil", "tamil nadu"], "name": "vellakoil"}
+{"city": "vellore", "state": "tamil nadu", "tag": ["vellore", "tamil nadu"], "name": "vellore"}
+{"city": "venkatagiri", "state": "andhra pradesh", "tag": ["venkatagiri", "andhra pradesh"], "name": "venkatagiri"}
+{"city": "veraval", "state": "gujarat", "tag": ["veraval", "gujarat"], "name": "veraval"}
+{"city": "vicarabad", "state": "andhra pradesh", "tag": ["vicarabad", "andhra pradesh"], "name": "vicarabad"}
+{"city": "vidisha", "state": "madhya pradesh", "tag": ["vidisha", "madhya pradesh"], "name": "vidisha"}
+{"city": "vijainagar", "state": "rajasthan", "tag": ["vijainagar", "rajasthan"], "name": "vijainagar"}
+{"city": "vijapur", "state": "gujarat", "tag": ["vijapur", "gujarat"], "name": "vijapur"}
+{"city": "vijaypur", "state": "uttarakhand", "tag": ["vijaypur", "uttarakhand"], "name": "vijaypur"}
+{"city": "vijayapura", "state": "karnataka", "tag": ["vijayapura", "karnataka"], "name": "vijayapura"}
+{"city": "vijayawada", "state": "andhra pradesh", "tag": ["vijayawada", "andhra pradesh"], "name": "vijayawada"}
+{"city": "vikramasingapuram", "state": "tamil nadu", "tag": ["vikramasingapuram", "tamil nadu"], "name": "vikramasingapuram"}
+{"city": "viluppuram", "state": "tamil nadu", "tag": ["viluppuram", "tamil nadu"], "name": "viluppuram"}
+{"city": "vinukonda", "state": "andhra pradesh", "tag": ["vinukonda", "andhra pradesh"], "name": "vinukonda"}
+{"city": "viramgam", "state": "gujarat", "tag": ["viramgam", "gujarat"], "name": "viramgam"}
+{"city": "virar", "state": "maharashtra", "tag": ["virar", "maharashtra"], "name": "virar"}
+{"city": "virudhachalam", "state": "tamil nadu", "tag": ["virudhachalam", "tamil nadu"], "name": "virudhachalam"}
+{"city": "virudhunagar", "state": "tamil nadu", "tag": ["virudhunagar", "tamil nadu"], "name": "virudhunagar"}
+{"city": "visakhapatnam", "state": "andhra pradesh", "tag": ["visakhapatnam", "andhra pradesh"], "name": "visakhapatnam"}
+{"city": "visnagar", "state": "gujarat", "tag": ["visnagar", "gujarat"], "name": "visnagar"}
+{"city": "viswanatham", "state": "tamil nadu", "tag": ["viswanatham", "tamil nadu"], "name": "viswanatham"}
+{"city": "vita", "state": "maharashtra", "tag": ["vita", "maharashtra"], "name": "vita"}
+{"city": "vizianagaram", "state": "andhra pradesh", "tag": ["vizianagaram", "andhra pradesh"], "name": "vizianagaram"}
+{"city": "vrindavan", "state": "uttar pradesh", "tag": ["vrindavan", "uttar pradesh"], "name": "vrindavan"}
+{"city": "vyara", "state": "gujarat", "tag": ["vyara", "gujarat"], "name": "vyara"}
+{"city": "wadgaon road", "state": "maharashtra", "tag": ["wadgaon road", "maharashtra"], "name": "wadgaon road"}
+{"city": "wadhwan", "state": "gujarat", "tag": ["wadhwan", "gujarat"], "name": "wadhwan"}
+{"city": "wadi", "state": "karnataka", "tag": ["wadi", "karnataka"], "name": "wadi"}
+{"city": "wai", "state": "maharashtra", "tag": ["wai", "maharashtra"], "name": "wai"}
+{"city": "wanaparthy", "state": "andhra pradesh", "tag": ["wanaparthy", "andhra pradesh"], "name": "wanaparthy"}
+{"city": "wani", "state": "maharashtra", "tag": ["wani", "maharashtra"], "name": "wani"}
+{"city": "wankaner", "state": "gujarat", "tag": ["wankaner", "gujarat"], "name": "wankaner"}
+{"city": "wara seoni", "state": "madhya pradesh", "tag": ["wara seoni", "madhya pradesh"], "name": "wara seoni"}
+{"city": "warangal", "state": "andhra pradesh", "tag": ["warangal", "andhra pradesh"], "name": "warangal"}
+{"city": "wardha", "state": "maharashtra", "tag": ["wardha", "maharashtra"], "name": "wardha"}
+{"city": "warhapur", "state": "uttar pradesh", "tag": ["warhapur", "uttar pradesh"], "name": "warhapur"}
+{"city": "warisaliganj", "state": "bihar", "tag": ["warisaliganj", "bihar"], "name": "warisaliganj"}
+{"city": "warora", "state": "maharashtra", "tag": ["warora", "maharashtra"], "name": "warora"}
+{"city": "warud", "state": "maharashtra", "tag": ["warud", "maharashtra"], "name": "warud"}
+{"city": "washim", "state": "maharashtra", "tag": ["washim", "maharashtra"], "name": "washim"}
+{"city": "wokha", "state": "nagaland", "tag": ["wokha", "nagaland"], "name": "wokha"}
+{"city": "yaadhagiri", "state": "karnataka", "tag": ["yaadhagiri", "karnataka"], "name": "yaadhagiri"}
+{"city": "yamunanagar", "state": "haryana", "tag": ["yamunanagar", "haryana"], "name": "yamunanagar"}
+{"city": "yanam", "state": "puducherry", "tag": ["yanam", "puducherry"], "name": "yanam"}
+{"city": "yavatmal", "state": "maharashtra", "tag": ["yavatmal", "maharashtra"], "name": "yavatmal"}
+{"city": "yawal", "state": "maharashtra", "tag": ["yawal", "maharashtra"], "name": "yawal"}
+{"city": "yellandu", "state": "andhra pradesh", "tag": ["yellandu", "andhra pradesh"], "name": "yellandu"}
+{"city": "yemmiganur", "state": "andhra pradesh", "tag": ["yemmiganur", "andhra pradesh"], "name": "yemmiganur"}
+{"city": "yerraguntla", "state": "andhra pradesh", "tag": ["yerraguntla", "andhra pradesh"], "name": "yerraguntla"}
+{"city": "yevla", "state": "maharashtra", "tag": ["yevla", "maharashtra"], "name": "yevla"}
+{"city": "zaid", "state": "uttar pradesh", "tag": ["zaid", "uttar pradesh"], "name": "zaid"}
+{"city": "zamania", "state": "uttar pradesh", "tag": ["zamania", "uttar pradesh"], "name": "zamania"}
+{"city": "zira", "state": "punjab", "tag": ["zira", "punjab"], "name": "zira"}
+{"city": "zirakpur", "state": "punjab", "tag": ["zirakpur", "punjab"], "name": "zirakpur"}
+{"city": "zunheboto", "state": "nagaland", "tag": ["zunheboto", "nagaland"], "name": "zunheboto"}

@@ -1,0 +1,101 @@
+<div class="content-container writer-container">
+    <div class="row">
+        <div class="col-md-3">
+            <h3>Recent posts</h3>
+            <div class="editor-story"  ng-repeat='item in stories.items'>
+                <div class="story-title"><a ng-href="/opinion/{{item._id}}">{{item.title}}</a></div>
+                <div class="text-right">
+                    <span class="label label-primary">{{item.status}}</span>
+                    <a class="btn btn-default btn-xs" href="/write/{{item._id}}">Edit</a>
+                </div>
+            </div>
+            <div class="pull-center" ng-show='stories.busy'><span us-spinner></span></div>
+        </div>
+        <div class="col-md-9 editor-container">
+            <div ng-show="errorMsg" class="alert-error-message"><span class="alert alert-danger">{{errorMsg}}</span></div>
+            <div class="pull-center" ng-show='busy'><span us-spinner></span></div>
+            <div ng-hide="errorMsg">
+                <div class="alert alert-info" ng-show="draftAvailable">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    A recent draft is available for editing. <a href="#" ng-click="editDraft()">Edit draft</a> instead. Changes are published only when you press <b>publish</b> button.
+                </div>
+                <div class="text-center editor-cover-photo-container" ng-hide="hideCoverPhotoUpload">
+                    <img class="editor-cover-photo" ng-show="coverPhoto" ng-src="{{coverPhoto}}"/>
+                    <button type="button"  class="close cover-photo-hide" ng-show="coverPhoto" ng-click="coverPhoto=''"><span aria-hidden="true">&times;</span></button>
+                    <div class="cover-photo-actions">
+                        <div class="cover-photo-help" ng-hide="coverPhoto">
+                            Add a photo to bring your story to life!
+                        </div>
+                        <div class="cover-photo-help1" ng-hide="coverPhoto">Recommened size: 600x400 px</div>
+
+                        <span class="cover-photo-btn-container">
+                            <a class="btn btn-default"><i class="glyphicon glyphicon-picture"></i></a>
+                            <input class="photo-upload" data-role="magic-overlay" type="file" onchange="angular.element(this).scope().uploadCoverImage(this)" ng-model="newCoverImage">
+                        </span>
+                    </div>
+                    <div class="editor-cover-overlay"></div>
+                </div>
+                <div class="text-right btn-cover-photo-show" ng-show="hideCoverPhotoUpload">
+                    <!-- <button class="btn btn-default" ng-click="hideCoverPhotoUpload=false">+</button> -->
+                </div>
+                <input class="form-control editor-title" placeholder="Title" type="text" ng-model="title">
+                <div class="btn-toolbar" data-role="editor-toolbar" data-target="#editor">
+                    <div class="btn-group">
+                        <a class="btn btn-default dropdown-toggle" data-toggle="dropdown" title="Font Size"><i class="glyphicon glyphicon-text-height"></i>&nbsp;<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a data-edit="fontSize 5"><font size="5">Huge</font></a></li>
+                            <li><a data-edit="fontSize 3"><font size="3">Normal</font></a></li>
+                            <li><a data-edit="fontSize 1"><font size="1">Small</font></a></li>
+                        </ul>
+                    </div>
+                    <div class="btn-group">
+                        <a class="btn btn-default" data-edit="bold" title="Bold (Ctrl/Cmd+B)"><i class="glyphicon glyphicon-bold"></i></a>
+                        <a class="btn btn-default" data-edit="italic" title="Italic (Ctrl/Cmd+I)"><i class="glyphicon glyphicon-italic"></i></a>
+                        <a class="btn btn-default" data-edit="underline" title="Underline (Ctrl/Cmd+U)"><i class="glyphicon glyphicon-text-width"></i></a>
+                    </div>
+                    <div class="btn-group">
+                        <a class="btn btn-default" data-edit="insertunorderedlist" title="Bullet list"><i class="glyphicon glyphicon-list"></i></a>
+                        <a class="btn btn-default" data-edit="insertorderedlist" title="Number list"><i class="glyphicon glyphicon-list-alt"></i></a>
+                        <a class="btn btn-default" data-edit="outdent" title="Reduce indent (Shift+Tab)"><i class="glyphicon glyphicon-indent-left"></i></a>
+                        <a class="btn btn-default" data-edit="indent" title="Blockquote(Tab)">&ldquo; &rdquo;</a>
+                    </div>
+                    <div class="btn-group">
+                        <a class="btn btn-default" data-edit="justifyleft" title="Align Left (Ctrl/Cmd+L)"><i class="glyphicon glyphicon-align-left"></i></a>
+                        <a class="btn btn-default" data-edit="justifycenter" title="Center (Ctrl/Cmd+E)"><i class="glyphicon glyphicon-align-center"></i></a>
+                        <a class="btn btn-default" data-edit="justifyright" title="Align Right (Ctrl/Cmd+R)"><i class="glyphicon glyphicon-align-right"></i></a>
+                        <a class="btn btn-default" data-edit="justifyfull" title="Justify (Ctrl/Cmd+J)"><i class="glyphicon glyphicon-align-justify"></i></a>
+                    </div>
+                    <div class="btn-group">
+                        <a class="btn btn-default dropdown-toggle" data-toggle="dropdown" title="Hyperlink" aria-expanded="true"><i class="glyphicon glyphicon-link"></i></a>
+                        <ul class="dropdown-menu input-append" role="menu">
+                            <li class="link-input-container"><input ng-click="inputClicked($event)" class="span3 form-control link-input" placeholder="URL" data-edit="createLink" type="text">
+                                <button class="btn btn-default link-input-btn" type="button">Add</button>
+                            </li>
+                        </ul>
+                        <a class="btn btn-default" data-edit="unlink" title="Remove Hyperlink"><i class="glyphicon glyphicon-remove"></i></a>
+                    </div>
+                    <div class="btn-group">
+                        <a class="btn btn-default" id="pictureBtn"><i class="glyphicon glyphicon-picture"></i></a>
+                        <input class="photo-upload" data-role="magic-overlay" data-target="#pictureBtn" data-edit="insertImage" type="file">
+                    </div>
+                    <div class="btn-group">
+                        <a class="btn btn-default" data-edit="undo" title="Undo (Ctrl/Cmd+Z)"><i class="glyphicon glyphicon-backward"></i></a>
+                        <a class="btn btn-default" data-edit="redo" title="Redo (Ctrl/Cmd+Y)"><i class="glyphicon glyphicon-forward"></i></a>
+                    </div>
+                </div>
+                <div class="editor-overlay">
+                    <div id="editor" placeholder="" class="form-control" ng-bind-html="body"></div>
+                    <div class="white-bg hidden"></div>
+                </div>
+
+                <div class="editor-actions">
+                    <button class="btn btn-default" ng-click="saveDraft()">Save</button>
+                    <a target="_blank" class="btn btn-default" ng-disabled="!_id" ng-href="/opinion/{{_id}}">Preview</a>
+                    <button class="btn btn-danger" ng-disabled="!_id" ng-click="deletePost()">Delete</button>
+                    <button class="btn btn-success" ng-click="publishPost()">Publish</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

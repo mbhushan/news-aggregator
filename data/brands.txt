@@ -1,0 +1,151 @@
+{"tag": "facebook", "name": "facebook"}
+{"tag": "youtube", "name": "youtube"}
+{"tag": "yahoo", "name": "yahoo"}
+{"tag": "foursquare", "name": "foursquare"}
+{"tag": "twitter", "name": "twitter"}
+{"tag": "google", "name": "google"}
+{"tag": "apple", "name": "apple"}
+{"tag": "samsung", "name": "samsung"}
+{"tag": "xiaomi", "name": "xiaomi"}
+{"tag": "micromax", "name": "micromax"}
+{"tag": "lava", "name": "lava"}
+{"tag": "asus", "name": "asus"}
+{"tag": "huawei", "name": "huawei"}
+{"tag": "lenovo", "name": "lenovo"}
+{"tag": "sony", "name": "sony"}
+{"tag": "lg", "name": "lg"}
+{"tag": "microsoft", "name": "microsoft"}
+{"tag": "lenovo", "name": "lenovo"}
+{"tag": "ibm", "name": "ibm"}
+{"tag": "birlasoft", "name": "birlasoft"}
+{"tag": "satyam", "name": "satyam"}
+{"tag": "toshiba", "name": "toshiba"}
+{"tag": "philips", "name": "philips"}
+{"tag": "nokia", "name": "nokia"}
+{"tag": "tcs", "name": "tcs"}
+{"tag": "acer", "name": "acer"}
+{"tag": "htc", "name": "htc"}
+{"tag": "hp", "name": "hp"}
+{"tag": "hp", "name": "hewlett packard"}
+{"tag": "dell", "name": "dell"}
+{"tag": "nintendo", "name": "nintendo"}
+{"tag": "playstation", "name": "playstation"}
+{"tag": "xbox", "name": "xbox"}
+{"tag": "intel", "name": "intel"}
+{"tag": "canon", "name": "canon"}
+{"tag": "hitachi", "name": "hitachi"}
+{"tag": "jvc", "name": "jvc"}
+{"tag": "videocon", "name": "videocon"}
+{"tag": "logitech", "name": "logitech"}
+{"tag": "ongc", "name": "ongc"}
+{"tag": "itc", "name": "itc"}
+{"tag": "reliance", "name": "reliance"}
+{"tag": "infosys", "name": "infosys"}
+{"tag": "uber", "name": "uber"}
+{"tag": "taxi for sure", "name": "taxi for sure"}
+{"tag": "ola", "name": "ola"}
+{"tag": "flipkart", "name": "flipkart"}
+{"tag": "snapdeal", "name": "snapdeal"}
+{"tag": "amazon", "name": "amazon"}
+{"tag": "healthkart", "name": "healthkart"}
+{"tag": "jabong", "name": "jabong"}
+{"tag": "myntra", "name": "myntra"}
+{"tag": "ebay", "name": "ebay"}
+{"tag": "infibeam", "name": "infibeam"}
+{"tag": "homeshop18", "name": "homeshop18"}
+{"tag": "shopclues", "name": "shopclues"}
+{"tag": "indiatimes", "name": "indiatimes"}
+{"tag": "rediff", "name": "rediff"}
+{"tag": "coal india", "name": "coal india"}
+{"tag": "hdfc bank", "name": "hdfc"}
+{"tag": "hdfc bank", "name": "hdfc bank"}
+{"tag": "sbi", "name": "sbi"}
+{"tag": "icici bank", "name": "icici"}
+{"tag": "icici bank", "name": "icici bank"}
+{"tag": "hul", "name": "hul"}
+{"tag": "sun pharma", "name": "sun pharma"}
+{"tag": "tata motors", "name": "tata motors"}
+{"tag": "airtel", "name": "airtel"}
+{"tag": "larsen", "name": "larsen"}
+{"tag": "wipro", "name": "wipro"}
+{"tag": "axis bank", "name": "axis bank"}
+{"tag": "ntpc", "name": "ntpc"}
+{"tag": "hcl tech", "name": "hcl tech"}
+{"tag": "kotak mahindra", "name": "kotak mahindra"}
+{"tag": "maruti suzuki", "name": "maruti suzuki"}
+{"tag": "ioc", "name": "ioc"}
+{"tag": "asian paints", "name": "asian paints"}
+{"tag": "mahindra and mahindra", "name": "mahindra and mahindra"}
+{"tag": "ultratechcement", "name": "ultratechcement"}
+{"tag": "power grid corp", "name": "power grid corp"}
+{"tag": "bajaj auto", "name": "bajaj auto"}
+{"tag": "hind zinc", "name": "hind zinc"}
+{"tag": "adani", "name": "adani"}
+{"tag": "tech mahindra", "name": "tech mahindra"}
+{"tag": "lupin", "name": "lupin"}
+{"tag": "bhel", "name": "bhel"}
+{"tag": "nestle", "name": "nestle"}
+{"tag": "sesa sterlite", "name": "sesa sterlite"}
+{"tag": "bosch", "name": "bosch"}
+{"tag": "hero motocorp", "name": "hero motocorp"}
+{"tag": "gail", "name": "gail"}
+{"tag": "dr reddys", "name": "dr reddys"}
+{"tag": "nmdc", "name": "nmdc"}
+{"tag": "idea cellular", "name": "idea cellular"}
+{"tag": "cipla", "name": "cipla"}
+{"tag": "bpcl", "name": "bpcl"}
+{"tag": "bank of baroda", "name": "bank of baroda"}
+{"tag": "cairn india", "name": "cairn india"}
+{"tag": "indusind bank", "name": "indusind bank"}
+{"tag": "united spirits", "name": "united spirits"}
+{"tag": "dabur india", "name": "dabur india"}
+{"tag": "eicher motors", "name": "eicher motors"}
+{"tag": "tata steel", "name": "tata steel"}
+{"tag": "motherson sumi", "name": "motherson sumi"}
+{"tag": "pnb", "name": "pnb"}
+{"tag": "power finance", "name": "power finance"}
+{"tag": "zee entertain", "name": "zee entertain"}
+{"tag": "godrej consumer", "name": "godrej consumer"}
+{"tag": "ambuja cements", "name": "ambuja cements"}
+{"tag": "cadila health", "name": "cadila health"}
+{"tag": "aurobindo pharm", "name": "aurobindo pharm"}
+{"tag": "oil india", "name": "oil india"}
+{"tag": "titan company", "name": "titan company"}
+{"tag": "sail", "name": "sail"}
+{"tag": "siemens", "name": "siemens"}
+{"tag": "hindalco", "name": "hindalco"}
+{"tag": "yes bank", "name": "yes bank"}
+{"tag": "shree cements", "name": "shree cements"}
+{"tag": "grasim", "name": "grasim"}
+{"tag": "rec", "name": "rec"}
+{"tag": "oracle", "name": "oracle"}
+{"tag": "glaxosmithkline", "name": "glaxosmithkline"}
+{"tag": "abb", "name": "abb"}
+{"tag": "ranbaxy", "name": "ranbaxy"}
+{"tag": "pidilite", "name": "pidilite"}
+{"tag": "container corp", "name": "container corp"}
+{"tag": "acc", "name": "acc"}
+{"tag": "colgate", "name": "colgate"}
+{"tag": "bharat elec", "name": "bharat elec"}
+{"tag": "castrol", "name": "castrol"}
+{"tag": "dlf", "name": "dlf"}
+{"tag": "idfc", "name": "idfc"}
+{"tag": "jsw steel", "name": "jsw steel"}
+{"tag": "cummins", "name": "cummins"}
+{"tag": "shriram trans", "name": "shriram trans"}
+{"tag": "united brewerie", "name": "united brewerie"}
+{"tag": "lic", "name": "lic"}
+{"tag": "britannia", "name": "britannia"}
+{"tag": "divis labs", "name": "divis labs"}
+{"tag": "ab nuvo", "name": "ab nuvo"}
+{"tag": "bharat forge", "name": "bharat forge"}
+{"tag": "tata", "name": "tata"}
+{"tag": "marico", "name": "marico"}
+{"tag": "nhpc", "name": "nhpc"}
+{"tag": "bajaj finserv", "name": "bajaj finserv"}
+{"tag": "canara bank", "name": "canara bank"}
+{"tag": "torrent pharma", "name": "torrent pharma"}
+{"tag": "hpcl", "name": "hpcl"}
+{"tag": "glenmark", "name": "glenmark"}
+{"tag": "p and g", "name": "p and g"}
+{"tag": "bank of india", "name": "bank of india"}

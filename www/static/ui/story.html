@@ -1,0 +1,46 @@
+<div class="content-discuss">
+    <div ng-hide="story.ready">Loading..</div>
+    <div class="pull-center" ng-show="story.ready && !story.item">Story not found</div>
+    <div class="row story-post animated fadeIn" ng-show="story.ready && story.item" class="story-detail">
+        <div ng-show="story.item.photo" class="col-xs-6 col-md-6 story-photo-container">
+            <div class="img-wrapper">
+                <span class="photo-helper"></span><img class="story-photo" ng-show="story.item.photo" src="{{story.item.photo}}" />
+            </div>
+        </div>
+
+        <div ng-class="{false: 'col-xs-6 col-md-6 story-right', true: 'col-xs-12 col-md-12 story-right'}[!story.item.photo]">
+            <div class="story-title"><a ng-href="{{story.item.link}}">{{story.item.title}}</a></div>
+            <div class="story-created">Created {{story.item.published}}</div>
+            <div class="story-info"></div>
+            <ul class="list-inline story-actions">
+                <li><a target="blank" href="https://www.facebook.com/sharer/sharer.php?u={{stories.getLink(item)}}"><img class="social-icon" src="/static/img/social/facebook.png" /></a>
+                    <a target="blank" href="https://twitter.com/intent/tweet?url={{stories.getLink(item)}}&text={{item.title}}&via=nationstorycom"><img class="social-icon" src="/static/img/social/twitter.png" /></a>
+                </li>
+            </ul>
+            <ul class="story-tags" >
+                <li class="label label-story-tags" ng-repeat="tag in story.item.tags">
+                    <a class="story-tag" ng-href="/tag/{{tag}}">{{tag | removehypens}}</a>
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="story-comments">
+            <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'nationstory'; // required: replace example with your forum shortname
+
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+    </div>
+
+</div>

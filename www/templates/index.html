@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>map</title>
+        <script type="text/javascript" src="/static/js/vendor/d3.v3.min.js"></script>
+        <script type="text/javascript" src="/static/js/vendor/topojson.v1.min.js"></script>
+        <script type="text/javascript" src="/static/js/vendor/jquery-1.9.0.min.js"></script>
+        <script type="text/javascript" src="/static/js/vendor/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="/static/css/app/d3.css">
+        <link rel="stylesheet" type="text/css" href="/static/css/vendor/bootstrap.min.css">
+    </head>
+    <body>
+        <div id="map"></div>
+
+        <ul id="tooltip" class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+            <li role="presentation" class="state-name"><a id="value" role="menuitem" disabled="disabled" tabindex="-1" href="#"></a></li>
+            <li role="presentation" class="divider"></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Current Events</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Politics</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Weather</a></li>
+        </ul>
+        <script type="text/javascript">
+            var width = 660, height = 700;
+
+            projection = d3.geo.mercator()
+              .scale(1200).center([90, 27]);
+
+            path = d3.geo.path()
+              .projection(projection);
+
+            svg = d3.select("#map").append("svg")
+              .attr("width", width)
+              .attr("height", height);
+
+            d3.json("/static/data/india-states.json", function(error,state) {
+              svg.selectAll(".state")
+                .data(topojson.feature(state, state.objects["india-states"]).features)
+                .enter().append("path")
+                .attr("class", "state")
+                .attr("d", path)
+                .on('mouseover', function(){var self = d3.select(this); self.attr('class','state selected-state');})
+                .on('mouseout', function(){var self = d3.select(this); self.attr('class','state');})
+                .on('click', function(d) {
+                    d3.select("#tooltip")
+                        .style("left", (d3.event.pageX - 5) + "px")
+                        .style("top", (d3.event.pageY - 5)+ "px")
+                        .style("opacity", 1)
+                        .select("#value")
+                        .text(d.properties.NAME_1);
+                });
+            });
+
+            var hideTooltip = function() {
+                $('#tooltip').css('opacity', 0);
+            }
+
+            $('svg').click(function(e){
+                if (e.target.tagName.toUpperCase() == 'SVG') {
+                    hideTooltip();
+                }
+            });
+            $('body').click(function(e){
+                if (e.target.tagName.toUpperCase() == 'BODY') {
+                    hideTooltip();
+                }
+            });
+
+        </script>
+    </body>
+</html>

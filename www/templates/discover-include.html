@@ -1,0 +1,36 @@
+{% assets filters="cssmin", output="gen/discover-vendor.css",
+"../static/css/vendor/bootstrap.min.css",
+"../static/css/vendor/animate.css",
+"../static/leaflet-0.7.3/leaflet.css"
+%}
+<link href="{{ ASSET_URL }}" media="screen" rel="stylesheet" type="text/css" />
+{% endassets %}
+
+{% assets filters="cssmin", output="gen/discover-app.css",
+"../static/css/app/bootstrap-custom.css",
+"../static/css/app/discover.css"
+%}
+<link href="{{ ASSET_URL }}" media="screen" rel="stylesheet" type="text/css" />
+{% endassets %}
+
+
+{% assets filters="rjsmin", output="gen/discover-common.js",
+"../static/js/vendor/jquery-1.9.0.min.js",
+"../static/js/vendor/bootstrap.min.js",
+"../static/js/vendor/topojson.v1.min.js",
+"../static/js/vendor/underscore-min.js",
+"../static/leaflet-0.7.3/leaflet.js",
+"../static/js/vendor/leaflet-easy-button.js",
+"../static/js/app/data/states-cities.js",
+"../static/js/app/data/states-geo-data.js"
+%}
+<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+{% endassets %}
+
+{% assets filters="rjsmin", output="gen/discover.js",
+"../static/js/app/discover-app.js",
+"../static/js/app/NS.js"
+%}
+<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+{% endassets %}
+

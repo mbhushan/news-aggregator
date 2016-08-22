@@ -1,0 +1,41 @@
+<div class="content-container about-container">
+    <div class="about-heading">Contact</div>
+    <hr>
+    <div class="row">
+        <div class="col-md-6 col-xs-12">
+            <div>
+                <address>
+                  <strong>NationStory</strong><br>
+                  T5, Indra Resicency<br>
+                  Virat Nagar, Bommanahalli<br>
+                  Bangalore - 560068<br>
+                  Karnataka
+                </address>
+                <address>
+                  <i class="glyphicon glyphicon-envelope"></i> <strong>General</strong><br/>
+                  <a href="mailto:hello@nationstory.com">hello@nationstory.com</a>
+                </address>
+                <address>
+                  <i class="glyphicon glyphicon-envelope"></i> <strong>Support</strong><br/>
+                  <a href="mailto:support@nationstory.com">support@nationstory.com</a>
+                </address>
+            </div>
+        </div>
+        <div class="col-md-6 col-xs-12 contact-form">
+            <div class="alert alert-{{alertType}} alert-dismissible" role="alert" ng-show="alertMsg">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                {{alertMsg}}
+            </div>
+            <div ng-class="emailError ? 'form-group has-error has-feedback': 'form-group'">
+                <label>Email:</label>
+                <input class="form-control display_name" ng-model="email">
+            </div>
+            <div ng-class="feedbackError ? 'form-group has-error has-feedback': 'form-group'">
+                <label>Message:</label>
+                <textarea ng-model="feedback" maxlength="800" class="form-control" rows="10"></textarea>
+            </div>
+            <button type="button" ng-click="sendFeedback()" class="btn btn-primary" ng-disabled="sendText=='Sending'">{{sendText}}</button>
+        </div>
+
+    </div>
+</div>

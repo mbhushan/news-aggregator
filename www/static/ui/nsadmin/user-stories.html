@@ -1,0 +1,26 @@
+<span ng-show="userStories.busy">Loading..</span>
+<div infinite-scroll="userStories.nextPage()" infinite-scroll-disabled="userStories.busy" infinite-scroll-distance="1">
+    <div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Link</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="item in userStories.items">
+                    <td>{{userStories.getTitle(item)}}</td>
+                    <td><a ng-href="{{userStories.getLink(item)}}">{{userStories.getLink(item)}}</a></td>
+                    <td>{{userStories.getStatus(item)}}</td>
+                    <td>
+                        <button class="btn btn-success btn-sm" ng-disabled="item.status == 0" ng-click="approve($event, item)"><i class="glyphicon glyphicon-ok"></i></button>
+                        <button class="btn btn-danger btn-sm" ng-disabled="item.status == 0" ng-click="disapprove($event, item)"><i class="glyphicon glyphicon-remove"></i></button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

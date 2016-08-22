@@ -1,0 +1,16 @@
+{% assets filters="cssmin", output="gen/login-common.css",
+"../static/css/vendor/bootstrap.min.css",
+"../static/css/app/bootstrap-custom.css",
+"../static/css/app/login.css"
+%}
+<link href="{{ ASSET_URL }}" media="screen" rel="stylesheet" type="text/css" />
+{% endassets %}
+
+{% assets filters="rjsmin", output="gen/login-common.js",
+"../static/js/vendor/jquery-1.9.0.min.js",
+"../static/js/vendor/bootstrap.min.js"
+%}
+<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+{% endassets %}
+
+

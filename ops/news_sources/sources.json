@@ -1,0 +1,72 @@
+[
+    {
+        "name": "IBN Live India",
+        "display_name": "IBN Live",
+        "type": "links",
+        "url": "http://ibnlive.in.com/ibnrss/rss/india/india.xml",
+        "group": "ibn_live"
+    },
+    {
+        "name": "IBN Live Top",
+        "display_name": "IBN Live",
+        "type": "links",
+        "url": "http://ibnlive.in.com/ibnrss/top.xml",
+        "group": "ibn_live"
+    },
+    {
+        "name": "IBN Live South",
+        "display_name": "IBN Live",
+        "type": "links",
+        "url": "http://ibnlive.in.com/ibnrss/rss/ibnsouth/ibnsouth.xml",
+        "group": "ibn_live"
+    },
+    {
+        "name": "NDTV Top News",
+        "display_name": "NDTV",
+        "type": "links",
+        "url": "http://feeds.feedburner.com/NdtvNews-TopStories",
+        "group": "ndtv"
+    },
+    {
+        "name": "NDTV India",
+        "display_name": "NDTV",
+        "type": "links",
+        "url": "http://feeds.feedburner.com/NdtvNews-TopStories",
+        "group": "ndtv"
+    },
+    {
+        "name": "NDTV Latest",
+        "display_name": "NDTV",
+        "type": "links",
+        "url": "http://feeds.feedburner.com/NDTV-LatestNews",
+        "group": "ndtv"
+    },
+    {
+        "name": "Hindustan Times Latest",
+        "display_name": "Hindustan Times",
+        "type": "links",
+        "url": "http://feeds.hindustantimes.com/HT-HomePage-TopStories",
+        "group": "hidustan_times"
+    },
+    {
+        "name": "Hindustan Times India",
+        "display_name": "Hindustan Times",
+        "type": "links",
+        "url": "http://feeds.hindustantimes.com/HT-India",
+        "group": "hidustan_times"
+    },
+    {
+        "name": "Hindustan Times Delhi",
+        "display_name": "Hindustan Times",
+        "type": "links",
+        "url": "http://feeds.hindustantimes.com/HT-New-Delhi",
+        "group": "hidustan_times"
+    },
+    {
+        "name": "Hindustan Times Gurgaon",
+        "display_name": "Hindustan Times",
+        "type": "links",
+        "url": "http://feeds.hindustantimes.com/HT-Gurgaon",
+        "group": "hidustan_times"
+    }
+]

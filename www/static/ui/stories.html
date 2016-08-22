@@ -1,0 +1,56 @@
+<div class="content-container">
+    <div ng-show="tag && !isPinned()" class="pull-left tag-pin-btn">
+        <button class="btn btn-success btn-sm" ng-click="pinTag()">
+            <i class="glyphicon glyphicon-ok"></i> Follow <span class="pin-btn-tag">{{tag | removehypens}}</span>
+        </button>
+    </div>
+    <div class="pull-right story-type">
+        <div class="story-categories-container">
+            <div class="btn-categories-container"><button ng-click="toggleCategories()" class="btn btn-default btn-sm"><i class="glyphicon glyphicon-option-horizontal"></i></button></div>
+            <ul class="nav nav-pills pull-right">
+                <li class="active" role="presentation"><a ng-hide="showCategories" class="selected-category" href="#">{{storyType | removehypens }}</a></li>
+            </ul>
+            <div ng-show="showCategories" class="story-categories pull-right" ng-class="showCategories ? 'animated-fast slideInRightSmall': ''">
+                <ul class="nav nav-pills">
+                    <li role="presentation"><a href="/">Headlines</a></li>
+                    <li role="presentation"><a href="/tag/politics">Politics</a></li>
+                    <li role="presentation"><a href="/tag/sports">Sports</a></li>
+                    <li role="presentation"><a href="/tag/entertainment">Entertainment</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+
+    <div class="story-container" infinite-scroll="stories.nextPage()" infinite-scroll-disabled="stories.busy" infinite-scroll-distance="1">
+        <div class="story row story-post animated fadeIn"  ng-repeat='item in stories.items'>
+            <div ng-show="item.photo" class="col-xs-12 col-md-6 story-photo-container">
+                <div class="img-wrapper">
+                    <span class="photo-helper"></span><img class="story-photo" ng-show="item.photo" ng-src="{{item.photo}}" />
+                </div>
+            </div>
+
+            <div ng-class="{false: 'col-xs-12 col-md-6 story-right', true: 'col-xs-12 col-md-12 story-right'}[!item.photo]">
+                <div>
+                    <div class="story-title"><a target="blank" ng-href="{{item.link}}">{{item.title}}</a></div>
+                    <div class="story-created"><span ng-show="item.source_name">{{item.source_name}} -</span> {{item.published}}</div>
+                    <div class="story-info"></div>
+                    <ul class="list-inline story-actions">
+                        <li><a ng-href="/story/{{item._id}}"><img class="social-icon" src="/static/img/social/comments.png" /></a>
+                            <a target="blank" href="https://www.facebook.com/sharer/sharer.php?u={{stories.getLink(item)}}"><img class="social-icon" src="/static/img/social/facebook.png" /></a>
+                            <a target="blank" href="https://twitter.com/intent/tweet?url={{stories.getLink(item)}}&text={{item.title}}&via=nation_story"><img class="social-icon" src="/static/img/social/twitter.png" /></a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+                <ul class="story-tags" >
+                    <li class="label label-story-tags" ng-repeat="tag in item.tags">
+                        <a class="story-tag" ng-href="/tag/{{tag}}">{{tag | removehypens}}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="pull-center" ng-show='stories.busy'><span us-spinner></span></div>
+    <div class="pull-center" ng-show="!stories.busy && stories.items.length == 0">No story found.</div>
+</div>

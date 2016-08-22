@@ -1,0 +1,256 @@
+html, body, #map {
+    height: 99.5%;
+    width: 100%;
+    margin: auto;
+}
+
+#map .leaflet-top {
+    top: 50px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.loggedin {
+    cursor: pointer;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+
+.legend {
+    text-align: left;
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+a:active, a:clicked {
+    color: #000;
+    background-color:yellow;
+}
+
+.glyphicon-repeat {
+    padding-top: 6px;
+}
+
+/* map story */
+@media (max-width: 992px) {
+    .map-story {
+        width: 90%;
+    }
+
+    .discover-story .story-content {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 992px) {
+    .map-story {
+        width: 35%;
+    }
+
+    .discover-story .story-content {
+        font-size: 18px;
+    }
+
+}
+
+.map-story {
+    position: fixed;
+    background: #fff;
+    height: 100%;
+    top: 0px;
+    right: 0px;
+    opacity: 0.95;
+    z-index: 10000;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.map-story .close {
+    font-size: 35px;
+    margin-top: -6px;
+    opacity: 0.4;
+}
+
+.map-story .close:hover {
+    opacity: 0.7;
+}
+
+.story-photo-container {
+    float: left;
+    padding-right: 5px;
+    width: 20%;
+}
+
+.story-photo {
+    max-height: 90px;
+    width: 100%;
+}
+
+.map-story .topic-container {
+    padding-top: 15px;
+    padding-right: 20px;
+}
+
+.map-story .topic {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.content {
+    text-align: left;
+    overflow-y: auto;
+    height: 99%;
+}
+
+.discover-story {
+    margin-right: 10px;
+    border-top: 1px solid #E8E8E8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.discover-story .story-content {
+    float: left;
+    width: 80%;
+    padding-left: 10px;
+}
+
+.discover-story:last-child {
+    margin-bottom: 50px;
+}
+
+.discover-story .story-created {
+    font-size: 13px;
+}
+
+.story-tags {
+    bottom: 10px;
+    right: 10px;
+    margin-left: 0px;
+    padding-left: 0px;
+    text-align: right;
+    margin-bottom: 0px;
+ }
+
+.story-tags li, .story-detail .story-tags li {
+    margin-left: 4px;
+}
+
+.label-story-tags {
+    background: #eee;
+    font-size: 12px;
+}
+
+.story-tag, .story-tag:hover, .story-tag:visited {
+    color: #424242;
+    text-transform: capitalize;
+}
+
+
+/* end map story */
+
+/* skinchanger */
+/* .skinchanger-control {
+    box-shadow: none;
+}
+.leaflet-bar a.skinchanger-item, .leaflet-bar a.skinchanger-item:hover {
+    margin-left: 6px;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    font-size:35px;
+    padding: 7px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+    border-radius: 4px;
+    color: #555;
+} */
+
+.glyphicon-cloud {
+    top: 4px !important;
+    font-size: 14px;
+}
+
+/* .skinchanger-weather {
+    position: relative;
+    top: -9px;
+}
+
+.skinchanger-control {
+    box-shadow: none;
+} */
+
+.news-icon {
+    height: 16px;
+    matrgin-top:-2px;
+}
+
+/* end skinchanger */
+
+/* animation */
+@keyframes highlighted {
+  0% {
+    background: #fc9a24;
+  }
+  100% {
+    background: beige;
+  }
+}
+
+@-webkit-keyframes highlighted {
+  0% {
+    background: #fc9a24;
+  }
+  100% {
+    background: beige;
+  }
+}
+
+
+.highlighted {
+    animation-name: highlighted;
+    -webkit-animation-name: highlighted;
+    -webkit-animation-duration: 1500ms;
+    animation-duration: 1500ms;
+
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    background: beige;
+}
+
+.story-selected {
+    background: beige;
+}
+/* end */
+
+
+/* weather */
+.weather-date {
+    font-weight: bold;
+    margin-top: 10px;
+    font-size 16px;
+    width: 60px;
+}
+  width: 50px;
+/* end weather*/

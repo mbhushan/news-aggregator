@@ -1,0 +1,28 @@
+<div>
+    <button class="btn btn-primary" ng-click="addNewSource()">Add new</button>
+</div>
+<br/><br/>
+<span ng-show="busy">Loading ...</span>
+<table ng-hide="busy" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Url</th>
+            <th>Thumbnail</th>
+            <th>Description</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="source in videoCards">
+            <td>{{source.name}}</td>
+            <td>{{source.url}}</td>
+            <td>{{source.thumbnail}}</td>
+            <td>{{source.description}}</td>
+            <td style="width:100px;">
+                <button class="btn btn-primary btn-sm" ng-click="editSource($event, source)"><i class="glyphicon glyphicon-edit"></i></button>
+                <button class="btn btn-danger btn-sm" ng-click="removeSource($event, source)"><i class="glyphicon glyphicon-remove"></i></button>
+            </td>
+        </tr>
+    </tbody>
+</table>

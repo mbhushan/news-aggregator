@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>NationStory | Discover. Read. Discuss.</title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/static/img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    {% include 'include.html' %}
+
+    <script>
+        if (!window.NationStory) {
+            window.NationStory = {};
+        }
+
+        NationStory.userSettings = {{ userSettings | tojson | safe }};
+        NationStory.appSettings = {{ appSettings | tojson | safe }};
+
+    </script>
+
+</head>
+<body>
+    <nav class="navbar navbar-fixed-top navbar-ns" role="navigation">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-offset-1 col-md-10">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#home-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="/"><img class="ns-logo" src="/static/img/logo.png"/></a>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="home-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+                                <li><a href="/"><i class="glyphicon glyphicon-home"></i> Home</a></li>
+                                <li><a href="/discover" target="_self"><i class="glyphicon glyphicon-globe"></i> Discover</a></li>
+                            </ul>
+
+                            <ul class="nav navbar-nav navbar-right">
+                                {% if loggedIn %}
+
+                                    <li class="btn-group">
+                                        <a class="loggedin dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                        {% if userSettings.username != '' %} {{userSettings.username}} {% else %} Settings {% endif %}<span class="caret"></span>
+                                        </a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a href="/logout" target="_self">Logout</a></li>
+                                        </ul>
+                                    </li>
+
+                                {% else %}
+                                    <li><a href="/login" target="_self">Login</a></li>
+                                {% endif %}
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </nav>
+    <div class="container-fluid main-content">
+        <div class="row">
+            <div class="col-md-offset-1 col-md-10 content-container">
+                <h3>NationStory Journalistic Writing Contest</h3>
+                <hr/>
+                <b>In an effort to foster quality story telling, NationStory is sponsoring a journalistic writing contest in all major colleges across India.</b><br>
+                <h4>Registration</h4>
+                Register to confirm your participation. <a class="btn btn-danger btn-sm" href="http://www.nationstory.com/login">Register here</a>
+                <br>Fill your profile details for better traction.
+                <h4>Eligibility</h4>
+                You must be enrolled in a participating university.
+                <h4>Guidelines</h4>
+                <ol>
+                    <li>Please choose any topic from Politics, Sports or Movies in India.</li>
+                    <li>Stories can be fact, fiction, prose or poem.</li>
+                    <li>You can write as many articles as you want across categories.</li>
+                    <li>Feel free to use pictures, videos, tweets to enhance your articles - but do give source credit and use copyrighted content with relevant permission.
+Only Single author stories qualify(no co-authored stories).</li>
+                </ol>
+
+                <h4>Awards</h4>
+                <ul>
+                    <li><b>First Prize:</b> Rs. 10,000</li>
+                    <li><b>Second Prize:</b> Rs. 7,000</li>
+                    <li><b>Third Prize:</b> Rs. 3,000</li>
+                </ul>
+                <b>Note:</b>
+                <ul>
+                    <li>Winner’s profile and article would be featured on <a href="http://www.nationstory.com">home page</a>.
+                    <li>Winners will also receive a digital certificate.</li>
+                    <li>Prizes would be disbursed as e-gift cards.</li>
+                </ul>
+                <h4>Important Dates</h4>
+                The contest begins on <b><u>4th May 2015 at 11:00 am IST</u></b> and ends on <b><u>4th June 2015 at 11:00 am IST</u></b>. Social scores would be considered for the duration of contest only.
+                <h4>Judging</h4>
+                Articles would be judged on social traction i.e. likes, comments, shares.
+                <ul>
+                    <li><b>Like:</b> 20 points</li>
+                    <li><b>Comment:</b> 30 points</li>
+                    <li><b>Share:</b> 10 points</li>
+                </ul>
+                <p>Eg. if your article gets 100 likes, 100 comments and is shared 30 times from NationStory, then social score of the article is: <b>20*100 + 30*100 + 10*30 = 5300</b></p>
+                <p>Social score for a user is the sum total of social scores of all the articles he/she has written during contest window.</p>
+                <p><b>Users with highest social score will be selected as winners. Winners will be announced on <u>8th June 2015 at 11 am IST</u>.</b></p>
+
+                <h4>Important Links</h4>
+                <ul>
+                    <li><a href="http://www.nationstory.com">http://www.nationstory.com</a></li>
+                    <li><a href="http://www.nationstory.com/discover">http://www.nationstory.com/discover</a></li>
+                    <li><a href="http://www.nationstory.com/contact">http://www.nationstory.com/contact</a></li>
+                </ul>
+                <br>
+                NationStory reserves the right to investigate possible cheating or tampering before winners are selected.
+                In case of any disputes the decision taken by NationStory will be final. NationStory retains all rights in the
+                NationStory products and services and entry into this Contest will in no case serve to transfer any NationStory
+                intellectual property rights to the Entrant.
+                <br><br>
+            </div>
+        </div>
+    </div>
+    {% include "analytics.html" %}
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="nsadmin">
+    <head>
+        <title>Nation Story | Bringing you news that matters</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {% include 'admin-include.html' %}
+        <script>
+            if (!window.NationStory) {
+                window.NationStory = {};
+            }
+
+            NationStory.userSettings = {{ userSettings | tojson | safe }};
+            NationStory.appSettings = {{ appSettings | tojson | safe }};
+
+            NationStory.messages = [];
+            {%- with messages = get_flashed_messages(with_categories=true) -%}
+                {% if messages %}
+                    {% for category, message in messages %}
+                        NationStory.messages.push({'message': "{{message | safe}}", 'type' : "{{category}}"});
+
+                    {% endfor %}
+                {% endif %}
+            {%- endwith %}
+
+        </script>
+    </head>
+    <body>
+        <base href="/">
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#home-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="/">Nation Story</a>
+                        </div>
+                        <div class="collapse navbar-collapse" id="home-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+                                <li><a target="_self"href="/" target="_self">Home</a></li>
+                                 <li><a target="_self" href="/discover" target="_self">Discover</a></li>
+                            </ul>
+                            <ul class="nav navbar-nav navbar-right">
+                                {% if loggedIn %}
+                                    {% if userSettings.username != '' %}
+                                        <li class="btn-group">
+                                            <a class="loggedin dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                            {{userSettings.username}} <span class="caret"></span>
+                                            </a>
+                                            <ul class="dropdown-menu" role="menu">
+                                                <li><a href="#">Settings</a></li>
+                                                <li class="divider"></li>
+                                                <li><a href="/logout" target="_self">Logout</a></li>
+                                            </ul>
+                                        </li>
+                                    {% endif %}
+                                {% else %}
+                                    <li><a href="/register" target="_self">Register</a></li>
+                                    <li><a href="/login" target="_self">Login</a></li>
+                                {% endif %}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2">
+                    <ul class="nav nav-pills nav-stacked nav-topics">
+                      <li><a ng-href="/nsadmin/sources">News Sources</a></li>
+                      <li><a ng-href="/nsadmin/manage-tags">Manage Tags</a></li>
+                      <li><a ng-href="/nsadmin/xmlupload">XML Upload</a></li>
+                      <li><a ng-href="/nsadmin/video-cards">Video Cards</a></li>
+                      <li><a ng-href="/nsadmin/user-stories">User Stories</a></li>
+                    </ul>
+                </div>
+                <div ng-view class="col-md-10 content-container"></div>
+            </div>
+        </div>
+    </body>
+</html>

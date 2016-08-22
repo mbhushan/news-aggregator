@@ -1,0 +1,39 @@
+<div class="pull-center content-container" ng-show='busy'><span us-spinner></span></div>
+
+<div class="content-container opinion-container" ng-hide='busy'>
+    <div ng-show="errorMsg" class="alert-error-message"><span class="alert alert-danger">{{errorMsg}}</span></div>
+    <div class="col-md-2" ng-hide="busy || errorMsg">
+        <div class="">
+            <div class="thumbnail">
+                <img src="{{user.profile_pic}}">
+                <div class="caption">
+                    <h3><a href="/user/{{user.username}}">{{user.name}}</a></h3>
+                    <p ng-show="user.bio">{{user.bio}}</p>
+                    <p ng-show="user.website"><i class="glyphicon glyphicon-link"></i> <a target="blank" href="{{user.website}}">{{user.website}}</a></p>
+                    <ul class="list-inline">
+                        <li ng-show="user.facebook_profile"><a target="blank" href="{{user.facebook_profile}}"><img class="social-icon" src="/static/img/social/facebook.png" /></a></li>
+                        <li ng-show="user.twitter_profile"><a target="blank" href="{{user.twitter_profile}}"><img class="social-icon" src="/static/img/social/twitter.png" /></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 opinion-item" ng-hide="busy || errorMsg">
+        <div ng-show="story.photo" class="opinion-cover-photo-container text-center"><img class="opinion-cover-photo" ng-src="{{story.photo}}"></div>
+        <div>
+            <div class="opinion-title">{{story.title}}</div>
+            <div>
+                <ul class="list-inline social-bar">
+                    <li><i class="cursor-pointer glyphicon glyphicon-thumbs-up" ng-class="{'recommended': story.has_recommended}" ng-click="recommend(story)"></i> {{story.recommendation}}</li>
+                    <li><span class="fb-share-button" data-href="{{getLink(item._id, 'opinion')}}" data-title="{{story.title}}" data-layout="button_count"></span></li>
+                    <li><a class="twitter-share-button" data-url="{{getLink(item._id, 'opinion')}}" href="https://twitter.com/share" data-via="nation_story" data-text="{{story.title}}" data-count="horizontal">Tweet</a></li>
+                </ul>
+            </div>
+            <div class="opinion-body" ng-bind-html="story.body">{{story.body}}</div>
+        </div>
+    </div>
+    <div class="col-md-4 opinion-comments" ng-hide="busy || errorMsg">
+        <comments-block></comments-block>
+    </div>
+    <div class="clearfix"></div>
+</div>

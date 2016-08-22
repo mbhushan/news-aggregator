@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    {% block head %}
+    <title>Nation Story | Discover. Read. Discuss.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% include 'login-include.html' %}
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+    <script>
+        window.NationStory = {};
+        NationStory.appSettings = {{get_app_settings() | tojson | safe}};
+    </script>
+    {% endblock %}
+</head>
+<body>
+    <nav class="navbar navbar-ns" role="navigation">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-offset-2 col-md-8">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="/">Nation Story</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div id="content">{% block content %}{% endblock %}</div>
+    <div id="footer">
+        {% block footer %}{% endblock %}
+    </div>
+    {% include "analytics.html" %}
+</body>
+</html>

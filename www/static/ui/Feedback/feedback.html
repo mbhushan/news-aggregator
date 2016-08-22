@@ -1,0 +1,23 @@
+<div class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" ng-click="close('Cancel')" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 class="modal-title">Feedback</h3>
+            </div>
+            <div class="modal-body">
+                <div ng-hide="authenticated" ng-class="emailError ? 'form-group has-error has-feedback': 'form-group'">
+                    <label>Email:</label>
+                    <input class="form-control display_name" ng-model="email">
+                </div>
+                <div ng-class="feedbackError ? 'form-group has-error has-feedback': 'form-group'">
+                    <label>Message:</label>
+                    <textarea ng-model="feedback" maxlength="800" class="form-control" rows="10"></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" ng-click="sendFeedback()" class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+    </div>
+</div>

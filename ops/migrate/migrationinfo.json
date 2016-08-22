@@ -1,0 +1,10 @@
+[
+	{
+		"id" : 1,
+		"filename" : "migrations/dummy.py"
+	},
+	{
+		"id" : 2,
+		"filename" : "migrations/feed_sources.py"
+	}
+]

@@ -1,0 +1,22 @@
+<VirtualHost *:80>
+    ServerName nationstory.com
+    ServerAlias www.nationstory.com
+
+    WSGIDaemonProcess website user=ubuntu group=ubuntu processes=2 threads=15
+    WSGIScriptAlias / /etc/apache2/wsgi/ns.wsgi
+    WSGIProcessGroup website
+    WSGIApplicationGroup %{GLOBAL}
+
+    RewriteEngine on
+    RewriteCond %{HTTP_HOST} ^nationstory\.com$ [NC]
+    RewriteRule ^(.*)$ http://www.nationstory.com%{REQUEST_URI} [R=301,L]
+
+    <Directory /home/ubuntu/code/nationstory/www>
+        Require all granted
+    </Directory>
+
+    <Directory /etc/apache2/wsgi>
+        Require all granted
+    </Directory>
+
+</VirtualHost>

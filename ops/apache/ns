@@ -1,0 +1,15 @@
+<VirtualHost *:80>
+    ServerName nationstory.com
+    ServerAlias www.nationstory.com
+
+    WSGIDaemonProcess website user=ns group=ns processes=2 threads=15
+    WSGIScriptAlias / /etc/apache2/wsgi/ns.wsgi
+    WSGIProcessGroup website
+    WSGIApplicationGroup %{GLOBAL}
+
+    <Directory /home/ns/code/nationstory/www>
+        Order deny,allow
+        Allow from all
+    </Directory>
+
+</VirtualHost>

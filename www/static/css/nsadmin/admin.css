@@ -1,0 +1,9 @@
+.center-align {
+    text-align: center;
+}
+
+td {
+    min-width: 100px;
+    word-break: break-all;
+    word-wrap: break-word;
+}

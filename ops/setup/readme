@@ -1,0 +1,14 @@
+1. Add the directory of the project to PYTHONPATH. Append the below line to ~/.bashrc
+export PYTHONPATH=$PYTHONPATH:/home/roshan/Projects/nationstory
+
+2. Install pip from apt
+sudo apt-get install python-pip
+
+3. Install the requirements
+sudo pip install -r requirements.txt
+
+4. Run your server with
+cd www
+python server.py
+
+Point your browser to http://localhost:3000

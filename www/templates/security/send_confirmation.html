@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% extends "security/common.html" %}
+        {% block head %}
+        {{ super() }}
+    {% endblock %}
+    </head>
+    <body>
+        {% block content %}
+        <div class="container-fluid">
+            <div class="login-container">
+                <div class="login-form">
+                    <h3>Resend confirmation instructions</h3>
+                    {% from "security/_macros.html" import render_field_with_errors, render_field,render_field_with_label %}
+                    {% include "security/_messages.html" %}
+                    <form action="{{ url_for_security('send_confirmation') }}" method="POST" name="send_confirmation_form">
+                        {{ send_confirmation_form.hidden_tag() }}
+                        <div class="form-group">
+                            {{ render_field_with_errors(send_confirmation_form.email, class="form-control") }}
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary signup-btn">Resend</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+
+        {% endblock %}
+   </body>
+</html>

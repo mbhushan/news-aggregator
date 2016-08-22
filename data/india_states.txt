@@ -1,0 +1,29 @@
+{"tag": "andhra pradesh", "name": "andhra pradesh"}
+{"tag": "arunachal pradesh", "name": "arunachal pradesh"}
+{"tag": "assam", "name": "assam"}
+{"tag": "bihar", "name": "bihar"}
+{"tag": "chhattisgarh", "name": "chhattisgarh"}
+{"tag": "goa", "name": "goa"}
+{"tag": "gujarat", "name": "gujarat"}
+{"tag": "haryana", "name": "haryana"}
+{"tag": "himachal pradesh", "name": "himachal pradesh"}
+{"tag": "jammu and kashmir", "name": "jammu and kashmir"}
+{"tag": "jharkhand", "name": "jharkhand"}
+{"tag": "karnataka", "name": "karnataka"}
+{"tag": "kerala", "name": "kerala"}
+{"tag": "madhya pradesh", "name": "madhya pradesh"}
+{"tag": "maharashtra", "name": "maharashtra"}
+{"tag": "manipur", "name": "manipur"}
+{"tag": "meghalaya", "name": "meghalaya"}
+{"tag": "mizoram", "name": "mizoram"}
+{"tag": "nagaland", "name": "nagaland"}
+{"tag": "orissa", "name": "orissa"}
+{"tag": "punjab", "name": "punjab"}
+{"tag": "rajasthan", "name": "rajasthan"}
+{"tag": "sikkim", "name": "sikkim"}
+{"tag": "tamil nadu", "name": "tamil nadu"}
+{"tag": "telangana", "name": "telangana"}
+{"tag": "tripura", "name": "tripura"}
+{"tag": "uttar pradesh", "name": "uttar pradesh"}
+{"tag": "uttarakhand", "name": "uttarakhand"}
+{"tag": "west bengal", "name": "west bengal"}

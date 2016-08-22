@@ -1,0 +1,35 @@
+<div>
+    <button class="btn btn-primary" ng-click="addNewSource()">Add new source</button>
+    <button class="btn btn-primary" ng-click="addBulk()">Add bulk</button>
+</div>
+<br/><br/>
+<span ng-show="busy">Loading ...</span>
+<table ng-hide="busy" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name(used by us)</th>
+            <th>Display Name</th>
+            <th>Group</th>
+            <th>Url</th>
+            <th>Source Type</th>
+            <th>Actions</th>
+            <th>Logo</th>
+            <th>Headline</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="source in sources">
+            <td>{{source.name}}</td>
+            <td>{{source.display_name}}</td>
+            <td>{{source.group}}</td>
+            <td>{{source.url}}</td>
+            <td>{{source.source_type}}</td>
+            <td>{{source.logo}}</td>
+            <td>{{source.headline}}</td>
+            <td style="width:100px;">
+                <button class="btn btn-primary btn-sm" ng-click="editSource($event, source)"><i class="glyphicon glyphicon-edit"></i></button>
+                <button class="btn btn-danger btn-sm" ng-click="removeSource($event, source)"><i class="glyphicon glyphicon-remove"></i></button>
+            </td>
+        </tr>
+    </tbody>
+</table>
